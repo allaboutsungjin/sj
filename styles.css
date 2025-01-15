@@ -201,6 +201,10 @@ footer {
     text-align: left;
 }
 
+.ff {
+   font-size: 60px;
+}
+
 .sect5-container {
     display: flex;
     justify-content: flex-end;
@@ -227,6 +231,10 @@ footer {
     margin-left: 20px;
 }
 
+.desc-s5-container ul li span {
+    font-size: 30px;
+
+}
 
 /* Music */
 .music footer {
@@ -574,13 +582,13 @@ footer {
 }
 
 .img-s1-container {
-    padding: 0px 20px 10px;
-    margin-left: 20px;
+    padding: 0px;
+    margin-left: 0px;
 }
 
 .img-s1-container img {
     width: 100%;
-    max-width: 350px;
+    max-width: 500px;
     height: auto;
     border-radius: 4px;
 }
@@ -592,16 +600,18 @@ footer {
 .desc-s1-container h2 {
     margin-bottom: 15px;
     color: black;
+    font-size: 26px;
 }
 
 .desc-s1-container ul li {
      color: #666;
-     font-size: 18px;
+     font-size: 14px;
      line-height: 1.2;
 }
 
 .section-2 p {
     text-align: center;
+    font-size: 14px;
 }
 
 .sm-s2-container {
@@ -617,7 +627,7 @@ footer {
 }
 
 .sm-s2-container img {
-    width: 100px;
+    width: 50px;
     height: auto;
 }
 
@@ -627,6 +637,7 @@ footer {
 
 .s3 p {
     text-align: center;
+    font-size: 14px;
 }
 
 .bang {
@@ -635,16 +646,17 @@ footer {
 }
 
 .s3 img {
-    max-width: 250px;
+    max-width: 150px;
     height: auto;
 }
 
 .s4 {
     text-align: center;
+    font-size: 14px;
 }
 
 .s4 img {
-    max-width: 200px;
+    max-width: 100px;
     height: auto;
     margin: 5px 0px;
 }
@@ -655,6 +667,11 @@ footer {
 
 .s4 li {
     text-align: left;
+    margin-left: 10px;
+}
+
+.ff {
+    font-size: 30px;
 }
 
 .sect5-container {
@@ -666,7 +683,7 @@ footer {
 }
 
 .img-s5-container {
-    padding: 0px 20px 10px;
+    padding: 0px;
 }
 
 .img-s5-container img {
@@ -677,16 +694,30 @@ footer {
 }
 
 .desc-s5-container {
-    padding: 40px 80px 0px 40px;
-    font-size: 24px;
+    padding: 5px 10px 0px 5px;
+    font-size: 14px;
     text-align: justify;
     margin-left: 20px;
+}
+
+.desc-s5-container ul li span{
+    font-size: 18px;
 }
 
 
 /* Music */
 .music footer {
     font-size: 0px;
+}
+
+.atitle {
+    font-weight: bold;
+    font-size: 14px;
+    margin: 5px;
+}
+
+.adate {
+    font-size: 12px;
 }
 
 /* Tab Navigation */
@@ -697,12 +728,12 @@ footer {
 .tabs button {
     background: white;
     color: black;
-    padding: 10px 20px;
+    padding: 5px 5px;
     border: none;
-    font-size: 16px;
+    font-size: 14px;
     transition: background 0.2s ease;
     border-radius: 5px 5px 0 0;
-    margin-right: 10px;
+    margin-right: 5px;
 }
 
 .tabs button:hover {
@@ -718,7 +749,7 @@ footer {
 /* Tab Content */
 .tab-content {
     display: none;
-    margin-top: 20px;
+    margin-top: 10px;
     opacity: 0;
     transition: opacity 0.3s ease;
 }
@@ -728,26 +759,20 @@ footer {
      opacity: 1;
 }
 
-.atitle {
-    font-weight: bold;
-    font-size: 20px;
-    margin: 5px;
-}
-
 .grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 10px;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px;
     margin-top: 20px;
     justify-content: flex-start;
     list-style: none;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .grid img {
-    width: 200px;
+    width: 150px;
     height: auto;
     border-radius: 5px;
 }
@@ -762,7 +787,7 @@ ul.grid li {
 }
 
 .al-con img {
-    width: 30px;
+    width: 20px;
     height: auto;
     padding: 5px 10px 5px 0px;
 }
@@ -778,7 +803,6 @@ ul.grid li {
 /* Video */
 .video footer {
     font-size: 0px;
-
 }
 
 .vdescrip {
@@ -793,20 +817,21 @@ ul.grid li {
 .vtitle {
     font-weight: bold;
     margin-top: 5px;
+    font-size: 14px;
 }
 
 .vdesc {
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .vguest {
     font-style: italic;
-    font-size: 14px;
+    font-size: 12px;
 }
 
 /* Tag Cloud */
 .tc {
-    font-size: 20px;
+    font-size: 16px;
     text-align: center;
 }
 
@@ -816,9 +841,8 @@ ul.grid li {
     display: inline-block;
     border-radius: 4px;
     text-align: center;
-    margin-top: 10px;
-    margin-bottom: 10px;
-
+    margin-top: 5px;
+    margin-bottom: 0px;
 }
 
 .tc span.active {
@@ -832,7 +856,7 @@ ul.grid li {
 }
 
 .grid .tc {
-    font-size: 12px;
+    font-size: 10px;
 }
 
 .grid .tc span:hover {
@@ -845,7 +869,7 @@ ul.grid li {
 }
 
 .calendar-container {
-    margin: 20px auto;
+    margin: 5px auto;
     width: 90%;
 }
 
@@ -856,19 +880,19 @@ ul.grid li {
     color: black;
     padding: 10px;
     border-radius: 5px 5px 0 0;
-    font-size: 25px
+    font-size: 16px;
 }
 
 .calendar-header button {
     background-color: #333;
     color: white;
-    padding: 5px 15px;
+    padding: 5px 10px;
     border: none;
     border-radius: 5px;
     transition: background 0.3s ease;
-    width: 50px;
-    height: 40px;
-    font-size: 20px;
+    width: 25px;
+    height: 20px;
+    font-size: 12px;
     font-weight: bold;
 }
 
@@ -877,7 +901,7 @@ ul.grid li {
 }
 
 .calendar-month {
-    font-size: 1.5em;
+    font-size: 16px;
     font-weight: bold;
 }
 
@@ -888,7 +912,7 @@ ul.grid li {
 }
 
 .calendar-table th, .calendar-table td {
-    padding: 15px;
+    padding: 2px;
     text-align: center;
     border: 1px solid #ddd;
     vertical-align: top;
@@ -897,12 +921,15 @@ ul.grid li {
 .calendar-table th {
     background-color: #333;
     color: white;
+    font-size: 12px;
 }
 
 .calendar-table td {
     background-color: #f9f9f9;
     transition: background 0.3s ease;
-    width: 14%;
+    width: 4%;
+    height: 100%;
+    font-size: 10px;
 }
 
 .calendar-table .today {
@@ -922,7 +949,7 @@ ul.grid li {
     padding: 3px;
     margin-top: 5px;
     border-radius: 3px;
-    font-size: 0.9em;
+    font-size: 9px;
     color: white;
 }
 
@@ -931,5 +958,8 @@ ul.grid li {
     cursor: not-allowed;
 }
 
+.event-list ul li {
+    font-size: 11px;
+}
 
 }
