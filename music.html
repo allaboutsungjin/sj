@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music | All About SUNGJIN</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="music">
+<div class="content">
+    <header>
+	<a href="home.html">
+	<img id="logo" class="logo" src="logo.png"></a>
+	<nav>
+	    <a href="about.html">About</a>
+	    <a href="music.html" class="active">Music</a>
+    	    <a href="video.html">Video</a>
+	    <a href="schedule.html">Schedule</a>
+	</nav>
+</header>
+
+
+<div>
+<!-- Tab Navigation -->
+        <div class="tabs">
+            <button class="tab-button active" data-tab="solo">Solo</button>
+            <button class="tab-button" data-tab="group">Group</button>
+        </div>
+
+        <!-- Tab Content -->
+        <div class="tab-content active" id="solo">
+	    	<div class="tc">
+		<span>All</span>
+		<span>Korean</span>
+		<span>Album</span>
+		</div>
+
+    <ul class="grid" id="solo-grid"></ul>
+        </div>
+
+        <div class="tab-content" id="group">
+	    	<div class="tc">
+		<span>All</span>
+		<span>Korean</span>
+		<span>Japanese</span>
+		<span>Chinese</span>
+		<span>English</span>
+		<span>Album</span>
+		<span>EP</span>
+		<span>Single</span>
+		</div>
+
+    <ul class="grid" id="group-grid"></ul>
+        </div>
+</div>
+</div>
+<footer>
+    <p>&copy; 2025 All About SUNGJIN. All rights reserved.</p>
+</footer>
+
+    <script src="app.js"></script>
+    <script src="musicdata.js"></script>
+    
+</body>
+</html>

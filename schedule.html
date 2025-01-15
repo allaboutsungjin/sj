@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schedule | All About SUNGJIN</title>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+<body class="schedule">
+    <header>
+	<a href="home.html">
+	<img id="logo" class="logo" src="logo.png"></a>
+	<nav>
+	    <a href="about.html">About</a>
+	    <a href="music.html">Music</a>
+    	    <a href="video.html">Video</a>
+	    <a href="schedule.html" class="active">Schedule</a>
+	</nav>
+</header>
+
+<div class="calendar-container">
+    <div class="calendar-header">
+        <button id="prev-month" disabled><</button>
+        <div class="calendar-month" id="calendar-month"></div>
+        <button id="next-month">></button>
+    </div>
+
+    <table class="calendar-table" id="calendar-table">
+        <thead>
+            <tr>
+                <th>Sun</th>
+                <th>Mon</th>
+                <th>Tue</th>
+                <th>Wed</th>
+                <th>Thu</th>
+                <th>Fri</th>
+                <th>Sat</th>
+            </tr>
+        </thead>
+        <tbody id="calendar-body">
+            <!-- Calendar days will be dynamically inserted here -->
+        </tbody>
+    </table>
+<div id="event-list" class="event-list">
+	<br><br>
+        <h3>Events This Month</h3>
+	<br><br>
+        <ul id="event-items"></ul>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2025 All About SUNGJIN. All rights reserved.</p>
+</footer>
+    <script src="app.js"></script> 
+</body>
+</html>
