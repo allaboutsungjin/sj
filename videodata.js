@@ -13443,6 +13443,18 @@ const othersData = [
     tags: ["YouTube Program", "Magazine"]
   },
   {
+    url: "https://www.youtube.com/shorts/xDUzDNUpBPI",
+    img: "https://img.youtube.com/vi/xDUzDNUpBPI/0.jpg",
+    title: `ARENA X CROCS | #데이식스`,
+    tags: ["Shorts", "YouTube Program", "Magazine", "Ads"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/qYmjAn5WLp0",
+    img: "https://img.youtube.com/vi/qYmjAn5WLp0/0.jpg",
+    title: `데이식스의 청춘 | ARENA X CROCS`,
+    tags: ["Shorts", "YouTube Program", "Magazine", "Ads"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=lNNL8C6A2eA",
     img: "https://img.youtube.com/vi/lNNL8C6A2eA/0.jpg",
     title: `[ENG] 카톡에서 DAY6 팬미팅이 열렸다고?! 돌려받을 챌린지도 없는데 My Day를 위해 챌린지 차력쇼 하고간 DAY6🍀ㅣ팬톡회 EP.1ㅣDAY6`,
