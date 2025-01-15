@@ -9,13 +9,13 @@
 </head>
 <body class="schedule">
     <header>
-	<a href="index.html">
+	<a href="home">
 	<img id="logo" class="logo" src="logo.png"></a>
 	<nav>
-	    <a href="about.html">About</a>
-	    <a href="music.html">Music</a>
-    	    <a href="video.html">Video</a>
-	    <a href="schedule.html" class="active">Schedule</a>
+	    <a href="about">About</a>
+	    <a href="music">Music</a>
+    	    <a href="video">Video</a>
+	    <a href="schedule" class="active">Schedule</a>
 	</nav>
 </header>
 
