@@ -466,6 +466,22 @@ const musicGroup = [
     }
 ];
 
+const musicOthers = [
+    {
+        img: "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ce/d2/03/ced2033b-01df-a26d-14c0-76b536e7abfd/cover-_UP10TION.jpg/316x316bb.webp",
+        title: "Up10tion - Stuck on You",
+        date: "November 21, 2016",
+        links: [
+            { url: "https://open.spotify.com/track/3FTgytpbApHZMiv4kdckoF?si=dab25404ac1243d9", icon: "Spotify.png", alt: "Spotify" },
+            { url: "https://music.apple.com/us/album/stuck-on-you/1178514856", icon: "AM.svg", alt: "Apple Music" },
+            { url: "https://music.youtube.com/watch?v=-y-h0DU3cA4&si=m-amRMg9YigOfvhY", icon: "YM.svg", alt: "YouTube Music" },
+            { url: "https://www.melon.com/song/detail.htm?songId=30105588", icon: "Melon.png", alt: "Melon" }
+        ],
+	tags: ["Korean"]
+    }
+];
+
+
 
 // Render Function
 function renderMusic(data, id) {
@@ -499,6 +515,7 @@ function renderMusic(data, id) {
 // Call the render function
 renderMusic(musicSolo, "solo-grid");
 renderMusic(musicGroup, "group-grid");
+renderMusic(musicOthers, "others-grid");
 
 function filterMusic(data, id, filterTag) {
     const filteredData = filterTag === "All" ? data : data.filter(album => album.tags.includes(filterTag));
@@ -515,6 +532,8 @@ document.querySelectorAll('.tc span').forEach(span => {
             filterMusic(musicSolo, "solo-grid", filterTag);
         } else if (parentTab === "group") {
             filterMusic(musicGroup, "group-grid", filterTag);
+        } else if (parentTab === "others") {
+            filterMusic(musicOthers, "others-grid", filterTag);
         }
 
         // Highlight active tag
