@@ -10,13 +10,13 @@
 <body class="video">
 <div class="content">
     <header>
-	<a href="index.html">
+	<a href="home">
 	<img id="logo" class="logo" src="logo.png"></a>
 	<nav>
-	    <a href="about.html">About</a>
-	    <a href="music.html">Music</a>
-    	    <a href="video.html" class="active">Video</a>
-	    <a href="schedule.html">Schedule</a>
+	    <a href="about">About</a>
+	    <a href="music">Music</a>
+    	    <a href="video" class="active">Video</a>
+	    <a href="schedule">Schedule</a>
 	</nav>
 </header>
 
