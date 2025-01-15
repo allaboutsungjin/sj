@@ -149,7 +149,7 @@ function generateCalendar(month, year) {
                 // Highlight SUNGJIN'S birthday similar to today
                 if ((month === 0 && dayCount === 16)) {
                     cell.classList.add('birthday');
-                    cell.innerHTML = `Today<br><br>${dayCount}<br><br>`;
+                    cell.innerHTML = `${dayCount}<br><br>`;
                     const eventInfo = document.createElement('div');
                     eventInfo.classList.add('event-info');
                     eventInfo.textContent = events[dayString];
