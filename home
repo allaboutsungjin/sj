@@ -8,13 +8,13 @@
 </head>
 <body class="home">
     <header>
-	<a href="index.html" class="active">
+	<a href="home" class="active">
 	<img id="logo" class="logo" src="logo.png"></a>
 	<nav>
-	    <a href="about.html">About</a>
-	    <a href="music.html">Music</a>
-    	    <a href="video.html">Video</a>
-	    <a href="schedule.html">Schedule</a>
+	    <a href="about">About</a>
+	    <a href="music">Music</a>
+    	    <a href="video">Video</a>
+	    <a href="schedule">Schedule</a>
 	</nav>
 </header>
 
