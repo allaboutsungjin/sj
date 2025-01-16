@@ -5117,6 +5117,12 @@ const othersData = [
     tags: ["Cover", "Radio"]
   },
   {
+    url: "https://www.instagram.com/p/BApEfjZG4yo",
+    img: "img/160117ktr.jpg",
+    title: `DAY6 @ KISSTHERADIO INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
     url: "https://vlivearchive.com/post/0-18263805",
     img: "https://thumbs.vlivearchive.com/5107.jpg",
     title: `DAY6 공연 전 대기실!`,
