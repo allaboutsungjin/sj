@@ -554,18 +554,18 @@ const psj2yaData = [
   { 
     url: "https://www.youtube.com/watch?v=YArIYhnxqXo",
     img: "https://img.youtube.com/vi/YArIYhnxqXo/0.jpg",
-    title: "Park SungJJIN S2 EP.37",
-    desc: "It’s back 👑 The rage game👾 TOP 10 as a wiggling worm—can he make it?",
-    guest: "Guest: -",
-    tags: ["Season 2"]
-    },
-  { 
-    url: "https://www.youtube.com/watch?v=xyhyiYz0MpU",
-    img: "https://img.youtube.com/vi/xyhyiYz0MpU/0.jpg",
     title: "Park SungJJIN S2 EP.36",
     desc: "Ultimate Convenience Store Food Combos! 🥞 Mukbang King? Come and See! 🍜",
     guest: "Guest: -",
     tags: ["Season 2", "Food"]
+    },
+  { 
+    url: "https://www.youtube.com/watch?v=xyhyiYz0MpU",
+    img: "https://img.youtube.com/vi/xyhyiYz0MpU/0.jpg",
+    title: "Park SungJJIN S2 EP.37",
+    desc: "It’s back 👑 The rage game👾 TOP 10 as a wiggling worm—can he make it?",
+    guest: "Guest: -",
+    tags: ["Season 2"]
     },
   { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
