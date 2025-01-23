@@ -101,6 +101,7 @@ const events = {
     '2025-03-29': 'Forever Young - Daegu',
     '2025-03-30': 'Forever Young - Daegu',
     '2025-04-06': 'Forever Young - Sydney',
+    '2025-04-07': 'Forever Young - Sydney',
     '2025-04-09': 'Forever Young - Melbourne',
     '2025-04-12': 'Forever Young - Auckland',
     '2025-04-16': 'Forever Young - Los Angeles',
