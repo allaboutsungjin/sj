@@ -568,6 +568,24 @@ const psj2yaData = [
     tags: ["Season 2"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=pF6r88YuaG4",
+    img: "https://img.youtube.com/vi/pF6r88YuaG4/0.jpg",
+    title: "[미공개] 무물보💬 1탄 I 도운이 되고 싶은 데장",
+    tags: ["Season 2", "QnA"]
+    },
+  { 
+    url: "https://www.youtube.com/watch?v=d-hC_CA9lnI",
+    img: "https://img.youtube.com/vi/d-hC_CA9lnI/0.jpg",
+    title: "[미공개] 무물보💬 2탄 I 데쪽이들 중에 골라 😉",
+    tags: ["Season 2", "QnA"]
+    },
+  { 
+    url: "https://www.youtube.com/watch?v=lx0esz5-B4I",
+    img: "https://img.youtube.com/vi/lx0esz5-B4I/0.jpg",
+    title: "[미공개] 무물보💬 3탄 I 대왕 FFFF 맞아요❓",
+    tags: ["Season 2", "QnA"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
@@ -1065,7 +1083,12 @@ const psj2yaData = [
     title: "피쉬 타코··· 넌 감동이었어🥹",
     tags: ["Season 2", "Shorts", "Food"]
     },
-
+  { 
+    url: "https://www.youtube.com/shorts/hF_zIILtXrE",
+    img: "https://img.youtube.com/vi/hF_zIILtXrE/0.jpg",
+    title: "찐빵이들! 떡국 2025그릇 먹고 복받으세요 🙇",
+    tags: ["Season 2", "Shorts", "Greetings"]
+    },
 ];
 
 const stazData = [
@@ -4798,6 +4821,18 @@ const groupvData = [
     img: "https://img.youtube.com/vi/X7OL08QaT8o/0.jpg",
     title: `[Exclusive] DAY6 NEWS I 2024 The Present VCR (12.20-21)`,
     tags: ["VCR"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=Ea7IOpJtsXo",
+    img: "https://img.youtube.com/vi/Ea7IOpJtsXo/0.jpg",
+    title: `Binge Before Season 3 📺 DAY6 《Healing Trip Is an Excuse 1 & 2》 ⭐ Full Watch ⭐`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=UhB-CLKQz6Y",
+    img: "https://img.youtube.com/vi/UhB-CLKQz6Y/0.jpg",
+    title: `2025 새해 릴레이 메시지 🎊 from DAY6`,
+    tags: ["Message"]
   },
 ]
 
