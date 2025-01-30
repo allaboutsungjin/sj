@@ -13953,6 +13953,12 @@ const othersData = [
     title: `[가요대제전 #최애직캠] DAY6 SUNGJIN (데이식스 성진) – HAPPY + Welcome to the Show | Gayo Daejejeon 2024 | MBC250130`,
     tags: ["Music Festival", "Fancam"]
   },
+  {
+    url: "https://weibo.com/tv/show/1034:5126285719175170",
+    img: "img/wb.png",
+    title: `MY DAY~ 难忘的2024年！感谢大家相伴！`,
+    tags: ["Weibo"]
+  },
 ]
 
 function createVideoList(videos, containerId) {
