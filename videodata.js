@@ -13935,6 +13935,24 @@ const othersData = [
     title: "Artists you want for K-Music festival.zip 📂 K-POP & Rock Festival Special Compilation",
     tags: ["Music Show"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=kB-cuKROpDg",
+    img: "https://img.youtube.com/vi/kB-cuKROpDg/0.jpg",
+    title: "[2024 MBC 가요대제전] 데이식스 - 해피 + 웰컴 투 더 쇼 (DAY6 - HAPPY + Welcome to the Show), MBC 250130 방송",
+    tags: ["Music Festival"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=fcAB5tlLW-M",
+    img: "https://img.youtube.com/vi/fcAB5tlLW-M/0.jpg",
+    title: `[가요대제전] 데이식스 – HAPPY + Welcome to the Show (DAY6 Fullcam) | Gayo Daejejeon 2024 | MBC250130`,
+    tags: ["Music Festival", "Fancam"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=MIU8ezfTG4o",
+    img: "https://img.youtube.com/vi/MIU8ezfTG4o/0.jpg",
+    title: `[가요대제전 #최애직캠] DAY6 SUNGJIN (데이식스 성진) – HAPPY + Welcome to the Show | Gayo Daejejeon 2024 | MBC250130`,
+    tags: ["Music Festival", "Fancam"]
+  },
 ]
 
 function createVideoList(videos, containerId) {
