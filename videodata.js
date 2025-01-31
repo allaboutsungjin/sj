@@ -9390,6 +9390,12 @@ const othersData = [
     tags: ["Magazine"]
   },
   {
+    url: "https://www.instagram.com/p/Buai2loBuJS/",
+    img: "img/190228.jpg",
+    title: `DAY6 @ DAY6KILOGRAM INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=6K1UB98k5I0",
     img: "https://img.youtube.com/vi/6K1UB98k5I0/0.jpg",
     title: `[DAY6 - days gone by] KPOP TV Show | M COUNTDOWN 190103 EP.600`,
