@@ -13959,6 +13959,12 @@ const othersData = [
     title: `MY DAY~ 难忘的2024年！感谢大家相伴！`,
     tags: ["Weibo"]
   },
+  {
+    url: "https://x.com/i/status/1885116535179563140",
+    img: "https://pbs.twimg.com/ext_tw_video_thumb/1883886180661669888/pu/img/eMBdWM14XkujVqpX.jpg",
+    title: `💎2024MBC가요대제전X포토이즘📷`,
+    tags: ["X"]
+  },
 ]
 
 function createVideoList(videos, containerId) {
