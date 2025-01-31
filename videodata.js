@@ -12279,6 +12279,12 @@ const othersData = [
     tags: ["Music Program"]
   },
   {
+    url: "https://www.youtube.com/shorts/d2_OrhpPrGk",
+    img: "https://img.youtube.com/vi/d2_OrhpPrGk/0.jpg",
+    title: `원필: 오 생각보다 잘 추네? / 성진: 오...`,
+    tags: ["Shorts", "Music Program"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=q5eZAcv18gw",
     img: "https://img.youtube.com/vi/q5eZAcv18gw/0.jpg",
     title: `DAY6 Cover their favorite songs｜HUP Karaoke`,
