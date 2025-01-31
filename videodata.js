@@ -4834,6 +4834,12 @@ const groupvData = [
     title: `2025 새해 릴레이 메시지 🎊 from DAY6`,
     tags: ["Message"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=4OFJRtQjfWw",
+    img: "https://img.youtube.com/vi/4OFJRtQjfWw/0.jpg",
+    title: `DAY6 ❄ Winter Vacation Trip ⛄ | "Healing Trip Is an Excuse 3" Teaser`,
+    tags: ["Variety"]
+  },
 ]
 
 
