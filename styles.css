@@ -400,7 +400,10 @@ ul.grid li {
     font-size: 8px;
     position: relative;
     bottom: 0;
+}
 
+.video header {
+    margin-right: -16px;
 }
 
 .vdescrip {
@@ -465,6 +468,10 @@ ul.grid li {
 .schedule footer {
     text-align: right;
     font-size: 8px;
+}
+
+.schedule header {
+    margin-right: -16px;
 }
 
 .calendar-container {
