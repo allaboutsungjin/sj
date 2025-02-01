@@ -549,10 +549,12 @@ header nav {
 
 #hamburger-icon {
     display: block;
+    margin-right: -10px;
 }
 
 .logo {
     height: 35px;
+    margin-left: -20px;
 }
 
 /* Footer */
