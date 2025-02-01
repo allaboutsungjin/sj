@@ -286,6 +286,18 @@ footer {
 
 }
 
+.fancam {
+    font-size: 20px;
+}
+
+.cr {
+    font-size: 14px;
+}
+
+.s6, .s7, .s8, .s9, .s10 {
+    text-align: center;
+}
+
 /* Music */
 .music footer {
     text-align: right;
@@ -734,6 +746,18 @@ footer {
 
 .desc-s5-container ul li span{
     font-size: 18px;
+}
+
+.fancam {
+    font-size: 12px;
+}
+
+.cr {
+    font-size: 10px;
+}
+    
+.s6, .s7, .s8, .s9, .s10 {
+    font-size: 14px;
 }
 
 
