@@ -12111,6 +12111,30 @@ const othersData = [
     tags: ["YouTube Program"]
   },
   {
+    url: "https://www.youtube.com/shorts/v_ndjWi7BCU",
+    img: "https://img.youtube.com/vi/v_ndjWi7BCU/0.jpg",
+    title: `MBTI별 연락처 저장 방법2 #데이식스 #주우재`,
+    tags: ["Shorts", "YouTube Program"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/5ZE71YE8qtQ",
+    img: "https://img.youtube.com/vi/5ZE71YE8qtQ/0.jpg",
+    title: `이런 내향인도 있습니다`,
+    tags: ["Shorts", "YouTube Program"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/7tBQFiArHyI",
+    img: "https://img.youtube.com/vi/7tBQFiArHyI/0.jpg",
+    title: `예뻤어, 한페될 추천하고 본인들은 딴 거 들음`,
+    tags: ["Shorts", "YouTube Program"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/RqeDJ96zfUA",
+    img: "https://img.youtube.com/vi/RqeDJ96zfUA/0.jpg",
+    title: `페스티벌에서 들으면 미치는 곡 | DAY6(데이식스) 밴드라이브`,
+    tags: ["Shorts", "YouTube Program"]
+  },
+  {
     url: "https://www.youtube.com/shorts/ws8f0oFU0Sc",
     img: "https://img.youtube.com/vi/ws8f0oFU0Sc/0.jpg",
     title: `믿보듣 DAY6 때문에 반드시 웃는다 #shorts #playlist #live`,
