@@ -12585,6 +12585,48 @@ const othersData = [
     tags: ["Music Awards", "Behind"]
   },
   {
+    url: "https://www.youtube.com/watch?v=9b7x7W-fBpw&t=222s",
+    img: "https://img.youtube.com/vi/9b7x7W-fBpw/0.jpg",
+    title: `이틀간 황홀했다😍 2024 서경대 대동제 아티스트 축하 공연 모음.zip📁 | #화사 #프로미스나인 #다이나믹듀오 #헤이즈 #데이식스 #서경대학교 #대동제`,
+    tags: ["University Festival"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/iUGBGtgWo84",
+    img: "https://img.youtube.com/vi/iUGBGtgWo84/0.jpg",
+    title: `Love me or Leave me 역주행 기원 1일차🙏 240510 데이식스 | 서경대학교 대동제 #데이식스 #서경대학교 #직캠 #shorts #영케이 #성진 #도운 #원필`,
+    tags: ["Shorts", "University Festival"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/v4B9JwXw6kw",
+    img: "https://img.youtube.com/vi/v4B9JwXw6kw/0.jpg",
+    title: `Best Part 하이라이트🌟 240510 데이식스 | 서경대학교 대동제 #데이식스 #서경대학교 #직캠 #shorts #영케이 #성진 #도운 #원필`,
+    tags: ["Shorts", "University Festival"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/cNAXduVpEDs",
+    img: "https://img.youtube.com/vi/cNAXduVpEDs/0.jpg",
+    title: `welcome to the show!!!!!! #원필 #성진 #영케이 #도운 #데이식스`,
+    tags: ["Shorts", "University Festival"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/a2-k_c9GdD8",
+    img: "https://img.youtube.com/vi/a2-k_c9GdD8/0.jpg",
+    title: `예뻤어 무반주로 팬들이랑 같이 부르는 데이식스 #데이식스 #예뻤어`,
+    tags: ["Shorts", "University Festival"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/CAxRWdrXlQI",
+    img: "https://img.youtube.com/vi/CAxRWdrXlQI/0.jpg",
+    title: `🔥이게 축제다🔥 (ft. 서경대 행복하자) 240510 데이식스 | 서경대학교 대동제 #데이식스 #서경대학교 #직캠 #shorts #영케이 #성진 #도운 #원필`,
+    tags: ["Shorts", "University Festival"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/522t-xIEXPY",
+    img: "https://img.youtube.com/vi/522t-xIEXPY/0.jpg",
+    title: `너네가 내 청춘이야 #데이식스 #원필 #영케이 #도운 #성진 #서경대학교 데이식스`,
+    tags: ["Shorts", "University Festival"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=UL1dMeePLNY",
     img: "https://img.youtube.com/vi/UL1dMeePLNY/0.jpg",
     title: `[4k] 240521 DAY6 데이식스 Full Ver. 직캠 @건국대학교 축제 녹색지대`,
