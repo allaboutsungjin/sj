@@ -1,40 +1,7 @@
-// Load header and footer
-function loadComponent(id, file) {
-    fetch(file)
-        .then(response => response.text())
-        .then(data => {
-            document.getElementById(id).innerHTML = data;
-        });
+// Toggle menu for mobile
+function toggleMobileMenu(menu) {
+    menu.classList.toggle('open');
 }
-
-window.onload = () => {
-    loadComponent("header", "./header.html");
-    loadComponent("footer", "./footer.html");
-};
-
-// Tab
-//const tabButtons = document.querySelectorAll('.tab-button');
-//const tabContents = document.querySelectorAll('.tab-content');
-
-//tabButtons.forEach(button => {
- //   button.addEventListener('click', () => {
-   //     const tab = button.getAttribute('data-tab');
-        
-        // Remove active class from all buttons
-     //   tabButtons.forEach(btn => btn.classList.remove('active'));
-        
-        // Add active class to clicked button
-     //   button.classList.add('active');
-        
-        // Hide all tab contents
-       // tabContents.forEach(content => content.classList.remove('active'));
-        
-        // Show the clicked tab content
-      //  document.getElementById(tab).classList.add('active');
-
-//    });
-//});
-
 
 const tabButtons = document.querySelectorAll('.tab-button');
 const tabContents = document.querySelectorAll('.tab-content');
