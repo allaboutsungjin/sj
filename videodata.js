@@ -5198,6 +5198,12 @@ const othersData = [
     tags: ["Cover", "Radio"]
   },
   {
+    url: "https://www.youtube.com/watch?v=oap1qIC5hyY",
+    img: "https://img.youtube.com/vi/oap1qIC5hyY/0.jpg",
+    title: `본선 진출자 축하 영상 - DAY6`,
+    tags: ["Behind"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=ErT3RtbZ7PI",
     img: "https://img.youtube.com/vi/ErT3RtbZ7PI/0.jpg",
     title: `설특집 BGM! DAY6 도운, 원필, 성진의 플레이리스트 대방출! / 160208[슈퍼주니어의 키스 더 라디오]`,
@@ -7550,8 +7556,8 @@ const othersData = [
     tags: ["Vlive"]
   },
   {
-    url: "https://miaopai.video.weibocdn.com/SaRjdYpolx07dqFUfRWU01040200pmQV0E013?media_id=4f8f82c3a02cbd7a813f00ce419e6930&tp=:2vpjVEncAucxkCZXXw&us=0&ori=1&bf=2&ot=h&lp=000027AdCf&ps=mZ6WB&uid=22OHBD&ab=&Expires=1736280521&ssig=mB4GP0VIch&KID=unistore,video",
-    img: "https://imgaliyuncdn.miaopai.com/images/yjYah-wkug7SmjQleH6cRgTeHPOozCkwROOvMg___pd70_4.jpg",
+    url: "https://weibo.com/3849658397/Fh2xqcghy",
+    img: "img/gbqq.jpg",
     title: `《告白气球》练习室中文版`,
     tags: ["Behind"]
   },
@@ -7564,6 +7570,12 @@ const othersData = [
   {
     url: "https://www.youtube.com/watch?v=l9tacLmydOQ",
     img: "https://img.youtube.com/vi/l9tacLmydOQ/0.jpg",
+    title: `DAY6 - Congratulations 中文版練習室`,
+    tags: ["Behind"]
+  },
+  {
+    url: "https://web.gorealra.sbs.co.kr/player.html?e=P0000001902&v=V0000352536",
+    img: "http://img2.sbs.co.kr/sbs_img/2018/10/22/1400.png",
     title: `170816 (화) 이국주의영스 - 니가 밉다 (김호영, 데이식스- 성진) + 남의 사랑이야기`,
     tags: ["Radio"]
   },
@@ -7578,12 +7590,6 @@ const othersData = [
     img: "https://img.youtube.com/vi/e_Q0yndhQko/0.jpg",
     title: `[Simply K-Pop] DAY6(데이식스) _ I Smile(반드시 웃는다) _ Ep.278 _ 081817`,
     tags: ["Music Show"]
-  },
-  {
-    url: "https://web.gorealra.sbs.co.kr/player.html?e=P0000001902&v=V0000352536",
-    img: "http://img2.sbs.co.kr/sbs_img/2018/10/22/1400.png",
-    title: `DAY6 - Congratulations 中文版練習室`,
-    tags: ["Behind"]
   },
   {
     url: "https://www.facebook.com/studioj.live/videos/495099867507883/",
