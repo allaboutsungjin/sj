@@ -586,6 +586,14 @@ const psj2yaData = [
     tags: ["Season 2", "QnA"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=UABjGXCT_2A",
+    img: "https://img.youtube.com/vi/UABjGXCT_2A/0.jpg",
+    title: "Park SungJJIN S2 EP.38",
+    desc: `Let’s Read the Book with Dejang, ＜the Prince of the Comic Book Store＞ 📚💥`,
+    guest: "Guest: -",
+    tags: ["Season 2"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
@@ -14049,6 +14057,7 @@ const othersData = [
     title: `💎2024MBC가요대제전X포토이즘📷`,
     tags: ["X"]
   },
+
 ]
 
 function createVideoList(videos, containerId) {
