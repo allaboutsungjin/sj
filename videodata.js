@@ -4848,13 +4848,16 @@ const groupvData = [
     title: `DAY6 ❄ Winter Vacation Trip ⛄ | "Healing Trip Is an Excuse 3" Teaser`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=QwQMvPmVOOQ",
+    img: "https://img.youtube.com/vi/QwQMvPmVOOQ/0.jpg",
+    title: `[DAY6 Concert Behind] 2024 Special Concert ‘The Present’ 🎁`,
+    tags: ["Behind"]
+  },
 ]
 
 
 const othersData = [
-
-// some contents - inkigayo, music core, music bank, etc, hidden singer, duet festival, arirang, after school club, namuwiki, 20180315 all that music, immortal songs, all DAY6 videos in buzzfeed, etc, paparecipe, baseball content from channel 15ya, day6 ktr， 2024 kbo all star, 2024 mbc come play, 2023 mbc gayo dajukjae, day6 dingo, fancam, 打歌节目, knowing bros, 전지적참견시점, 8seconds, wkorea with wonpil, day6 zanybros tv, day6 hello82, day6 88rising, day6 soundtrack (cjenm), ALL THE K-POP, jtbc news
-  
   {
     url: "https://programs.sbs.co.kr/enter/starking/vod/54397/22000046580",
     img: "https://img2.sbs.co.kr/img/sbs_cms/SR/2015/10/05/SR46511775_w640_h360.jpg",
@@ -14062,6 +14065,12 @@ const othersData = [
     img: "https://pbs.twimg.com/ext_tw_video_thumb/1883886180661669888/pu/img/eMBdWM14XkujVqpX.jpg",
     title: `💎2024MBC가요대제전X포토이즘📷`,
     tags: ["X"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=VbPLYKHNOhM",
+    img: "https://img.youtube.com/vi/VbPLYKHNOhM/0.jpg",
+    title: `UMBRO 2025 HBL COLLECTION "STAND BY ME"`,
+    tags: ["Ads"]
   },
 
 ]
