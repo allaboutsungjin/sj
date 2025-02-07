@@ -4854,6 +4854,12 @@ const groupvData = [
     title: `[DAY6 Concert Behind] 2024 Special Concert ‘The Present’ 🎁`,
     tags: ["Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=VThhFbleWns",
+    img: "https://img.youtube.com/vi/VThhFbleWns/0.jpg",
+    title: `DAY6 ❄ Winter Vacation Trip⛄ | "Healing Trip Is an Excuse 3" Ep.01 The Return of Chill(?) Hillgyego✨`,
+    tags: ["Variety"]
+  },
 ]
 
 
