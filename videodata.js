@@ -597,13 +597,13 @@ const psj2yaData = [
     url: "https://www.youtube.com/watch?v=xKFNVPh5Sv8",
     img: "https://img.youtube.com/vi/xKFNVPh5Sv8/0.jpg",
     title: "어쩌다 보니.. 데장 최애팀 💘",
-    tags: ["Season 2", "KBO"]
+    tags: ["Season 2", "Baseball"]
     },
   { 
     url: "https://www.youtube.com/watch?v=078ljRrLtE0",
     img: "https://img.youtube.com/vi/078ljRrLtE0/0.jpg",
     title: "부산의 아들 ⚾, 첫 시구!",
-    tags: ["Season 2", "KBO"]
+    tags: ["Season 2", "Baseball"]
     },
   { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
