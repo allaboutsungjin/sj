@@ -594,6 +594,18 @@ const psj2yaData = [
     tags: ["Season 2"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=xKFNVPh5Sv8",
+    img: "https://img.youtube.com/vi/xKFNVPh5Sv8/0.jpg",
+    title: "어쩌다 보니.. 데장 최애팀 💘",
+    tags: ["Season 2", "KBO"]
+    },
+  { 
+    url: "https://www.youtube.com/watch?v=078ljRrLtE0",
+    img: "https://img.youtube.com/vi/078ljRrLtE0/0.jpg",
+    title: "부산의 아들 ⚾, 첫 시구!",
+    tags: ["Season 2", "KBO"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
@@ -2583,6 +2595,12 @@ const groupvData = [
     img: "https://img.youtube.com/vi/VFlrK_wyy04/0.jpg",
     title: `20170613 V앱 시작 전 대기 시간 : 데식이들 The Moments`,
     tags: ["DAY6s"]
+  },
+  {
+    url: "https://www.instagram.com/p/BVR9OUEjVTc/",
+    img: "img/sjys1.jpg",
+    title: `SUNGJIN @ SBSYOUNGSTREET INSTAGRAM`,
+    tags: ["Instagram"]
   },
   {
     url: "https://www.youtube.com/watch?v=GQM1wpOhp5k",
@@ -4991,6 +5009,12 @@ const othersData = [
     tags: ["Cover", "Radio"]
   },
   {
+    url: "https://www.instagram.com/p/9BLOI2oZoe",
+    img: "img/d6ys2.jpg",
+    title: `DAY6 @ SBSYOUNGSTREET INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
     url: "https://vlivearchive.com/post/0-18263809",
     img: "https://thumbs.vlivearchive.com/2482.jpg",
     title: `"DAY6 Daily Camera" episode 1`,
@@ -5535,6 +5559,12 @@ const othersData = [
     img: "https://img.youtube.com/vi/h25RaqomDBU/0.jpg",
     title: `160502 [SBS]이국주의영스트리트,데이식스, "막내라인 원필-도운, 팀 내 분위기 메이커다."`,
     tags: ["Radio"]
+  },
+  {
+    url: "https://www.instagram.com/p/BE5584IIZrQ/",
+    img: "img/d6ys1.jpg",
+    title: `DAY6 @ SBSYOUNGSTREET INSTAGRAM`,
+    tags: ["Instagram"]
   },
   {
     url: "https://www.youtube.com/watch?v=OUppKbeV59U",
@@ -7463,6 +7493,12 @@ const othersData = [
     tags: ["Radio"]
   },
   {
+    url: "https://www.instagram.com/p/BWsCPQqjwNu/?img_index=2",
+    img: "img/sjys5.jpg",
+    title: `SUNGJIN @ SBSYOUNGSTREET INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
     url: "https://www.facebook.com/studioj.live/videos/480116589006211/",
     img: "img/stj8.jpg",
     title: `[DAY6 백숙라이브]`,
@@ -7485,6 +7521,12 @@ const othersData = [
     img: "http://img2.sbs.co.kr/sbs_img/2018/10/22/1400.png",
     title: `170726 (화) 이국주의영스 - 니가 밉다 (김호영, 데이식스- 성진) + 남의 사랑이야기`,
     tags: ["Radio"]
+  },
+  {
+    url: "https://www.instagram.com/p/BW-EShijEf9/",
+    img: "img/sjys3.jpg",
+    title: `SUNGJIN @ SBSYOUNGSTREET INSTAGRAM`,
+    tags: ["Instagram"]
   },
   {
     url: "https://vlivearchive.com/post/1-18273587",
@@ -7557,6 +7599,12 @@ const othersData = [
     img: "http://img2.sbs.co.kr/sbs_img/2018/10/22/1400.png",
     title: `170809 (화) 이국주의영스 - 니가 밉다 (김호영, 데이식스- 성진) + 남의 사랑이야기`,
     tags: ["Radio"]
+  },
+  {
+    url: "https://www.instagram.com/p/BXiLcJOjx3r/",
+    img: "img/sjys6.jpg",
+    title: `SUNGJIN @ SBSYOUNGSTREET INSTAGRAM`,
+    tags: ["Instagram"]
   },
   {
     url: "https://vlivearchive.com/post/0-18263710",
@@ -7635,6 +7683,12 @@ const othersData = [
     img: "http://img2.sbs.co.kr/sbs_img/2018/10/22/1400.png",
     title: `170906 (화) 이국주의영스 - 니가 밉다 (김호영, 데이식스- 성진) + 남의 사랑이야기`,
     tags: ["Radio"]
+  },
+  {
+    url: "https://www.instagram.com/p/BZOUnYGDBXi/",
+    img: "img/sjys7.jpg",
+    title: `SUNGJIN @ SBSYOUNGSTREET INSTAGRAM`,
+    tags: ["Instagram"]
   },
   {
     url: "https://vlivearchive.com/post/1-18273570",
@@ -7773,6 +7827,12 @@ const othersData = [
     img: "http://img2.sbs.co.kr/sbs_img/2018/10/22/1400.png",
     title: `170927 (화) 이국주의영스 - 니가 밉다 (김호영, 데이식스- 성진) + 남의 사랑이야기`,
     tags: ["Radio"]
+  },
+  {
+    url: "https://www.instagram.com/p/BZgTNeVj9Lf/",
+    img: "img/sjys8.jpg",
+    title: `SUNGJIN @ SBSYOUNGSTREET INSTAGRAM`,
+    tags: ["Instagram"]
   },
   {
     url: "https://vlivearchive.com/post/1-18273562",
@@ -8769,6 +8829,30 @@ const othersData = [
     img: "https://img.youtube.com/vi/LupBPUwqYAM/0.jpg",
     title: `180702 데이식스, 서울 사람 경상도 사람 구분하기 [SBS 이국주의 영스트리트]`,
     tags: ["Radio"]
+  },
+  {
+    url: "https://www.instagram.com/p/BkuvP3lj51n/",
+    img: "img/d6ys3.jpg",
+    title: `DAY6 @ SBSYOUNGSTREET INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/p/BkuwrBZjTu9/",
+    img: "img/d6ys4.jpg",
+    title: `DAY6 @ SBSYOUNGSTREET INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/p/BkuxhqXjS8R/",
+    img: "img/d6ys5.jpg",
+    title: `DAY6 @ SBSYOUNGSTREET INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/p/Bkuy1paj9Ol/?img_index=3",
+    img: "img/sjys2.jpg",
+    title: `SUNGJIN @ SBSYOUNGSTREET INSTAGRAM`,
+    tags: ["Instagram"]
   },
   {
     url: "https://www.youtube.com/watch?v=Qs1DXDHtH5A",
@@ -10528,6 +10612,12 @@ const othersData = [
     img: "https://img.youtube.com/vi/4-i6yKX8I7w/0.jpg",
     title: `[영스트리트] 데이식스 그들의 매력!크!`,
     tags: ["Radio"]
+  },
+  {
+    url: "https://www.instagram.com/p/B4cfBo6H5Jg/?img_index=2",
+    img: "img/sjys4.jpg",
+    title: `SUNGJIN @ SBSYOUNGSTREET INSTAGRAM`,
+    tags: ["Instagram"]
   },
   {
     url: "https://www.youtube.com/watch?v=S9Rh0Oz5GZY",
