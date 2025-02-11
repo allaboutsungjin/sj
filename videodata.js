@@ -4878,6 +4878,12 @@ const groupvData = [
     title: `DAY6 ❄ Winter Vacation Trip⛄ | "Healing Trip Is an Excuse 3" Ep.01 The Return of Chill(?) Hillgyego✨`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=30F9s9OA0FU",
+    img: "https://img.youtube.com/vi/30F9s9OA0FU/0.jpg",
+    title: `[데식이들] 2024 Year-End Awards Behind the Scenes`,
+    tags: ["DAY6s"]
+  },
 ]
 
 
