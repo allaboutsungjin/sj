@@ -4882,7 +4882,7 @@ const groupvData = [
     url: "https://www.youtube.com/watch?v=30F9s9OA0FU",
     img: "https://img.youtube.com/vi/30F9s9OA0FU/0.jpg",
     title: `[데식이들] 2024 Year-End Awards Behind the Scenes`,
-    tags: ["DAY6s"]
+    tags: ["Behind", "DAY6s"]
   },
 ]
 
