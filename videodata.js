@@ -9617,6 +9617,12 @@ const othersData = [
     tags: ["YouTube Program"]
   },
   {
+    url: "https://www.youtube.com/watch?v=ugjXALzjEBo",
+    img: "https://img.youtube.com/vi/ugjXALzjEBo/0.jpg",
+    title: `To. ITZY, From. JYP Family`,
+    tags: ["Behind"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=mua65L0ta30",
     img: "https://img.youtube.com/vi/mua65L0ta30/0.jpg",
     title: `2019 EBS 로고송 "좋아" (DAY6 Ver)_SB`,
