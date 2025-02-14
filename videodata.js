@@ -4884,6 +4884,12 @@ const groupvData = [
     title: `[데식이들] 2024 Year-End Awards Behind the Scenes`,
     tags: ["Behind", "DAY6s"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=pjrN_ENcalo",
+    img: "https://img.youtube.com/vi/pjrN_ENcalo/0.jpg",
+    title: `DAY6 ❄ Winter Vacation Trip⛄ | "Healing Trip Is an Excuse 3" Ep.02 DAY6's Infinite Game, START!`,
+    tags: ["Variety"]
+  },
 ]
 
 
