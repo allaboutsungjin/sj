@@ -10950,6 +10950,12 @@ const othersData = [
     tags: ["YouTube Program"]
   },
   {
+    url: "https://www.youtube.com/shorts/YXpKbQ6nK_I",
+    img: "https://img.youtube.com/vi/YXpKbQ6nK_I/0.jpg",
+    title: `UNDERTONES 21S/S PAINT IT BLACK Showcase`,
+    tags: ["Shorts", "Ads"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=n_jZzVF8gUs",
     img: "https://img.youtube.com/vi/n_jZzVF8gUs/0.jpg",
     title: `데이식스(DAY6)의 유기농송 메이킹 영상`,
@@ -11664,6 +11670,12 @@ const othersData = [
     img: "https://img.youtube.com/vi/Lq5XIp-mGZg/0.jpg",
     title: `[sub] EP.5 | 없는 거 빼고 다 있는 한국 고속도로 휴게소! l 숏폼전쟁! 모두의 K-Culture`,
     tags: ["YouTube Program"]
+  },
+  {
+    url: "https://www.instagram.com/reel/CzaeGwxrD-a/",
+    img: "img/mss23.jpg",
+    title: `데이식스의 성진 도운 @ MUSINSA.OFFICIAL INSTAGRAM REEL`,
+    tags: ["Instagram"]
   },
   {
     url: "https://www.youtube.com/watch?v=E7hih9aT-ck",
