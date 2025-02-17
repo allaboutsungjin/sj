@@ -606,6 +606,14 @@ const psj2yaData = [
     tags: ["Season 2", "Baseball"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=EoilFTBWqZA",
+    img: "https://img.youtube.com/vi/EoilFTBWqZA/0.jpg",
+    title: "Park SungJJIN S2 EP.39",
+    desc: `※ Must-watch Video ※ Sungjin Park Driving😎 Save Jjinbbang’s Heart!🫀`,
+    guest: "Guest: -",
+    tags: ["Season 2", "Giving A Try"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
@@ -14197,6 +14205,18 @@ const othersData = [
     img: "https://img.youtube.com/vi/VbPLYKHNOhM/0.jpg",
     title: `UMBRO 2025 HBL COLLECTION "STAND BY ME"`,
     tags: ["Ads"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=vfQPe_AgmhI",
+    img: "https://img.youtube.com/vi/vfQPe_AgmhI/0.jpg",
+    title: `[#2024가요대제전] #데이식스 #DAY6 2025년도 계속 달릴거니까 같이 HAPPY하게 보내봅시다🍀 가요대제전 비하인드⏯️`,
+    tags: ["Behind", "Music Festival"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/SATMyxbA6a0",
+    img: "https://img.youtube.com/vi/SATMyxbA6a0/0.jpg",
+    title: `DAY6, 기타줄 여섯개로 일군 데이식스란 '장르' 디 어워즈 수상`,
+    tags: ["Shorts", "Music Awards"]
   },
 
 ]
