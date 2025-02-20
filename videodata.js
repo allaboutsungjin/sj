@@ -4898,6 +4898,12 @@ const groupvData = [
     title: `DAY6 ❄ Winter Vacation Trip⛄ | "Healing Trip Is an Excuse 3" Ep.02 DAY6's Infinite Game, START!`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=fLiGjDn9fWc",
+    img: "https://img.youtube.com/vi/fLiGjDn9fWc/0.jpg",
+    title: `[데식이들] Umbro Photoshoot Behind`,
+    tags: ["Behind", "DAY6s"]
+  },
 ]
 
 
