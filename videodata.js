@@ -4904,6 +4904,12 @@ const groupvData = [
     title: `[데식이들] Umbro Photoshoot Behind`,
     tags: ["Behind", "DAY6s"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=ZSrgci_S_7U",
+    img: "https://img.youtube.com/vi/ZSrgci_S_7U/0.jpg",
+    title: `DAY6 ❄ Winter Vacation Trip⛄ | "Healing Trip Is an Excuse 3" Ep.03 Cutie DAY6 land on a ski resort🎿`,
+    tags: ["Variety"]
+  },
 ]
 
 
