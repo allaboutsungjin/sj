@@ -4910,6 +4910,12 @@ const groupvData = [
     title: `DAY6 ❄ Winter Vacation Trip⛄ | "Healing Trip Is an Excuse 3" Ep.03 Cutie DAY6 land on a ski resort🎿`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=D2cFr_iIiec",
+    img: "https://img.youtube.com/vi/D2cFr_iIiec/0.jpg",
+    title: `🥂 My WELCOMING DAY6 ✨ | My Day 5th Generation Recruitment Video`,
+    tags: ["Invitation Video"]
+  },
 ]
 
 
