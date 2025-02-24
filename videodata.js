@@ -1117,6 +1117,18 @@ const psj2yaData = [
     title: "찐빵이들! 떡국 2025그릇 먹고 복받으세요 🙇",
     tags: ["Season 2", "Shorts", "Greetings"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/-viK1aYKEhE",
+    img: "https://img.youtube.com/vi/-viK1aYKEhE/0.jpg",
+    title: "에법...😎 아저씨스러운 우리 데장",
+    tags: ["Season 2", "Shorts", "Food"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/0zr4yI8rJl4",
+    img: "https://img.youtube.com/vi/0zr4yI8rJl4/0.jpg",
+    title: "Chill가이가 알려주는 부산 맛집 📝",
+    tags: ["Season 2", "Shorts", "Food"]
+    },
 ];
 
 const stazData = [
