@@ -4928,6 +4928,12 @@ const groupvData = [
     title: `🥂 My WELCOMING DAY6 ✨ | My Day 5th Generation Recruitment Video`,
     tags: ["Invitation Video"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=iRykrPpeKcQ",
+    img: "https://img.youtube.com/vi/iRykrPpeKcQ/0.jpg",
+    title: `DAY6 ❄ Winter Vacation Trip⛄ | "Healing Trip Is an Excuse 3" Ep.04 True Happiness! A Fun Last Night🌙`,
+    tags: ["Variety"]
+  },
 ]
 
 
