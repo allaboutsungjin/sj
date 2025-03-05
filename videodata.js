@@ -14262,6 +14262,18 @@ const othersData = [
     title: `DAY6, 기타줄 여섯개로 일군 데이식스란 '장르' 디 어워즈 수상`,
     tags: ["Shorts", "Music Awards"]
   },
+  {
+    url: "https://x.com/i/status/1897210477421453504",
+    img: "https://pbs.twimg.com/ext_tw_video_thumb/1897179908226289664/pu/img/KUho0wds28SH4Z27.jpg",
+    title: `DAY6(데이식스) 3RD WORLD TOUR <FOREVER YOUNG> in JAPAN`,
+    tags: ["X"]
+  },
+  {
+    url: "https://x.com/i/status/1897212276173869510",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1897202252735287296/img/grQnfAeYc57iyMP4.jpg",
+    title: `DAY6(데이식스) Official Fanclub My Day 5th Generation D-4 `,
+    tags: ["X"]
+  },  
 
 ]
 
