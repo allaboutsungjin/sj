@@ -4942,6 +4942,12 @@ const groupvData = [
     title: `DAY6 ❄ Winter Vacation Trip⛄ | "Healing Trip Is an Excuse 3" Ep.04 True Happiness! A Fun Last Night🌙`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/shorts/Sahdb-7Tuq0",
+    img: "https://img.youtube.com/vi/Sahdb-7Tuq0/0.jpg",
+    title: `DAY6(데이식스) Official Fanclub My Day 5th Generation #성진`,
+    tags: ["Shorts", "Invitation Video"]
+  },
 ]
 
 
@@ -14268,12 +14274,6 @@ const othersData = [
     title: `DAY6(데이식스) 3RD WORLD TOUR <FOREVER YOUNG> in JAPAN`,
     tags: ["X"]
   },
-  {
-    url: "https://x.com/i/status/1897212276173869510",
-    img: "https://pbs.twimg.com/amplify_video_thumb/1897202252735287296/img/grQnfAeYc57iyMP4.jpg",
-    title: `DAY6(데이식스) Official Fanclub My Day 5th Generation D-4 `,
-    tags: ["X"]
-  },  
 
 ]
 
