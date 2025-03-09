@@ -4948,6 +4948,12 @@ const groupvData = [
     title: `DAY6(데이식스) Official Fanclub My Day 5th Generation #성진`,
     tags: ["Shorts", "Invitation Video"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=eTtt4Fefvmo",
+    img: "https://img.youtube.com/vi/eTtt4Fefvmo/0.jpg",
+    title: `[🎵 𝐃𝐀𝐘𝟔 𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] ✨ Welcoming Medley 🥂 for My Day 5th`,
+    tags: ["Invitation Video"]
+  },
 ]
 
 
