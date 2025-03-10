@@ -1137,6 +1137,18 @@ const psj2yaData = [
     title: "Chill가이가 알려주는 부산 맛집 📝",
     tags: ["Season 2", "Shorts", "Food"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/mHvkxYSCC8g",
+    img: "https://img.youtube.com/vi/mHvkxYSCC8g/0.jpg",
+    title: "[미공개] 부산 남자 데장, 생각보다 스윗함 🍯",
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/tDdLCMxraas",
+    img: "https://img.youtube.com/vi/tDdLCMxraas/0.jpg",
+    title: "🏆 박성진 짤 월드컵 🏆",
+    tags: ["Season 2", "Shorts"]
+    },
 ];
 
 const stazData = [
