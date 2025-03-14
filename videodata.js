@@ -14292,6 +14292,12 @@ const othersData = [
     title: `DAY6(데이식스) 3RD WORLD TOUR <FOREVER YOUNG> in JAPAN`,
     tags: ["X"]
   },
+  {
+    url: "https://x.com/i/status/1900366799298040279",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1900366688119644166/img/T771nXKtn6d6Bx45.jpg",
+    title: `대한항공의 새로운 도약을 알린 KE Rising Night✨`,
+    tags: ["X"]
+  },
 
 ]
 
