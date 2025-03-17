@@ -622,6 +622,14 @@ const psj2yaData = [
     tags: ["Season 2", "What's In My"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=ow-3eEJmp0M",
+    img: "https://img.youtube.com/vi/ow-3eEJmp0M/0.jpg",
+    title: "Park SungJJIN S2 EP.41",
+    desc: `You've never seen him this real before! 🔥 Park SungJJIN Team Gathering ★`,
+    guest: "Guest: -",
+    tags: ["Season 2"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
