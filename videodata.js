@@ -14306,6 +14306,12 @@ const othersData = [
     title: `대한항공의 새로운 도약을 알린 KE Rising Night✨`,
     tags: ["X"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=HVck9XlElyY",
+    img: "https://img.youtube.com/vi/HVck9XlElyY/0.jpg",
+    title: `열심히 살았던 데장😎! 데이식스 성진의 '청소' | 2009 친친가요제 | 데이식스 성진 과거 무대`,
+    tags: ["Music Festival"]
+  },
 
 ]
 
