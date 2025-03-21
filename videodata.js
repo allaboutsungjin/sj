@@ -4974,6 +4974,12 @@ const groupvData = [
     title: `[🎵 𝐃𝐀𝐘𝟔 𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] ✨ Welcoming Medley 🥂 for My Day 5th`,
     tags: ["Invitation Video"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=4R0BIdXGKUY",
+    img: "https://img.youtube.com/vi/4R0BIdXGKUY/0.jpg",
+    title: `DAY6(데이식스) 3RD WORLD TOUR ＜FOREVER YOUNG＞ in Asia #1`,
+    tags: ["Behind"]
+  },
 ]
 
 
