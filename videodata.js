@@ -1157,6 +1157,24 @@ const psj2yaData = [
     title: "🏆 박성진 짤 월드컵 🏆",
     tags: ["Season 2", "Shorts"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/aNa12R4aHrE",
+    img: "https://img.youtube.com/vi/aNa12R4aHrE/0.jpg",
+    title: "차덕 성진 = 폭주 곰돌 🐻",
+    tags: ["Season 2", "Shorts", "Giving A Try"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/ocMYA8bJ7cA",
+    img: "https://img.youtube.com/vi/ocMYA8bJ7cA/0.jpg",
+    title: "신남이 안 숨겨지지요 🏎🏁",
+    tags: ["Season 2", "Shorts", "Giving A Try"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/OHlODkfQGtk",
+    img: "https://img.youtube.com/vi/OHlODkfQGtk/0.jpg",
+    title: "[예고] 운전 연수 똑바로 받습니다! 🐰",
+    tags: ["Season 2", "Shorts", "Guest"]
+    },
 ];
 
 const stazData = [
