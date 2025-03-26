@@ -12962,6 +12962,12 @@ const othersData = [
     tags: ["University Festival"]
   },
   {
+    url: "https://www.youtube.com/watch?v=pgHjQSMEsb8",
+    img: "https://img.youtube.com/vi/pgHjQSMEsb8/0.jpg",
+    title: `(Exclusive) DAY6 INTERVIEW 2024 | #tvNMeet`,
+    tags: ["Interview"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=6I4VL2F5dC4",
     img: "https://img.youtube.com/vi/6I4VL2F5dC4/0.jpg",
     title: `아카라카를 온누리에 데이식스 (DAY6)ㅣ 240525 개교 139주년 아카라카를 온누리에 Live Cam`,
