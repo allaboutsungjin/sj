@@ -4998,6 +4998,12 @@ const groupvData = [
     title: `DAY6(데이식스) 3RD WORLD TOUR ＜FOREVER YOUNG＞ in Asia #1`,
     tags: ["Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=-EaosFWONLA",
+    img: "https://img.youtube.com/vi/-EaosFWONLA/0.jpg",
+    title: `DAY6(데이식스) 3RD WORLD TOUR ＜FOREVER YOUNG＞ in Asia #2`,
+    tags: ["Behind"]
+  },
 ]
 
 
@@ -14341,6 +14347,12 @@ const othersData = [
     img: "https://img.youtube.com/vi/HVck9XlElyY/0.jpg",
     title: `열심히 살았던 데장😎! 데이식스 성진의 '청소' | 2009 친친가요제 | 데이식스 성진 과거 무대`,
     tags: ["Music Festival"]
+  },
+  {
+    url: "https://x.com/i/status/1905459518131372268",
+    img: "https://pbs.twimg.com/ext_tw_video_thumb/1905459158260092928/pu/img/AKjPIHpcDwP0QWTF.jpg",
+    title: `#데이식스팬사인회 #DAY6팬사인회`,
+    tags: ["X"]
   },
 
 ]
