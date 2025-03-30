@@ -5004,6 +5004,12 @@ const groupvData = [
     title: `DAY6(데이식스) 3RD WORLD TOUR ＜FOREVER YOUNG＞ in Asia #2`,
     tags: ["Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=8Apcn_JT_ps",
+    img: "https://img.youtube.com/vi/8Apcn_JT_ps/0.jpg",
+    title: `DAY6(데이식스) 3RD WORLD TOUR ＜FOREVER YOUNG＞ FINALE in SEOUL Announcement Teaser`,
+    tags: ["Teaser"]
+  },
 ]
 
 
