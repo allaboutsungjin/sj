@@ -14368,6 +14368,18 @@ const othersData = [
     title: `#데이식스팬사인회 #DAY6팬사인회`,
     tags: ["X"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=-0hc2fr0RTY",
+    img: "https://img.youtube.com/vi/-0hc2fr0RTY/0.jpg",
+    title: `[굿데이 7회 예고] 본업미 뿜뿜 프로듀서 GD✨ 믿고 듣는 DAY6까지 합류한 녹음 현장🎤, MBC 250406 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=3M5_YFF0dcI",
+    img: "https://img.youtube.com/vi/3M5_YFF0dcI/0.jpg",
+    title: `[DICON] Day by DAY6`,
+    tags: ["Magazine"]
+  },
 
 ]
 
