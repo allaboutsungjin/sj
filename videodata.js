@@ -14380,6 +14380,12 @@ const othersData = [
     title: `[DICON] Day by DAY6`,
     tags: ["Magazine"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=OeGBhHaFa2g",
+    img: "https://img.youtube.com/vi/OeGBhHaFa2g/0.jpg",
+    title: `[DICON] 봄날의 블루스 #성진`,
+    tags: ["Magazine"]
+  },
 
 ]
 
