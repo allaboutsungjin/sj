@@ -13931,6 +13931,12 @@ const othersData = [
     tags: ["KBO"]
   },
   {
+    url: "https://www.youtube.com/watch?v=F7GY9fudihE",
+    img: "https://img.youtube.com/vi/F7GY9fudihE/0.jpg",
+    title: `[시구 모먼트] 2024년 한 페이지로 남을 오늘의 시구 모음! | 9.28 KBO 모먼트 | 야구 하이라이트`,
+    tags: ["KBO"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=kFoYYhtNrHM",
     img: "https://img.youtube.com/vi/kFoYYhtNrHM/0.jpg",
     title: `DAY6.zip 📂 From How Can I Say To Melt Down | Show! MusicCore`,
