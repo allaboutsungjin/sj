@@ -14392,6 +14392,18 @@ const othersData = [
     title: `[DICON] 봄날의 블루스 #성진`,
     tags: ["Magazine"]
   },
+  {
+    url: "https://x.com/i/status/1907629218210652256",
+    img: "https://pbs.twimg.com/ext_tw_video_thumb/1907618719729332224/pu/img/LQgUPRYvu4qQFxyr.jpg",
+    title: `“그동안의 노력을 인정받았던 겨울이었어.”(성진)`,
+    tags: ["X"]
+  },
+  {
+    url: "https://x.com/i/status/1907629141194846307",
+    img: "https://pbs.twimg.com/ext_tw_video_thumb/1907618267960848385/pu/img/jG8FFeK9QkmgvIzE.jpg",
+    title: `“그동안의 노력을 인정받았던 겨울이었어.”(성진)`,
+    tags: ["X"]
+  },
 
 ]
 
