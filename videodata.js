@@ -5018,6 +5018,13 @@ const groupvData = [
     title: `DAY6(데이식스) 3RD WORLD TOUR ＜FOREVER YOUNG＞ FINALE in SEOUL Announcement Teaser`,
     tags: ["Teaser"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=uMxdq_F6pzc",
+    img: "https://img.youtube.com/vi/uMxdq_F6pzc/0.jpg",
+    title: `DAY6(데이식스) 3RD WORLD TOUR ＜FOREVER YOUNG＞ in Asia #3`,
+    tags: ["Behind"]
+  },
+  
 ]
 
 
@@ -14402,6 +14409,12 @@ const othersData = [
     url: "https://x.com/i/status/1907629141194846307",
     img: "https://pbs.twimg.com/ext_tw_video_thumb/1907618267960848385/pu/img/jG8FFeK9QkmgvIzE.jpg",
     title: `“그동안의 노력을 인정받았던 겨울이었어.”(성진)`,
+    tags: ["X"]
+  },
+  {
+    url: "https://x.com/i/status/1907961337600421968",
+    img: "https://pbs.twimg.com/ext_tw_video_thumb/1907948346934996992/pu/img/bY8PVn-ozXjsasfD.jpg",
+    title: `디아이콘 27번째 주인공은 바로 🩵DAY6🩵`,
     tags: ["X"]
   },
 
