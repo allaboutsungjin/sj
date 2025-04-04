@@ -14417,6 +14417,12 @@ const othersData = [
     title: `디아이콘 27번째 주인공은 바로 🩵DAY6🩵`,
     tags: ["X"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=OEY4aqY4M1Y",
+    img: "https://img.youtube.com/vi/OEY4aqY4M1Y/0.jpg",
+    title: `DAY6, Incheon International Airport DEPARTURE`,
+    tags: ["Media"]
+  },
 
 ]
 
