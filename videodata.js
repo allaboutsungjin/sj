@@ -14423,6 +14423,24 @@ const othersData = [
     title: `DAY6, Incheon International Airport DEPARTURE`,
     tags: ["Media"]
   },
+  {
+    url: "https://www.youtube.com/shorts/BTU9y1n4OoY",
+    img: "https://img.youtube.com/vi/BTU9y1n4OoY/0.jpg",
+    title: `[𝙳𝙸𝙲𝙾𝙽] 𝙱𝚎𝚑𝚒𝚗𝚍 𝚃𝚑𝚎 𝚂𝚌𝚎𝚗𝚎 𝙿𝙴𝚁𝙵𝙴𝙲𝚃 𝙳𝙰𝚈𝟼𝚟𝚎𝚛. ✨ (𝚂𝚄𝙽𝙶𝙹𝙸𝙽)`,
+    tags: ["Shorts", "Magazine"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/7Ytlax3LwDo",
+    img: "https://img.youtube.com/vi/7Ytlax3LwDo/0.jpg",
+    title: `[𝙳𝙸𝙲𝙾𝙽] 𝙱𝚎𝚑𝚒𝚗𝚍 𝚃𝚑𝚎 𝚂𝚌𝚎𝚗𝚎 𝙿𝙴𝚁𝙵𝙴𝙲𝚃 𝙳𝙰𝚈𝟼𝚟𝚎𝚛. ✨ (𝙳𝙾𝚆𝙾𝙾𝙽)`,
+    tags: ["Shorts", "Magazine"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/5I2ymcxqZk8",
+    img: "https://img.youtube.com/vi/5I2ymcxqZk8/0.jpg",
+    title: `[𝙳𝙸𝙲𝙾𝙽] 𝙱𝚎𝚑𝚒𝚗𝚍 𝚃𝚑𝚎 𝚂𝚌𝚎𝚗𝚎 𝙿𝙴𝚁𝙵𝙴𝙲𝚃 𝙳𝙰𝚈𝟼𝚟𝚎𝚛. ✨ (𝚈𝚘𝚞𝚗𝚐 𝙺)`,
+    tags: ["Shorts", "Magazine"]
+  },
 
 ]
 
