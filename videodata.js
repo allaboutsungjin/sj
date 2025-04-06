@@ -14465,6 +14465,12 @@ const othersData = [
     title: `[굿데이] ＂진짜 잘하네요?＂ 녹음실을 콘서트 장으로 만든 DAY6의 완벽한 하모니💖, MBC 250406 방송`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=uFGHafQv5RE",
+    img: "https://img.youtube.com/vi/uFGHafQv5RE/0.jpg",
+    title: `250406 성진 인스타 라방 full_@sungddenly`,
+    tags: ["Instagram"]
+  },
 
 ]
 
