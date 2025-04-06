@@ -14441,6 +14441,24 @@ const othersData = [
     title: `[𝙳𝙸𝙲𝙾𝙽] 𝙱𝚎𝚑𝚒𝚗𝚍 𝚃𝚑𝚎 𝚂𝚌𝚎𝚗𝚎 𝙿𝙴𝚁𝙵𝙴𝙲𝚃 𝙳𝙰𝚈𝟼𝚟𝚎𝚛. ✨ (𝚈𝚘𝚞𝚗𝚐 𝙺)`,
     tags: ["Shorts", "Magazine"]
   },
+  {
+    url: "https://www.youtube.com/shorts/y-HZKpeonoM",
+    img: "https://img.youtube.com/vi/y-HZKpeonoM/0.jpg",
+    title: `[𝙳𝙸𝙲𝙾𝙽] 𝙱𝚎𝚑𝚒𝚗𝚍 𝚃𝚑𝚎 𝚂𝚌𝚎𝚗𝚎 𝙾𝙽𝙴 𝙵𝙸𝙽𝙴 𝙳𝙰𝚈𝟼𝚟𝚎𝚛.✨ (𝚂𝚄𝙽𝙶𝙹𝙸𝙽)`,
+    tags: ["Shorts", "Magazine"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/1f_cDlxKvW4",
+    img: "https://img.youtube.com/vi/1f_cDlxKvW4/0.jpg",
+    title: `[𝙳𝙸𝙲𝙾𝙽] 𝙱𝚎𝚑𝚒𝚗𝚍 𝚃𝚑𝚎 𝚂𝚌𝚎𝚗𝚎 𝙾𝙽𝙴 𝙵𝙸𝙽𝙴 𝙳𝙰𝚈𝟼𝚟𝚎𝚛. ✨ (𝚈𝚘𝚞𝚗𝚐 𝙺)`,
+    tags: ["Shorts", "Magazine"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/gDj4N3lSNBs",
+    img: "https://img.youtube.com/vi/gDj4N3lSNBs/0.jpg",
+    title: `[𝙳𝙸𝙲𝙾𝙽] 𝙱𝚎𝚑𝚒𝚗𝚍 𝚃𝚑𝚎 𝚂𝚌𝚎𝚗𝚎 𝙾𝙽𝙴 𝙵𝙸𝙽𝙴 𝙳𝙰𝚈𝟼𝚟𝚎𝚛. ✨ (𝚆𝙾𝙽𝙿𝙸𝙻)`,
+    tags: ["Shorts", "Magazine"]
+  },
 
 ]
 
