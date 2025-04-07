@@ -14483,6 +14483,12 @@ const othersData = [
     title: `250406 성진 인스타 라방 full_@sungddenly`,
     tags: ["Instagram"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=bMUaXYWpSCQ",
+    img: "https://img.youtube.com/vi/bMUaXYWpSCQ/0.jpg",
+    title: `[DICON] 내 심장을 직접 꺼내보시던가💢ㅣ데이식스 나를 맞혀봐🍀 (eng sub)`,
+    tags: ["YouTube Program", "Magazine"]
+  },
 
 ]
 
