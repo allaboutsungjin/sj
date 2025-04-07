@@ -1183,6 +1183,18 @@ const psj2yaData = [
     title: "[예고] 운전 연수 똑바로 받습니다! 🐰",
     tags: ["Season 2", "Shorts", "Guest"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/Z1l3SGaiOBM",
+    img: "https://img.youtube.com/vi/Z1l3SGaiOBM/0.jpg",
+    title: "밥성진 가이드 선정 냉면 🎖",
+    tags: ["Season 2", "Shorts", "Food"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/dz5FDVZEMYs",
+    img: "https://img.youtube.com/vi/dz5FDVZEMYs/0.jpg",
+    title: "점보 푸드 BEST 3! 먹짱 데장 Pick 😋",
+    tags: ["Season 2", "Shorts", "Food"]
+    },
 ];
 
 const stazData = [
