@@ -14507,6 +14507,12 @@ const othersData = [
     title: `[DICON] Young K’s Memories📹`,
     tags: ["Shorts", "Magazine"]
   },
+  {
+    url: "https://www.instagram.com/reel/DIQqAHhT4aM/",
+    img: "img/d6vans",
+    title: `DAY6 @ VANS_KOREA INSTAGRAM HIGHLIGHTS`,
+    tags: ["Instagram"]
+  },
 
 ]
 
