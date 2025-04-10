@@ -14495,6 +14495,18 @@ const othersData = [
     title: `[DICON] 내 심장을 직접 꺼내보시던가💢ㅣ데이식스 나를 맞혀봐🍀 (eng sub)`,
     tags: ["YouTube Program", "Magazine"]
   },
+  {
+    url: "https://www.youtube.com/shorts/62uYdR9s3UQ",
+    img: "https://img.youtube.com/vi/62uYdR9s3UQ/0.jpg",
+    title: `[DICON] SUNGJIN’s Memories📹`,
+    tags: ["Shorts", "Magazine"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/5B5MGJKyffs",
+    img: "https://img.youtube.com/vi/5B5MGJKyffs/0.jpg",
+    title: `[DICON] Young K’s Memories📹`,
+    tags: ["Shorts", "Magazine"]
+  },
 
 ]
 
