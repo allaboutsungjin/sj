@@ -14513,6 +14513,18 @@ const othersData = [
     title: `DAY6 @ VANS_KOREA INSTAGRAM HIGHLIGHTS`,
     tags: ["Instagram"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=C2dxV7Cq2uY",
+    img: "https://img.youtube.com/vi/C2dxV7Cq2uY/0.jpg",
+    title: `반스와 데이식스, 진짜 왔어요. 우리가 원하던 것. '감다살' 영상 풀버전으로 보세요... (VANS, 반스, DAY6, 데이식스)`,
+    tags: ["Ads"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/TgmLNVB6ZFs",
+    img: "https://img.youtube.com/vi/TgmLNVB6ZFs/0.jpg",
+    title: `반스 선생님들, 데이식스를 앰버서더로 선정해주셔서 성은이 망극하옵니다... #VANS #반스 #DAY6 #데이식스 #GQKOREA`,
+    tags: ["Shorts", "Ads"]
+  },
 
 ]
 
