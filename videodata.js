@@ -14531,6 +14531,12 @@ const othersData = [
     title: `[DICON] 행복했었다🫶🏻 디아이콘은.. LOVE에요ㅣMAKING FILM (DAY6)(eng sub)`,
     tags: ["Magazine", "Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=0SbLQ5n-qrg",
+    img: "https://img.youtube.com/vi/0SbLQ5n-qrg/0.jpg",
+    title: `[데이식스/성진] 250412 성진 인스타 라이브 Full | 채팅 X`,
+    tags: ["Instagram"]
+  },
 
 ]
 
