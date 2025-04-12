@@ -14525,6 +14525,12 @@ const othersData = [
     title: `반스 선생님들, 데이식스를 앰버서더로 선정해주셔서 성은이 망극하옵니다... #VANS #반스 #DAY6 #데이식스 #GQKOREA`,
     tags: ["Shorts", "Ads"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=X6kwQtE1eRI",
+    img: "https://img.youtube.com/vi/X6kwQtE1eRI/0.jpg",
+    title: `[DICON] 행복했었다🫶🏻 디아이콘은.. LOVE에요ㅣMAKING FILM (DAY6)(eng sub)`,
+    tags: ["Magazine", "Behind"]
+  },
 
 ]
 
