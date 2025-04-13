@@ -14537,6 +14537,18 @@ const othersData = [
     title: `[데이식스/성진] 250412 성진 인스타 라이브 Full | 채팅 X`,
     tags: ["Instagram"]
   },
+  {
+    url: "https://www.youtube.com/shorts/Q8PUIcOFSsM",
+    img: "https://img.youtube.com/vi/Q8PUIcOFSsM/0.jpg",
+    title: `[DICON] SUNGJIN 4CUT PHOTO📸`,
+    tags: ["Shorts", "Magazine"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/baPFJMHWRro",
+    img: "https://img.youtube.com/vi/baPFJMHWRro/0.jpg",
+    title: `[DICON] SUNGJIN & Young K 4CUT PHOTO📸`,
+    tags: ["Shorts", "Magazine"]
+  },
 
 ]
 
