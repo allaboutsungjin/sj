@@ -638,6 +638,14 @@ const psj2yaData = [
     tags: ["Season 2", "Guest"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=H_NBo9SVSpI",
+    img: "https://img.youtube.com/vi/H_NBo9SVSpI/0.jpg",
+    title: "Park SungJJIN S2 EP.43",
+    desc: `[Driving Training Part 2] Mission PIL-Possible 🌟 Real Driver, Finally?🫢!`,
+    guest: "Guest: Wonpil",
+    tags: ["Season 2", "Guest"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
@@ -14548,6 +14556,12 @@ const othersData = [
     img: "https://img.youtube.com/vi/baPFJMHWRro/0.jpg",
     title: `[DICON] SUNGJIN & Young K 4CUT PHOTO📸`,
     tags: ["Shorts", "Magazine"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=_PZ3mxHS28k",
+    img: "https://img.youtube.com/vi/_PZ3mxHS28k/0.jpg",
+    title: `[타임라인포함-댓글]2025년 4월 15일 데이식스 성진 @sungddenly 인스타 라방- 1분 1초도 놓칠 수 없다! #데이식스 #day6 #성진 #인스타라이브 #데이식스성진`,
+    tags: ["Instagram"]
   },
 
 ]
