@@ -44,25 +44,6 @@ function resetFilters(tabId) {
 
 // Calendar
 const events = {
-    '2025-02-01': 'Forever Young - Busan',
-    '2025-02-02': 'Forever Young - Busan',
-    '2025-02-03': 'ParkSungJjin2ya',
-    '2025-02-07': 'Healing Trip is An Excuse 3',
-    '2025-02-12': 'Forever Young - Osaka',
-    '2025-02-13': 'Forever Young - Osaka',
-    '2025-02-14': 'Healing Trip is An Excuse 3',
-    '2025-02-15': 'Forever Young - Tokyo',
-    '2025-02-16': 'Forever Young - Tokyo',
-    '2025-02-17': 'ParkSungJjin2ya',
-    '2025-02-21': 'Healing Trip is An Excuse 3',
-    '2025-02-22': 'Forever Young - Quezon City',
-    '2025-02-28': 'Healing Trip is An Excuse 3',
-    '2025-03-02': 'Forever Young - Daejeon',
-    '2025-03-03': 'Forever Young - Daejeon',
-    '2025-03-15': 'Forever Young - Gwangju',
-    '2025-03-16': 'Forever Young - Gwangju',
-    '2025-03-29': 'Forever Young - Daegu',
-    '2025-03-30': 'Forever Young - Daegu',
     '2025-04-06': 'Forever Young - Sydney',
     '2025-04-07': 'Forever Young - Sydney',
     '2025-04-09': 'Forever Young - Melbourne',
@@ -79,6 +60,7 @@ const events = {
     '2025-05-16': 'Forever Young Finale in Seoul',
     '2025-05-17': 'Forever Young Finale in Seoul',
     '2025-05-18': 'Forever Young Finale in Seoul',
+    '2025-06-14': '2025 K-WONDER CONCERT IN TAIPEI',
     // Add more events as needed
 };
 
