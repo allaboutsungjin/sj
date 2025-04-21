@@ -14587,6 +14587,12 @@ const othersData = [
     title: `2025년 4월 18일 데이식스 성진🐻 웃음이 멈추지 않았던 인스타 라방 #데이식스 #day6 #성진 #마이데이 #인스타라이브`,
     tags: ["Instagram"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=Y90Sg439iKw",
+    img: "https://img.youtube.com/vi/Y90Sg439iKw/0.jpg",
+    title: `데이식스, 인천국제공항 입국✈️DAY6 Airport Arrival 2025.4.21 Newsen`,
+    tags: ["Media"]
+  },
 
 ]
 
