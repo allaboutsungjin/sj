@@ -1203,6 +1203,18 @@ const psj2yaData = [
     title: "점보 푸드 BEST 3! 먹짱 데장 Pick 😋",
     tags: ["Season 2", "Shorts", "Food"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/OGgIc1rs7Tw",
+    img: "https://img.youtube.com/vi/OGgIc1rs7Tw/0.jpg",
+    title: "평데평마 🎸 스트랩 (made by 데장)",
+    tags: ["Season 2", "Shorts", "Giving A Try"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/hXHMSz3mLDg",
+    img: "https://img.youtube.com/vi/hXHMSz3mLDg/0.jpg",
+    title: "(아) 야야야, 찐빵 심장 주의 🫀🔨",
+    tags: ["Season 2", "Shorts", "Giving A Try"]
+    },
 ];
 
 const stazData = [
