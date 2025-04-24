@@ -54,6 +54,7 @@ const events = {
     '2025-04-26': 'Forever Young - Yokohama',
     '2025-04-27': 'Forever Young - Yokohama',
     '2025-05-03': 'Forever Young - Indonesia',
+    '2025-05-07': 'Digital Single - Maybe Tomorrow',
     '2025-05-09': 'Forever Young Finale in Seoul',
     '2025-05-10': 'Forever Young Finale in Seoul',
     '2025-05-11': 'Forever Young Finale in Seoul',
