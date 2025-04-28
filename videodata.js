@@ -646,6 +646,14 @@ const psj2yaData = [
     tags: ["Season 2", "Guest"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=gotvgwu9IgE",
+    img: "https://img.youtube.com/vi/gotvgwu9IgE/0.jpg",
+    title: "Park SungJJIN S2 EP.44",
+    desc: `200K Subs Special 🎉 Dive into Sungjin’s Best 3 🤗`,
+    guest: "Guest: -",
+    tags: ["Season 2", "QnA]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
@@ -14592,6 +14600,24 @@ const othersData = [
     img: "https://img.youtube.com/vi/Y90Sg439iKw/0.jpg",
     title: `데이식스, 인천국제공항 입국✈️DAY6 Airport Arrival 2025.4.21 Newsen`,
     tags: ["Media"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=cRfbII60IjY",
+    img: "https://img.youtube.com/vi/cRfbII60IjY/0.jpg",
+    title: `[SUB]🎼굿데이 2025 (텔레파시 + 달빛 창가에서) MV`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=tpimEyWXhYA",
+    img: "https://img.youtube.com/vi/tpimEyWXhYA/0.jpg",
+    title: `🎼[MV 비하인드] 굿데이 2025 (텔레파시 + 달빛 창가에서)`,
+    tags: ["Variety", "Behind"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=ZGzGZYi5a_g",
+    img: "https://img.youtube.com/vi/ZGzGZYi5a_g/0.jpg",
+    title: `250426 DAY6 박성진朴晟鎮 Instagram live`,
+    tags: ["Instagram"]
   },
 
 ]
