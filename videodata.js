@@ -14626,12 +14626,23 @@ const othersData = [
     tags: ["Variety", "Behind"]
   },
   {
+    url: "https://www.youtube.com/watch?v=0uw03czwnOk",
+    img: "https://img.youtube.com/vi/0uw03czwnOk/0.jpg",
+    title: `데이식스, 데식이만 보면 스스륵 녹아내려요(출국) ✈️ 'DAY6' GMP Airport Departure 2025.4.25 Newsen`,
+    tags: ["Media"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=ZGzGZYi5a_g",
     img: "https://img.youtube.com/vi/ZGzGZYi5a_g/0.jpg",
     title: `250426 DAY6 박성진朴晟鎮 Instagram live`,
     tags: ["Instagram"]
   },
-  
+  {
+    url: "https://www.youtube.com/watch?v=lEUAxBfb6JE",
+    img: "https://img.youtube.com/vi/lEUAxBfb6JE/0.jpg",
+    title: `데이식스, 햇살 가득 담은 봄꽃 미소~ 😁(입국)✈️ 'DAY6' GMP Airport Arrival 2025.4.29 Newsen`,
+    tags: ["Media"]
+  },
 
 ]
 
