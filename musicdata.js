@@ -463,6 +463,18 @@ const musicGroup = [
             { url: "https://www.melon.com/album/detail.htm?albumId=11580616", icon: "Melon.png", alt: "Melon" }
         ],
 	tags: ["Korean", "EP"]
+    },
+    {
+        img: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/01/b5/1e01b5a0-d7b0-36c4-4409-18e9736eaf43/196873106304.jpg/592x592bb.webp",
+        title: "Good Day 2025 (Telepathy + By the Moonlight Window)",
+        date: "April 24, 2025",
+        links: [
+            { url: "https://open.spotify.com/album/7iBQu0rheWrxa2ULvHmJNk?si=ArF3a35vTzSqyxaYzXb9cg", icon: "Spotify.png", alt: "Spotify" },
+            { url: "https://music.apple.com/us/album/good-day-2025-telepathy-by-the-moonlight-window-single/1809914549", icon: "AM.svg", alt: "Apple Music" },
+            { url: "https://music.youtube.com/playlist?list=OLAK5uy_m06ahZwXKd5itCHMP7UbyEZpMlSh3fVpI&si=u96Q890oZP8eCF3V", icon: "YM.svg", alt: "YouTube Music" },
+            { url: "https://www.melon.com/album/detail.htm?albumId=11787504", icon: "Melon.png", alt: "Melon" }
+        ],
+	tags: ["Korean", "Single"]
     }
 ];
 
