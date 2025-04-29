@@ -14398,6 +14398,12 @@ const othersData = [
     tags: ["Ads"]
   },
   {
+    url: "https://www.youtube.com/watch?v=9f1m3rhWmZ0",
+    img: "https://img.youtube.com/vi/9f1m3rhWmZ0/0.jpg",
+    title: `UMBRO 2025 HBL COLLECTION "STAND BY ME" #2`,
+    tags: ["Ads"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=vfQPe_AgmhI",
     img: "https://img.youtube.com/vi/vfQPe_AgmhI/0.jpg",
     title: `[#2024가요대제전] #데이식스 #DAY6 2025년도 계속 달릴거니까 같이 HAPPY하게 보내봅시다🍀 가요대제전 비하인드⏯️`,
@@ -14601,24 +14607,7 @@ const othersData = [
     title: `데이식스, 인천국제공항 입국✈️DAY6 Airport Arrival 2025.4.21 Newsen`,
     tags: ["Media"]
   },
-  {
-    url: "https://www.youtube.com/watch?v=cRfbII60IjY",
-    img: "https://img.youtube.com/vi/cRfbII60IjY/0.jpg",
-    title: `[SUB]🎼굿데이 2025 (텔레파시 + 달빛 창가에서) MV`,
-    tags: ["Variety"]
-  },
-  {
-    url: "https://www.youtube.com/watch?v=tpimEyWXhYA",
-    img: "https://img.youtube.com/vi/tpimEyWXhYA/0.jpg",
-    title: `🎼[MV 비하인드] 굿데이 2025 (텔레파시 + 달빛 창가에서)`,
-    tags: ["Variety", "Behind"]
-  },
-  {
-    url: "https://www.youtube.com/watch?v=ZGzGZYi5a_g",
-    img: "https://img.youtube.com/vi/ZGzGZYi5a_g/0.jpg",
-    title: `250426 DAY6 박성진朴晟鎮 Instagram live`,
-    tags: ["Instagram"]
-  },
+  
 
 ]
 
