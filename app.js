@@ -44,16 +44,10 @@ function resetFilters(tabId) {
 
 // Calendar
 const events = {
-    '2025-04-06': 'Forever Young - Sydney',
-    '2025-04-07': 'Forever Young - Sydney',
-    '2025-04-09': 'Forever Young - Melbourne',
-    '2025-04-12': 'Forever Young - Auckland',
-    '2025-04-16': 'Forever Young - Los Angeles',
-    '2025-04-17': 'Forever Young - Los Angeles',
-    '2025-04-19': 'Forever Young - New York',
-    '2025-04-26': 'Forever Young - Yokohama',
-    '2025-04-27': 'Forever Young - Yokohama',
+    '2025-05-01': 'SUNGJIN Concept Photo',
     '2025-05-03': 'Forever Young - Indonesia',
+    '2025-05-05': 'DAY6 Concept Photo',
+    '2025-05-06': 'MV Teaser',
     '2025-05-07': 'Digital Single - Maybe Tomorrow',
     '2025-05-09': 'Forever Young Finale in Seoul',
     '2025-05-10': 'Forever Young Finale in Seoul',
