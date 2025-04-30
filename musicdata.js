@@ -475,7 +475,19 @@ const musicGroup = [
             { url: "https://www.melon.com/album/detail.htm?albumId=11787504", icon: "Melon.png", alt: "Melon" }
         ],
 	tags: ["Korean", "Single"]
-    }
+    },
+/*    {
+        img: "",
+        title: "Maybe Tomorrow",
+        date: "May 7, 2025",
+        links: [
+            { url: "", icon: "Spotify.png", alt: "Spotify" },
+            { url: "", icon: "AM.svg", alt: "Apple Music" },
+            { url: "", icon: "YM.svg", alt: "YouTube Music" },
+            { url: "", icon: "Melon.png", alt: "Melon" }
+        ],
+	tags: ["Korean", "Single"]
+    }, */
 ];
 
 const musicOthers = [
