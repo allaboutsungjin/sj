@@ -5082,6 +5082,18 @@ const groupvData = [
     title: `DAY6(데이식스) Digital Single ＜Maybe Tomorrow＞ Trailer Film`,
     tags: ["Trailer Film"]
   },
+  {
+    url: "https://www.youtube.com/shorts/k8RHGbC4O2Y",
+    img: "https://img.youtube.com/vi/k8RHGbC4O2Y/0.jpg",
+    title: `DAY6(데이식스) Digital Single ＜Maybe Tomorrow＞ Track Visualizer "Maybe Tomorrow"`,
+    tags: ["Shorts", "Teaser"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/gi59aeeiTwc",
+    img: "https://img.youtube.com/vi/gi59aeeiTwc/0.jpg",
+    title: `DAY6(데이식스) Digital Single ＜Maybe Tomorrow＞Track Visualizer "끝났지"`,
+    tags: ["Shorts", "Teaser"]
+  },
   
 ]
 
