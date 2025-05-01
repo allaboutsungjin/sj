@@ -14655,6 +14655,18 @@ const othersData = [
     title: `데이식스, 햇살 가득 담은 봄꽃 미소~ 😁(입국)✈️ 'DAY6' GMP Airport Arrival 2025.4.29 Newsen`,
     tags: ["Media"]
   },
+  {
+    url: "https://www.instagram.com/p/DI-d3lHRcrn/",
+    img: "img/d6umbro",
+    title: `DAY6 @ UMBROKOREA INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=zht0lMH2mQk",
+    img: "https://img.youtube.com/vi/zht0lMH2mQk/0.jpg",
+    title: `[ENG/마이에센셜] 우리 DAY6 밴드맨들이 반스에 진심이야... '반스식스'의 기상천외한 가방 속 (DAY6, 데이식스, VANS, 반스, 프리미엄 올드스쿨)`,
+    tags: ["Magazine", "Interview"]
+  },
 
 ]
 
