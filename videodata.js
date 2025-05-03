@@ -5094,6 +5094,12 @@ const groupvData = [
     title: `DAY6(데이식스) Digital Single ＜Maybe Tomorrow＞Track Visualizer "끝났지"`,
     tags: ["Shorts", "Teaser"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=Gq3Hrw9pCIQ",
+    img: "https://img.youtube.com/vi/Gq3Hrw9pCIQ/0.jpg",
+    title: `[데식이들] VANS Photoshoot Behind`,
+    tags: ["Behind", "DAY6s"]
+  },
   
 ]
 
@@ -14666,6 +14672,18 @@ const othersData = [
     img: "https://img.youtube.com/vi/zht0lMH2mQk/0.jpg",
     title: `[ENG/마이에센셜] 우리 DAY6 밴드맨들이 반스에 진심이야... '반스식스'의 기상천외한 가방 속 (DAY6, 데이식스, VANS, 반스, 프리미엄 올드스쿨)`,
     tags: ["Magazine", "Interview"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/hZ-zv5H-Mgk",
+    img: "https://img.youtube.com/vi/hZ-zv5H-Mgk/0.jpg",
+    title: `반스를 신은 데이식스가 막내 놀리기에 왜이리 진심이야... #DAY6 #데이식스 #VANS #반스 #GQKOREA #SHORTS`,
+    tags: ["Shorts", "Magazine"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/LBjhgNcsToM",
+    img: "https://img.youtube.com/vi/LBjhgNcsToM/0.jpg",
+    title: `반스 290 사이즈 신는 권위자, 성진 #DAY6 #데이식스 #SUNGJIN #성진 #VANS #반스 #GQKOREA #SHORTS`,
+    tags: ["Shorts", "Magazine"]
   },
 
 ]
