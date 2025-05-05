@@ -1223,6 +1223,18 @@ const psj2yaData = [
     title: "(아) 야야야, 찐빵 심장 주의 🫀🔨",
     tags: ["Season 2", "Shorts", "Giving A Try"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/oLEtUpGdc3w",
+    img: "https://img.youtube.com/vi/oLEtUpGdc3w/0.jpg",
+    title: "밴드계에 빼앗긴 야구계 인재 ⚾",
+    tags: ["Season 2", "Shorts", "Baseball"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/79WBSmtmrl0",
+    img: "https://img.youtube.com/vi/79WBSmtmrl0/0.jpg",
+    title: "승요 데장 ✨ 완전 멋지잖아",
+    tags: ["Season 2", "Shorts", "Baseball"]
+    },
 ];
 
 const stazData = [
