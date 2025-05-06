@@ -5118,6 +5118,12 @@ const groupvData = [
     title: `DAY6(데이식스) Digital Single ＜Maybe Tomorrow＞ Trailer Making Film`,
     tags: ["Making"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=luD95Pnfj7o",
+    img: "https://img.youtube.com/vi/luD95Pnfj7o/0.jpg",
+    title: `DAY6(데이식스) "Maybe Tomorrow" M/V Teaser`,
+    tags: ["Teaser"]
+  },
   
 ]
 
