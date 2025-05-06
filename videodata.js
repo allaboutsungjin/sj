@@ -5112,6 +5112,12 @@ const groupvData = [
     title: `[데식이들] VANS Photoshoot Behind`,
     tags: ["Behind", "DAY6s"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=hb9Uc5CohbA",
+    img: "https://img.youtube.com/vi/hb9Uc5CohbA/0.jpg",
+    title: `DAY6(데이식스) Digital Single ＜Maybe Tomorrow＞ Trailer Making Film`,
+    tags: ["Making"]
+  },
   
 ]
 
