@@ -5124,6 +5124,36 @@ const groupvData = [
     title: `DAY6(데이식스) "Maybe Tomorrow" M/V Teaser`,
     tags: ["Teaser"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=AnQGhlGD8rQ",
+    img: "https://img.youtube.com/vi/AnQGhlGD8rQ/0.jpg",
+    title: `DAY6(데이식스) Digital Single ＜Maybe Tomorrow＞ Photo Making Film`,
+    tags: ["Making"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=fdSG5l2DJTQ",
+    img: "https://img.youtube.com/vi/fdSG5l2DJTQ/0.jpg",
+    title: `DAY6 〈Maybe Tomorrow〉 COMEBACK COUNTDOWN LIVE`,
+    tags: ["Live"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=0fyZqS0N19o",
+    img: "https://img.youtube.com/vi/0fyZqS0N19o/0.jpg",
+    title: `DAY6(데이식스) "Maybe Tomorrow" M/V`,
+    tags: ["MV"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=DnR8pZ7YO6o",
+    img: "https://img.youtube.com/vi/DnR8pZ7YO6o/0.jpg",
+    title: `DAY6 - game over (Official Audio)`,
+    tags: ["Official Audio"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=4qTfWNL6oVM",
+    img: "https://img.youtube.com/vi/4qTfWNL6oVM/0.jpg",
+    title: `DAY6(데이식스) "Maybe Tomorrow" Singalong Guide Video`,
+    tags: ["Guide"]
+  },
   
 ]
 
@@ -14708,6 +14738,18 @@ const othersData = [
     img: "https://img.youtube.com/vi/LBjhgNcsToM/0.jpg",
     title: `반스 290 사이즈 신는 권위자, 성진 #DAY6 #데이식스 #SUNGJIN #성진 #VANS #반스 #GQKOREA #SHORTS`,
     tags: ["Shorts", "Magazine"]
+  },
+  {
+    url: "https://x.com/i/status/1920041162833826302",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1920026272836812803/img/rdWR1m0tXqDsRJNZ.jpg",
+    title: `[🎥✉️] #DAY6 @ FLO_OFFICIAL X`,
+    tags: ["X"]
+  },
+  {
+    url: "https://x.com/i/status/1920041413980344706",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1920026669475364865/img/4hXVBIdYj5KBUBvB.jpg",
+    title: `SING WITH #FLO💙 @ FLO_OFFICIAL X`,
+    tags: ["X"]
   },
 
 ]
