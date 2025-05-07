@@ -7158,9 +7158,69 @@ const othersData = [
     tags: ["Vlive"]
   },
   {
+    url: "https://www.instagram.com/p/BTsXJIljVk9/",
+    img: "img/sjykta1.jpg",
+    title: `SUNGJIN & YOUNG K @ TOURAVATAR INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/p/BT0nHpJD5z3/",
+    img: "img/sjykta2.jpg",
+    title: `SUNGJIN & YOUNG K @ TOURAVATAR INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/p/BT0o6lKjzRO/",
+    img: "img/sjykta3.jpg",
+    title: `SUNGJIN & YOUNG K @ TOURAVATAR INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/p/BT074Mnj3Rt/",
+    img: "img/sjykta4.jpg",
+    title: `SUNGJIN & YOUNG K @ TOURAVATAR INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
     url: "https://www.instagram.com/p/BT09WP2jGVT",
     img: "img/sjta.jpg",
     title: `SUNGJIN @ TOURAVATAR INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/p/BT1CxkxDO3Y/",
+    img: "img/sjykta5.jpg",
+    title: `SUNGJIN & YOUNG K @ TOURAVATAR INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/p/BT1NakVjTcI",
+    img: "img/sjykta.jpg",
+    title: `SUNGJIN & YOUNG K @ TOURAVATAR INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/p/BT1gg8PjNFm/",
+    img: "img/sjykta6.jpg",
+    title: `SUNGJIN & YOUNG K @ TOURAVATAR INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/p/BT2apkrD-xx/",
+    img: "img/sjta1.jpg",
+    title: `SUNGJIN @ TOURAVATAR INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/p/BT2zGekjlwr/",
+    img: "img/sjykta7.jpg",
+    title: `SUNGJIN & YOUNG K @ TOURAVATAR INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/p/BT3e0-ZjH8J/",
+    img: "img/sjykta8.jpg",
+    title: `SUNGJIN & YOUNG K @ TOURAVATAR INSTAGRAM`,
     tags: ["Instagram"]
   },
   {
