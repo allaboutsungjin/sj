@@ -476,18 +476,18 @@ const musicGroup = [
         ],
 	tags: ["Korean", "Single"]
     },
-/*    {
-        img: "",
+    {
+        img: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/d4/83/ded483fd-653c-7052-0bd8-605424f0977e/8809928955902_Cover.jpg/592x592bb.webp",
         title: "Maybe Tomorrow",
         date: "May 7, 2025",
         links: [
-            { url: "", icon: "Spotify.png", alt: "Spotify" },
-            { url: "", icon: "AM.svg", alt: "Apple Music" },
-            { url: "", icon: "YM.svg", alt: "YouTube Music" },
-            { url: "", icon: "Melon.png", alt: "Melon" }
+            { url: "https://open.spotify.com/album/2HhzHLoaQWdkvPQjoopUy6?si=zdeQluNNRZGnUDvzPQOAbw", icon: "Spotify.png", alt: "Spotify" },
+            { url: "https://music.apple.com/us/album/maybe-tomorrow-single/1810090445", icon: "AM.svg", alt: "Apple Music" },
+            { url: "https://music.youtube.com/playlist?list=OLAK5uy_megid0UJqVg1GuUGr_viS3RMmMZaiBX0A&si=VjcQ05svLM3MZwTH", icon: "YM.svg", alt: "YouTube Music" },
+            { url: "https://www.melon.com/album/detail.htm?albumId=11796328", icon: "Melon.png", alt: "Melon" }
         ],
 	tags: ["Korean", "Single"]
-    }, */
+    },
 ];
 
 const musicOthers = [
