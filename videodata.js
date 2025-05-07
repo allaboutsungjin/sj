@@ -7224,6 +7224,12 @@ const othersData = [
     tags: ["Instagram"]
   },
   {
+    url: "https://www.instagram.com/p/BT1dx9sgllQ",
+    img: "img/d6grazia.jpg",
+    title: `DAY6 @ GRAZIAKOREA INSTAGRAM`,
+    tags: ["Instagram"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=v8dSf4EsD3Y",
     img: "https://img.youtube.com/vi/v8dSf4EsD3Y/0.jpg",
     title: `라온 음감회 with DAY6, 권진아 full.ver / 170512[이홍기의 키스 더 라디오]`,
