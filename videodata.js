@@ -11769,6 +11769,12 @@ const othersData = [
     tags: ["Shorts", "Challenge"]
   },
   {
+    url: "https://www.youtube.com/watch?v=Md-deeJKPJ0",
+    img: "https://img.youtube.com/vi/Md-deeJKPJ0/0.jpg",
+    title: `데이식스 성진이 들려주는 영화 '라라랜드' 이야기 [EBS 캠페인-너의 꿈을 들려줘!]`,
+    tags: ["Radio"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=wNrHyATQImE",
     img: "https://img.youtube.com/vi/wNrHyATQImE/0.jpg",
     title: `[ENG] 세련되고 고급스러운 부산 남자 데이식스 성진ㅣ빨아삐리뽀2 EP.11`,
