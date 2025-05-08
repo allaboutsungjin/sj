@@ -14824,6 +14824,12 @@ const othersData = [
     tags: ["Shorts", "Magazine"]
   },
   {
+    url: "https://x.com/i/status/1920040922617651318",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1919986648605196290/img/8h82pLugKXulNRn-.jpg",
+    title: `[🎁] #DAY6 가 준비한 선물 도착! @ FLO_OFFICIAL X`,
+    tags: ["X"]
+  },
+  {
     url: "https://x.com/i/status/1920041162833826302",
     img: "https://pbs.twimg.com/amplify_video_thumb/1920026272836812803/img/rdWR1m0tXqDsRJNZ.jpg",
     title: `[🎥✉️] #DAY6 @ FLO_OFFICIAL X`,
