@@ -5154,6 +5154,18 @@ const groupvData = [
     title: `DAY6(데이식스) "Maybe Tomorrow" Singalong Guide Video`,
     tags: ["Guide"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=FWqihERkM7U",
+    img: "https://img.youtube.com/vi/FWqihERkM7U/0.jpg",
+    title: `DAY6(데이식스) “Maybe Tomorrow” M/V Making Film`,
+    tags: ["Making"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/VcVv-j8A4J0",
+    img: "https://img.youtube.com/vi/VcVv-j8A4J0/0.jpg",
+    title: `내일이 오면 오늘보단 나아지겠지~🌟`,
+    tags: ["Shorts", "Behind"]
+  },
   
 ]
 
