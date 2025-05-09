@@ -5166,7 +5166,12 @@ const groupvData = [
     title: `내일이 오면 오늘보단 나아지겠지~🌟`,
     tags: ["Shorts", "Behind"]
   },
-  
+  {
+    url: "https://www.youtube.com/watch?v=KZ9_-VJ_pHc",
+    img: "https://img.youtube.com/vi/KZ9_-VJ_pHc/0.jpg",
+    title: `DAY6(데이식스) 3RD WORLD TOUR ＜FOREVER YOUNG＞ in Australia & New Zealand`,
+    tags: ["Behind"]
+  },
 ]
 
 
