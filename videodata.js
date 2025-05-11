@@ -11304,6 +11304,12 @@ const othersData = [
     tags: ["YouTube Program"]
   },
   {
+    url: "https://www.youtube.com/watch?v=Wpgk4WzbyYs",
+    img: "https://img.youtube.com/vi/Wpgk4WzbyYs/0.jpg",
+    title: `아직도 몰라..? 본격 데이식스 입덕 영상!!!(NO출구)`,
+    tags: ["Magazine"]
+  },
+  {
     url: "https://www.youtube.com/shorts/YXpKbQ6nK_I",
     img: "https://img.youtube.com/vi/YXpKbQ6nK_I/0.jpg",
     title: `UNDERTONES 21S/S PAINT IT BLACK Showcase`,
