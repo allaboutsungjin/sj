@@ -14858,6 +14858,12 @@ const othersData = [
     title: `SING WITH #FLO💙 @ FLO_OFFICIAL X`,
     tags: ["X"]
   },
+  {
+    url: "https://x.com/i/status/1921792451972636676",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1921786269912489984/img/-iMngmdcj8PCuLMf.jpg",
+    title: `PHOTOISM X DAY6 @ PHOTOISM_BEHIND X`,
+    tags: ["X"]
+  },
 
 ]
 
