@@ -654,6 +654,14 @@ const psj2yaData = [
     tags: ["Season 2", "QnA"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=TuPb4bn4aKk",
+    img: "https://img.youtube.com/vi/TuPb4bn4aKk/0.jpg",
+    title: "Park SungJJIN S2 EP.45",
+    desc: `VLOG? More Like a Tour Review 😏 Park Sungjin’s ⓥⓛⓞⓖ "Experience" Log`,
+    guest: "Guest: -",
+    tags: ["Season 2"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
