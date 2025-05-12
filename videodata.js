@@ -5180,6 +5180,12 @@ const groupvData = [
     title: `DAY6(데이식스) 3RD WORLD TOUR ＜FOREVER YOUNG＞ in Australia & New Zealand`,
     tags: ["Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=LbQCFWB_8S0",
+    img: "https://img.youtube.com/vi/LbQCFWB_8S0/0.jpg",
+    title: `DAY6(데이식스) "Maybe Tomorrow" Lyric Video`,
+    tags: ["Lyric Video"]
+  },
 ]
 
 
