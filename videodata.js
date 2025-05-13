@@ -5186,6 +5186,12 @@ const groupvData = [
     title: `DAY6(데이식스) "Maybe Tomorrow" Lyric Video`,
     tags: ["Lyric Video"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=yaSRhKqA_VU",
+    img: "https://img.youtube.com/vi/yaSRhKqA_VU/0.jpg",
+    title: `DAY6(데이식스) 3RD WORLD TOUR ＜FOREVER YOUNG＞ FINALE in SEOUL MD Shooting Sketch 📸`,
+    tags: ["Behind"]
+  },
 ]
 
 
