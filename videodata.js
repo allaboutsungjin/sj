@@ -5192,6 +5192,12 @@ const groupvData = [
     title: `DAY6(데이식스) 3RD WORLD TOUR ＜FOREVER YOUNG＞ FINALE in SEOUL MD Shooting Sketch 📸`,
     tags: ["Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=ie3XLdZNafA",
+    img: "https://img.youtube.com/vi/ie3XLdZNafA/0.jpg",
+    title: `[데식이들] UMBRO Photoshoot Behind #2`,
+    tags: ["Behind", "DAY6s"]
+  },
 ]
 
 
