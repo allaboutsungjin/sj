@@ -5198,6 +5198,12 @@ const groupvData = [
     title: `[데식이들] UMBRO Photoshoot Behind #2`,
     tags: ["Behind", "DAY6s"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=HmbrSHymPro",
+    img: "https://img.youtube.com/vi/HmbrSHymPro/0.jpg",
+    title: `[LIVE] Maybe Tomorrow｜DAY6 3RD WORLD TOUR ＜FOREVER YOUNG＞ FINALE in SEOUL`,
+    tags: ["Live Clip"]
+  },
 ]
 
 
