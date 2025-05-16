@@ -5204,6 +5204,12 @@ const groupvData = [
     title: `[LIVE] Maybe Tomorrow｜DAY6 3RD WORLD TOUR ＜FOREVER YOUNG＞ FINALE in SEOUL`,
     tags: ["Live Clip"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=7icm4CxWLbM",
+    img: "https://img.youtube.com/vi/7icm4CxWLbM/0.jpg",
+    title: `DAY6(데이식스) 3RD WORLD TOUR ＜FOREVER YOUNG＞ in Los Angeles & New York`,
+    tags: ["Behind"]
+  },
 ]
 
 
