@@ -1205,6 +1205,7 @@ const psj2yaData = [
     url: "https://www.youtube.com/shorts/OHlODkfQGtk",
     img: "https://img.youtube.com/vi/OHlODkfQGtk/0.jpg",
     title: "[예고] 운전 연수 똑바로 받습니다! 🐰",
+    guest: "Guest: Wonpil",
     tags: ["Season 2", "Shorts", "Guest"]
     },
   { 
@@ -1242,6 +1243,27 @@ const psj2yaData = [
     img: "https://img.youtube.com/vi/79WBSmtmrl0/0.jpg",
     title: "승요 데장 ✨ 완전 멋지잖아",
     tags: ["Season 2", "Shorts", "Baseball"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/6zN0B9hgDwo",
+    img: "https://img.youtube.com/vi/6zN0B9hgDwo/0.jpg",
+    title: "전광판: 성진, 도운 잡힐게 📺",
+    guest: "Guest: Dowoon",
+    tags: ["Season 2", "Shorts", "Baseball", "Guest"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/ORBkrnF6iKc",
+    img: "https://img.youtube.com/vi/ORBkrnF6iKc/0.jpg",
+    title: "정말로 Welcome to the Show가 되어버렸잖아...🥹",
+    guest: "Guest: Dowoon",
+    tags: ["Season 2", "Shorts", "Baseball", "Guest"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/PCMp0WSukjs",
+    img: "https://img.youtube.com/vi/PCMp0WSukjs/0.jpg",
+    title: "[예고] 등장해버린 먹짱들의 조합 🐻x🦊",
+    guest: "Guest: Young K",
+    tags: ["Season 2", "Shorts", "Food", "Guest"]
     },
 ];
 
