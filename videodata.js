@@ -14930,6 +14930,12 @@ const othersData = [
     title: `[DICON] 안녕, 마이데이! (SUNGJIN)`,
     tags: ["Shorts", "Magazine"]
   },
+  {
+    url: "https://x.com/i/status/1925099248699265490",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1925075728330326017/img/PzYVE9t-nLPz_qJX.jpg",
+    title: `DAY6 @ MELON X`,
+    tags: ["X"]
+  },
 
 ]
 
