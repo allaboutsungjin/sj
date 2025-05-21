@@ -14924,6 +14924,12 @@ const othersData = [
     title: `PHOTOISM X DAY6 @ PHOTOISM_BEHIND X`,
     tags: ["X"]
   },
+  {
+    url: "https://www.youtube.com/shorts/cQ2bHMJQYSo",
+    img: "https://img.youtube.com/vi/cQ2bHMJQYSo/0.jpg",
+    title: `[DICON] 안녕, 마이데이! (SUNGJIN)`,
+    tags: ["Shorts", "Magazine"]
+  },
 
 ]
 
