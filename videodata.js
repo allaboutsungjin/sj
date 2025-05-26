@@ -662,6 +662,14 @@ const psj2yaData = [
     tags: ["Season 2"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=kmewPO52KQA",
+    img: "https://img.youtube.com/vi/kmewPO52KQA/0.jpg",
+    title: "Park SungJJIN S2 EP.46",
+    desc: `First time at Haidilao! What if foodie duo Sungjin & Young K meet?`,
+    guest: "Guest: Young K",
+    tags: ["Season 2", "Food", "Guest"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
