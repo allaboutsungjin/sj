@@ -1273,6 +1273,20 @@ const psj2yaData = [
     guest: "Guest: Young K",
     tags: ["Season 2", "Shorts", "Food", "Guest"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/SBDc09tvNpE",
+    img: "https://img.youtube.com/vi/SBDc09tvNpE/0.jpg",
+    title: "아무래도 DAY6는 한 가족이니깐...🫶",
+    guest: "Guest: Dowoon",
+    tags: ["Season 2", "Shorts", "Food", "Guest"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/fIhlUZ8SUc8",
+    img: "https://img.youtube.com/vi/fIhlUZ8SUc8/0.jpg",
+    title: "성진의 피는 영진 국밥이 흐른다🍲",
+    guest: "Guest: Dowoon",
+    tags: ["Season 2", "Shorts", "Food", "Guest"]
+    },
 ];
 
 const stazData = [
