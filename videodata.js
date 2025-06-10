@@ -14836,7 +14836,7 @@ const othersData = [
   },
   {
     url: "https://www.instagram.com/reel/DIQqAHhT4aM/",
-    img: "img/d6vans",
+    img: "img/d6vans.jpg",
     title: `DAY6 @ VANS_KOREA INSTAGRAM HIGHLIGHTS`,
     tags: ["Instagram"]
   },
@@ -14926,7 +14926,7 @@ const othersData = [
   },
   {
     url: "https://www.instagram.com/p/DI-d3lHRcrn/",
-    img: "img/d6umbro",
+    img: "img/d6umbro.jpg",
     title: `DAY6 @ UMBROKOREA INSTAGRAM`,
     tags: ["Instagram"]
   },
