@@ -14984,6 +14984,12 @@ const othersData = [
     title: `DAY6 @ MELON X`,
     tags: ["X"]
   },
+  {
+    url: "https://www.instagram.com/reel/DKt4XukP3Iw/",
+    img: "img/d6mssub.jpg",
+    title: `DAY6 @ MUSINSA.STORE INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
 
 ]
 
