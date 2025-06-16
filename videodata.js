@@ -1295,6 +1295,20 @@ const psj2yaData = [
     guest: "Guest: Dowoon",
     tags: ["Season 2", "Shorts", "Food", "Guest"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/YrqMYj96NEg",
+    img: "https://img.youtube.com/vi/YrqMYj96NEg/0.jpg",
+    title: "혹시.. 이 영상 무한 반복일까요?..영원히 반복해..🎵",
+    guest: "Guest: Wonpil",
+    tags: ["Season 2", "Shorts", "Guest"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/QEKPCLJb9W8",
+    img: "https://img.youtube.com/vi/QEKPCLJb9W8/0.jpg",
+    title: "시켜줘, 밥성진 명예 행복관 🥄",
+    guest: "Guest: Wonpil",
+    tags: ["Season 2", "Shorts", "Guest"]
+    },
 ];
 
 const stazData = [
