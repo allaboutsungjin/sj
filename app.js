@@ -44,18 +44,13 @@ function resetFilters(tabId) {
 
 // Calendar
 const events = {
-    '2025-05-01': 'SUNGJIN Concept Photo',
-    '2025-05-03': 'Forever Young - Indonesia',
-    '2025-05-05': 'DAY6 Concept Photo',
-    '2025-05-06': 'MV Teaser',
-    '2025-05-07': 'Digital Single - Maybe Tomorrow',
-    '2025-05-09': 'Forever Young Finale in Seoul',
-    '2025-05-10': 'Forever Young Finale in Seoul',
-    '2025-05-11': 'Forever Young Finale in Seoul',
-    '2025-05-16': 'Forever Young Finale in Seoul',
-    '2025-05-17': 'Forever Young Finale in Seoul',
-    '2025-05-18': 'Forever Young Finale in Seoul',
     '2025-06-14': '2025 K-WONDER CONCERT IN TAIPEI',
+    '2025-07-18': `DAY6 4TH FANMEETING 'PIER 10: All My Days'`,
+    '2025-07-19': `DAY6 4TH FANMEETING 'PIER 10: All My Days'`,
+    '2025-07-20': `DAY6 4TH FANMEETING 'PIER 10: All My Days'`,
+    '2025-07-25': `DAY6 4TH FANMEETING 'PIER 10: All My Days'`,
+    '2025-07-26': `DAY6 4TH FANMEETING 'PIER 10: All My Days'`,
+    '2025-07-27': `DAY6 4TH FANMEETING 'PIER 10: All My Days'`,
     // Add more events as needed
 };
 
