@@ -14939,12 +14939,6 @@ const othersData = [
     tags: ["Media"]
   },
   {
-    url: "https://www.instagram.com/p/DI-d3lHRcrn/",
-    img: "img/d6umbro.jpg",
-    title: `DAY6 @ UMBROKOREA INSTAGRAM`,
-    tags: ["Instagram"]
-  },
-  {
     url: "https://www.youtube.com/watch?v=zht0lMH2mQk",
     img: "https://img.youtube.com/vi/zht0lMH2mQk/0.jpg",
     title: `[ENG/마이에센셜] 우리 DAY6 밴드맨들이 반스에 진심이야... '반스식스'의 기상천외한 가방 속 (DAY6, 데이식스, VANS, 반스, 프리미엄 올드스쿨)`,
@@ -15001,6 +14995,18 @@ const othersData = [
   {
     url: "https://www.instagram.com/reel/DKt4XukP3Iw/",
     img: "img/d6mssub.jpg",
+    title: `DAY6 @ MUSINSA.STORE INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=NiVVa2fF0V0",
+    img: "https://img.youtube.com/vi/NiVVa2fF0V0/0.jpg",
+    title: `UMBRO 2025 HBL COLLECTION "SUPER YOUTH" with DAY6`,
+    tags: ["Ads"]
+  },
+  {
+    url: "https://www.instagram.com/p/DK_Z-hzPrY6/",
+    img: "img/d6umbro.jpg",
     title: `DAY6 @ MUSINSA.STORE INSTAGRAM REEL`,
     tags: ["Instagram"]
   },
