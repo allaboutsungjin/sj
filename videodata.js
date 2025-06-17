@@ -15005,11 +15005,18 @@ const othersData = [
     tags: ["Ads"]
   },
   {
-    url: "https://www.instagram.com/p/DK_Z-hzPrY6/",
-    img: "img/d6umbro.jpg",
-    title: `DAY6 @ MUSINSA.STORE INSTAGRAM REEL`,
-    tags: ["Instagram"]
+    url: "https://www.youtube.com/shorts/V-mihSLKvRM",
+    img: "https://img.youtube.com/vi/V-mihSLKvRM/0.jpg",
+    title: `데이식스에게 젊음의 비결을 묻다 [UMBRO X DAY6 l SUPER YOUTH]`,
+    tags: ["Short", "Ads"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=DA2BjRtE52Q",
+    img: "https://img.youtube.com/vi/DA2BjRtE52Q/0.jpg",
+    title: `데이식스에게 젊음의 비결을 묻다 [UMBRO X DAY6 ⎮ SUPER YOUTH]`,
+    tags: ["Ads"]
+  },
+  
 
 ]
 
