@@ -678,6 +678,14 @@ const psj2yaData = [
     tags: ["Season 2", "Baseball"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=6LoNc0_7qw4",
+    img: "https://img.youtube.com/vi/6LoNc0_7qw4/0.jpg",
+    title: "Park SungJJIN S2 EP.48",
+    desc: `BBANG SUNGJIN? He’s even tried Ex-Boyfriend Toast. 🍞`,
+    guest: "Guest: -",
+    tags: ["Season 2", "Food"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
