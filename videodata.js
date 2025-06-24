@@ -5302,6 +5302,12 @@ const groupvData = [
     title: `DAY6(데이식스) 3RD WORLD TOUR ＜FOREVER YOUNG＞ FINALE in SEOUL Week 2 Behind`,
     tags: ["Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=QdJTXQEoSMs",
+    img: "https://img.youtube.com/vi/QdJTXQEoSMs/0.jpg",
+    title: `[데식이들] 2025 K-WONDER CONCERT Behind`,
+    tags: ["Behind", "DAY6s"]
+  },
 ]
 
 
