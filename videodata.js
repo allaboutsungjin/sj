@@ -5308,6 +5308,12 @@ const groupvData = [
     title: `[데식이들] 2025 K-WONDER CONCERT Behind`,
     tags: ["Behind", "DAY6s"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=Gku2kd6x49g",
+    img: "https://img.youtube.com/vi/Gku2kd6x49g/0.jpg",
+    title: `DAY6 | ✨ "Healing Trip for Real" 🎡 Teaser`,
+    tags: ["Variety"]
+  },
 ]
 
 
