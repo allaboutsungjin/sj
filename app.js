@@ -45,6 +45,9 @@ function resetFilters(tabId) {
 // Calendar
 const events = {
     '2025-06-14': '2025 K-WONDER CONCERT IN TAIPEI',
+    '2025-07-03': `Healing Trip for Real`,
+    '2025-07-10': `Healing Trip for Real`,
+    '2025-07-17': `Healing Trip for Real`,
     '2025-07-18': `DAY6 4TH FANMEETING 'PIER 10: All My Days'`,
     '2025-07-19': `DAY6 4TH FANMEETING 'PIER 10: All My Days'`,
     '2025-07-20': `DAY6 4TH FANMEETING 'PIER 10: All My Days'`,
