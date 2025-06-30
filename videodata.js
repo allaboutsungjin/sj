@@ -1317,6 +1317,18 @@ const psj2yaData = [
     guest: "Guest: Wonpil",
     tags: ["Season 2", "Shorts", "Guest"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/MoC84uacfDU",
+    img: "https://img.youtube.com/vi/MoC84uacfDU/0.jpg",
+    title: "언젠가는 다 쓰게 되어있습니다 🎒",
+    tags: ["Season 2", "Shorts", "What's In My"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/avQuloop610",
+    img: "https://img.youtube.com/vi/avQuloop610/0.jpg",
+    title: "성진 건강 기원 930116일차 🙏",
+    tags: ["Season 2", "Shorts", "What's In My"]
+    },
 ];
 
 const stazData = [
