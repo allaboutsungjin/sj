@@ -14629,6 +14629,12 @@ const othersData = [
     tags: ["Music Awards"]
   },
   {
+    url: "https://www.youtube.com/watch?v=IOiEpAtED2g",
+    img: "https://img.youtube.com/vi/IOiEpAtED2g/0.jpg",
+    title: `데이식스(DAY6), 아름다운 청춘의 한 장 '노스페이스' 함께 써내려 가자 📷 Newsen`,
+    tags: ["Media"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=-8JYhtOny3U",
     img: "https://img.youtube.com/vi/-8JYhtOny3U/0.jpg",
     title: "DAY6 (데이식스) - Melt Down | Show! MusicCore | MBC241228방송",
@@ -14935,6 +14941,12 @@ const othersData = [
     tags: ["Instagram"]
   },
   {
+    url: "https://www.youtube.com/watch?v=gpOFR3Dl9X8",
+    img: "https://img.youtube.com/vi/gpOFR3Dl9X8/0.jpg",
+    title: `[Good Day] Finally, G-Dragon brought them together! The new members of Good Dayㅣ#GD #IU #DAY6`,
+    tags: ["Variety"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=Y90Sg439iKw",
     img: "https://img.youtube.com/vi/Y90Sg439iKw/0.jpg",
     title: `데이식스, 인천국제공항 입국✈️DAY6 Airport Arrival 2025.4.21 Newsen`,
@@ -14968,6 +14980,12 @@ const othersData = [
     url: "https://www.youtube.com/watch?v=lEUAxBfb6JE",
     img: "https://img.youtube.com/vi/lEUAxBfb6JE/0.jpg",
     title: `데이식스, 햇살 가득 담은 봄꽃 미소~ 😁(입국)✈️ 'DAY6' GMP Airport Arrival 2025.4.29 Newsen`,
+    tags: ["Media"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=KvNc9qRIlxk",
+    img: "https://img.youtube.com/vi/KvNc9qRIlxk/0.jpg",
+    title: `데이식스, 자카르타 콘서트 화이팅💪 무사히 다녀오기~(출국)✈️ DAY6 ICN Airport Departure 2025.5.2 Newsen`,
     tags: ["Media"]
   },
   {
@@ -15023,6 +15041,12 @@ const othersData = [
     img: "https://pbs.twimg.com/amplify_video_thumb/1925075728330326017/img/PzYVE9t-nLPz_qJX.jpg",
     title: `DAY6 @ MELON X`,
     tags: ["X"]
+  },
+   {
+    url: "https://www.youtube.com/watch?v=NxI_O4d2DbM",
+    img: "https://img.youtube.com/vi/NxI_O4d2DbM/0.jpg",
+    title: `데이식스, 마사지기 손에 꼭 쥐고 출국...건강은 내가 챙긴다💪(출국)✈️ DAY6 ICN Airport Departure 2025.6.13 Newsen`,
+    tags: ["Media"]
   },
   {
     url: "https://www.instagram.com/reel/DKt4XukP3Iw/",
