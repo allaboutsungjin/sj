@@ -15072,6 +15072,12 @@ const othersData = [
     title: `데이식스에게 젊음의 비결을 묻다 [UMBRO X DAY6 ⎮ SUPER YOUTH]`,
     tags: ["Ads"]
   },
+  {
+    url: "https://x.com/i/status/1940062984652685590",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1940062855576879104/img/UzlOGabmAIzKjQSP.jpg",
+    title: `<𝟔𝐃𝐀𝐘𝐒> 티저 트레일러 최초 공개🍀 @ CGV_FANSUPPORT X`,
+    tags: ["X"]
+  },
   
 
 ]
