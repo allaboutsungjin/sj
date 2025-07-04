@@ -15078,6 +15078,18 @@ const othersData = [
     title: `<𝟔𝐃𝐀𝐘𝐒> 티저 트레일러 최초 공개🍀 @ CGV_FANSUPPORT X`,
     tags: ["X"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=ignl50UBFF8",
+    img: "https://img.youtube.com/vi/ignl50UBFF8/0.jpg",
+    title: `Kia | [The Kia Tasman X DAY6] 6Days, the beginning of the adventure`,
+    tags: ["Ads"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=hhpjBu_a_Po",
+    img: "https://img.youtube.com/vi/hhpjBu_a_Po/0.jpg",
+    title: `[EN] The prequel of ‘6DAYS’ 🎬 DAY6’s First Movie Hits Theaters This Summer!`,
+    tags: ["Ads"]
+  },
   
 
 ]
