@@ -141,7 +141,7 @@ const musicGroup = [
         title: "Congratulations (Chinese Version)",
         date: "July 8, 2017",
         links: [
-            { url: "https://music.apple.com/cn/album/congratulations-chinese-version-Single/1590963794", icon: "AM.svg", alt: "Apple Music" },
+            {  },
         ],
 	tags: ["Chinese", "Single"]
     },
