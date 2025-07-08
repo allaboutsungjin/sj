@@ -15098,6 +15098,12 @@ const othersData = [
     title: `[EN] The prequel of ‘6DAYS’ 🎬 DAY6’s First Movie Hits Theaters This Summer!`,
     tags: ["Ads"]
   },
+  {
+    url: "https://x.com/i/status/1942599977651560521",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1942599563925237760/img/NVoKxeH6IxD6bQ7_.jpg",
+    title: `"이거 놓치면 인생의 너무 큰 걸 놓치는 거야" @ CGV_FANSUPPORT X`,
+    tags: ["X"]
+  },
   
 
 ]
