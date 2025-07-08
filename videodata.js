@@ -15099,6 +15099,18 @@ const othersData = [
     tags: ["Ads"]
   },
   {
+    url: "https://www.youtube.com/watch?v=NUgDmaIYvt0",
+    img: "https://img.youtube.com/vi/NUgDmaIYvt0/0.jpg",
+    title: `데이식스가 라이브를 너무 잘해요🌿😍| KBS 방송`,
+    tags: ["Radio"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/X8hAtZuwV5o",
+    img: "https://img.youtube.com/vi/X8hAtZuwV5o/0.jpg",
+    title: `달달함 한도초과 데이식스의 믿고 듣는 라이브🎸💚 | KBS 방송`,
+    tags: ["Short", "Radio"]
+  },
+  {
     url: "https://x.com/i/status/1942599977651560521",
     img: "https://pbs.twimg.com/amplify_video_thumb/1942599563925237760/img/NVoKxeH6IxD6bQ7_.jpg",
     title: `"이거 놓치면 인생의 너무 큰 걸 놓치는 거야" @ CGV_FANSUPPORT X`,
