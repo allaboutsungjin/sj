@@ -15116,6 +15116,12 @@ const othersData = [
     title: `"이거 놓치면 인생의 너무 큰 걸 놓치는 거야" @ CGV_FANSUPPORT X`,
     tags: ["X"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=iQHDuPFlwH0",
+    img: "https://img.youtube.com/vi/iQHDuPFlwH0/0.jpg",
+    title: `🎂JIHYO’s 20th Dol Party🎂 | 20 Years with JYP | TEASER`,
+    tags: ["YouTube Program"]
+  },
   
 
 ]
