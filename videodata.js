@@ -15122,7 +15122,36 @@ const othersData = [
     title: `🎂JIHYO’s 20th Dol Party🎂 | 20 Years with JYP | TEASER`,
     tags: ["YouTube Program"]
   },
-  
+  {
+    url: "https://www.youtube.com/watch?v=DJciwpUz_Kk",
+    img: "https://img.youtube.com/vi/DJciwpUz_Kk/0.jpg",
+    title: `성진은 아주 유명한 야구팬임｜KBO 올스타전 특별게스트 'DAY6 성진'`,
+    tags: ["KBO"]
+  },
+  {
+    url: "https://x.com/i/status/1943505814314192912",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1943505627075985408/img/P5L2bbqnmf7qqws8.jpg",
+    title: `Congratulations! @ CGV_FANSUPPORT X`,
+    tags: ["X"]
+  },
+  {
+    url: "https://www.instagram.com/reel/DL9ThPvs5Cm/",
+    img: "img/sjcomkbo.jpg",
+    title: `SUNGJIN @ SPOTV INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=UeSrv1_P16Q",
+    img: "https://img.youtube.com/vi/UeSrv1_P16Q/0.jpg",
+    title: `전준우, 김원중, 레이예스, 박세웅, 전민재. 올스타 레츠고!`,
+    tags: ["KBO"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=DgJX3M4aZI4",
+    img: "https://img.youtube.com/vi/DgJX3M4aZI4/0.jpg",
+    title: `덕아웃에 마이크 달아드렸어요~☆ 이 영상 하나로 올스타전 총정리! ｜폰세, 박건우, 박명근 선수 등 다수 출연 ｜ 2025 올스타전`,
+    tags: ["KBO"]
+  },
 
 ]
 
