@@ -1337,6 +1337,18 @@ const psj2yaData = [
     title: "성진 건강 기원 930116일차 🙏",
     tags: ["Season 2", "Shorts", "What's In My"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/AxNp_ASE70s",
+    img: "https://img.youtube.com/vi/AxNp_ASE70s/0.jpg",
+    title: `사람들이 왜 성진을 '귀여워'라고 부르는지 알 수 있는 영상🤭`,
+    tags: ["Season 2", "Shorts", "Food"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/Jibi0XL0fng",
+    img: "https://img.youtube.com/vi/Jibi0XL0fng/0.jpg",
+    title: `ASMR하는 곰 보실 분?🙋‍`,
+    tags: ["Season 2", "Shorts", "Food"]
+    },
 ];
 
 const stazData = [
