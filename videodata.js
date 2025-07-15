@@ -15164,6 +15164,24 @@ const othersData = [
     title: `덕아웃에 마이크 달아드렸어요~☆ 이 영상 하나로 올스타전 총정리! ｜폰세, 박건우, 박명근 선수 등 다수 출연 ｜ 2025 올스타전`,
     tags: ["KBO"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=BOhBOZCRpwM",
+    img: "https://img.youtube.com/vi/BOhBOZCRpwM/0.jpg",
+    title: `🎂JIHYO’s 20th Dol Party🎂 | 20 Years with JYP`,
+    tags: ["YouTube Program"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/8iTqnbLT4PQ",
+    img: "https://img.youtube.com/vi/8iTqnbLT4PQ/0.jpg",
+    title: `🧡지효 공주님👸✨의 이십돌🎂을 축하합니다🎉💛 #TWICE #JIHYO`,
+    tags: ["YouTube Program", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/KV6H-w3zaYI",
+    img: "https://img.youtube.com/vi/KV6H-w3zaYI/0.jpg",
+    title: `지효&성진 우정테스트👀🔥 #TWICE #JIHYO #DAY6 #SUNGJIN`,
+    tags: ["YouTube Program", "Shorts"]
+  },
 
 ]
 
