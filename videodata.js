@@ -15182,6 +15182,36 @@ const othersData = [
     title: `지효&성진 우정테스트👀🔥 #TWICE #JIHYO #DAY6 #SUNGJIN`,
     tags: ["YouTube Program", "Shorts"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=lIB_DB7GG54",
+    img: "https://img.youtube.com/vi/lIB_DB7GG54/0.jpg",
+    title: `☆★쓱-튜브가 쏜다★☆ 스벅 상품권이 걸린 추억의 뽑기 한 판🎯`,
+    tags: ["KBO"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=cmljmRX0gn4",
+    img: "https://img.youtube.com/vi/cmljmRX0gn4/0.jpg",
+    title: `10년 만에 돌아온 2025 올스타전 브이로그!! | 박상원&김영우 슬라이더 레슨 · 하지원 치어리더 아웃송 과외받기 · 이글스티비 콜라보 | 사이버 윤석민 - 2025 올스타전`,
+    tags: ["KBO"]
+  },
+  {
+    url: "https://x.com/i/status/1945323666188984558",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1945323373153632256/img/CHlritpnsFfqkCEq.jpg",
+    title: `“벌써 우리가 10년이라니” @ CGV_FANSUPPORT X`,
+    tags: ["X"]
+  },
+  {
+    url: "https://www.instagram.com/p/DMJ0nqhSlfW?img_index=4",
+    img: "img/sjzyo.jpg",
+    title: `SUNGJIN @ _ZYOZYO INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/zOd-oNVBeaw",
+    img: "https://img.youtube.com/vi/zOd-oNVBeaw/0.jpg",
+    title: `THIS IS FOR #SUNGJIN #트와이스 #THISISFOR #JIHYO #지효 #DAY6 #데이식스 #성진`,
+    tags: ["Shorts", "Challenge"]
+  },
 
 ]
 
