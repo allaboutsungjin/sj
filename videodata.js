@@ -5346,6 +5346,24 @@ const groupvData = [
     title: `DAY6 | ✨ "Healing Trip for Real" 🎡 Teaser`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=xvKSLNEC1_4",
+    img: "https://img.youtube.com/vi/xvKSLNEC1_4/0.jpg",
+    title: `DAY6 | ✨ "Healing Trip for Real" 🎡 Ep.01 The 'Hell'ling Gate Opens!`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=nvgnbXf-oaw",
+    img: "https://img.youtube.com/vi/nvgnbXf-oaw/0.jpg",
+    title: `DAY6 | ✨ "Healing Trip for Real" 🎡 Ep.02 A Fitness Test Tour Disguised as a Healing Trip ✌`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=86G7LoMKWdA",
+    img: "https://img.youtube.com/vi/86G7LoMKWdA/0.jpg",
+    title: `DAY6 | ✨ "Healing Trip for Real" 🎡 Ep.03 From Member Styling to Night Views 🌃 A Perfect Trip Finale!`,
+    tags: ["Variety"]
+  },
 ]
 
 
