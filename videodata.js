@@ -15230,6 +15230,12 @@ const othersData = [
     title: `THIS IS FOR #SUNGJIN #트와이스 #THISISFOR #JIHYO #지효 #DAY6 #데이식스 #성진`,
     tags: ["Shorts", "Challenge"]
   },
+  {
+    url: "https://www.youtube.com/shorts/-q6N8mAvDjM",
+    img: "https://img.youtube.com/vi/-q6N8mAvDjM/0.jpg",
+    title: `🎂JIHYO’s 20th Dol Party🎂 | 20 Years with JYP Highlight #3 #TWICE #JIHYO`,
+    tags: ["YouTube Program", "Shorts"]
+  },
 
 ]
 
