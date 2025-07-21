@@ -694,6 +694,14 @@ const psj2yaData = [
     tags: ["Season 2"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=A1Xg0Lq2mBE",
+    img: "https://img.youtube.com/vi/A1Xg0Lq2mBE/0.jpg",
+    title: "Park SungJJIN S2 EP.50",
+    desc: `That was SUNGJIN Park🎙 for the All-Star Game Commentary! ⚾`,
+    guest: "Guest: -",
+    tags: ["Season 2", "Baseball"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
