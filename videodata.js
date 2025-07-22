@@ -15244,6 +15244,12 @@ const othersData = [
     title: `🎂JIHYO’s 20th Dol Party🎂 | 20 Years with JYP Highlight #3 #TWICE #JIHYO`,
     tags: ["YouTube Program", "Shorts"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=nYilX_6I3W0",
+    img: "https://img.youtube.com/vi/nYilX_6I3W0/0.jpg",
+    title: `[TW-DAY☀️] #11 Spin! Drop down! and TURN IT UP! 💙💃 (with. BAMBAM, MINGYU, SEUNGKWAN, SUNGJIN)`,
+    tags: ["YouTube Program"]
+  },
 
 ]
 
