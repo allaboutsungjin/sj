@@ -15250,6 +15250,18 @@ const othersData = [
     title: `[TW-DAY☀️] #11 Spin! Drop down! and TURN IT UP! 💙💃 (with. BAMBAM, MINGYU, SEUNGKWAN, SUNGJIN)`,
     tags: ["YouTube Program"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=0zf8Qq-wZ6A",
+    img: "https://img.youtube.com/vi/0zf8Qq-wZ6A/0.jpg",
+    title: `우리의 밴드맨들, 데이식스가 반스 체커보드 슬립-온을 신고 보내는 어느 한여름의 조각들 (VANS, 반스, SLIP-ON, 슬립온, DAY6, 데이식스)`,
+    tags: ["Ads"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/IcDfrjOdiTY",
+    img: "https://img.youtube.com/vi/IcDfrjOdiTY/0.jpg",
+    title: `‘반스식스’와 함께한 두 번째 캠페인. 30분 뒤에 진짜 큰 거 옵니다. #VANS #반스 #DAY6 #데이식스 #GQKOREA #SHOTRS`,
+    tags: ["Ads", "Shorts"]
+  },
 
 ]
 
