@@ -1357,6 +1357,18 @@ const psj2yaData = [
     title: `ASMR하는 곰 보실 분?🙋‍`,
     tags: ["Season 2", "Shorts", "Food"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/rZp6D9DBbjQ",
+    img: "https://img.youtube.com/vi/rZp6D9DBbjQ/0.jpg",
+    title: `밥성진이 추천하는 맛없없 BEST2✌️‍`,
+    tags: ["Season 2", "Shorts", "Food"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/MYrzQj1-PRw",
+    img: "https://img.youtube.com/vi/MYrzQj1-PRw/0.jpg",
+    title: `성진은 유명한 다정귀염곰이잖슨🐻‍`,
+    tags: ["Season 2", "Shorts", "Food"]
+    },
 ];
 
 const stazData = [
