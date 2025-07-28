@@ -15274,6 +15274,12 @@ const othersData = [
     title: `‘반스식스’와 함께한 두 번째 캠페인. 30분 뒤에 진짜 큰 거 옵니다. #VANS #반스 #DAY6 #데이식스 #GQKOREA #SHOTRS`,
     tags: ["Ads", "Shorts"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=85ntVl0ABIY",
+    img: "https://img.youtube.com/vi/85ntVl0ABIY/0.jpg",
+    title: `'반스식스'의 비하인드를 보는 순간, 모든 게 다 괜찮아질 겁니다. 다 괜찮아!!! (VANS, 반스, SLIP-ON, 슬립온, DAY6, 데이식스)`,
+    tags: ["Ads"]
+  },
 
 ]
 
