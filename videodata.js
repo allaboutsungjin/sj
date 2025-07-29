@@ -15280,6 +15280,12 @@ const othersData = [
     title: `'반스식스'의 비하인드를 보는 순간, 모든 게 다 괜찮아질 겁니다. 다 괜찮아!!! (VANS, 반스, SLIP-ON, 슬립온, DAY6, 데이식스)`,
     tags: ["Ads"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=ZfikumLSdeo",
+    img: "https://img.youtube.com/vi/ZfikumLSdeo/0.jpg",
+    title: `Kia | [The Kia Tasman X DAY6] A Bold, Romantic 6-Day Adventure`,
+    tags: ["Ads"]
+  },
 
 ]
 
