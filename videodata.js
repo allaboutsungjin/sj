@@ -15286,6 +15286,12 @@ const othersData = [
     title: `Kia | [The Kia Tasman X DAY6] A Bold, Romantic 6-Day Adventure`,
     tags: ["Ads"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=GqwE3xwHSVQ",
+    img: "https://img.youtube.com/vi/GqwE3xwHSVQ/0.jpg",
+    title: `[ENG] 사랑이 눈에 보이는 순간. 사랑 많은 밴드맨들, 데이식스가 전하는 사랑...♡ (DAY6, 데이식스, VANS, 반스, SLIP-ON, 슬립온)`,
+    tags: ["Ads", "Magazine", "YouTube Program"]
+  },
 
 ]
 
