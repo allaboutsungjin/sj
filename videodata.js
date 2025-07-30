@@ -15292,6 +15292,12 @@ const othersData = [
     title: `[ENG] 사랑이 눈에 보이는 순간. 사랑 많은 밴드맨들, 데이식스가 전하는 사랑...♡ (DAY6, 데이식스, VANS, 반스, SLIP-ON, 슬립온)`,
     tags: ["Ads", "Magazine", "YouTube Program"]
   },
+  {
+    url: "https://x.com/i/status/1950390603742925065",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1950387868452753408/img/p-LVMMUpk96rmC7T.jpg",
+    title: `여름의 한 페이지가 3면에 펼쳐지는 순간, 제 마음도 녹아내려요.. @ 4DPLEXFILM X`,
+    tags: ["X"]
+  },
 
 ]
 
