@@ -5384,6 +5384,19 @@ const groupvData = [
     title: `DAY6 | ✨ "Healing Trip for Real" 🎡 Ep.03 From Member Styling to Night Views 🌃 A Perfect Trip Finale!`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=qKeqOL8wPrs",
+    img: "https://img.youtube.com/vi/qKeqOL8wPrs/0.jpg",
+    title: `DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞ MD Shooting Sketch 📸`,
+    tags: ["Behind"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=XtAkNZijPBw",
+    img: "https://img.youtube.com/vi/XtAkNZijPBw/0.jpg",
+    title: `DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞ Opening VCR 🫧`,
+    tags: ["VCR"]
+  },
+  
 ]
 
 
