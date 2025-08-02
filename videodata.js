@@ -5396,6 +5396,30 @@ const groupvData = [
     title: `DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞ Opening VCR 🫧`,
     tags: ["VCR"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=1LGQgtcF_A8",
+    img: "https://img.youtube.com/vi/1LGQgtcF_A8/0.jpg",
+    title: `DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞ Bridge VCR #1 🎁`,
+    tags: ["VCR"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=jSa4yvhlfdc",
+    img: "https://img.youtube.com/vi/jSa4yvhlfdc/0.jpg",
+    title: `DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞ Bridge VCR #2 🎁`,
+    tags: ["VCR"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/Ca72261o_DY",
+    img: "https://img.youtube.com/vi/Ca72261o_DY/0.jpg",
+    title: `성진 & Young K의 전국〰️데식자랑🎤 | 문득 🎵`,
+    tags: ["Shorts", "VCR"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/Uh53hNi5tQQ",
+    img: "https://img.youtube.com/vi/Uh53hNi5tQQ/0.jpg",
+    title: `성진 & Young K의 전국〰️데식자랑 🎤 | 행운을 빌어 줘 🎵`,
+    tags: ["Shorts", "VCR"]
+  },
   
 ]
 
@@ -15396,3 +15420,4 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
