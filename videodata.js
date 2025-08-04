@@ -5420,6 +5420,24 @@ const groupvData = [
     title: `성진 & Young K의 전국〰️데식자랑 🎤 | 행운을 빌어 줘 🎵`,
     tags: ["Shorts", "VCR"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=_ifcHz4gXoc",
+    img: "https://img.youtube.com/vi/_ifcHz4gXoc/0.jpg",
+    title: `DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞ Encore VCR #1 🎶`,
+    tags: ["VCR"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=dfkqRxB3X-Y",
+    img: "https://img.youtube.com/vi/dfkqRxB3X-Y/0.jpg",
+    title: `DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞ Encore VCR #2 🎶`,
+    tags: ["VCR"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=v-FsSvDwWzo",
+    img: "https://img.youtube.com/vi/v-FsSvDwWzo/0.jpg",
+    title: `LIVE｜그녀가 웃었다 + Man in a movie + COUNTER + Say Wow｜DAY6 WORLD TOUR＜FOREVER YOUNG＞FINALE in SEOUL`,
+    tags: ["Live Clip"]
+  },
   
 ]
 
@@ -15420,4 +15438,5 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
