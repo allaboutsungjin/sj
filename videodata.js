@@ -15391,6 +15391,12 @@ const othersData = [
     title: `여름의 한 페이지가 3면에 펼쳐지는 순간, 제 마음도 녹아내려요.. @ 4DPLEXFILM X`,
     tags: ["X"]
   },
+  {
+    url: "https://x.com/i/status/1952202787166748974",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1952200469285388288/img/V4Fr4Q62RRQhJ1bK.jpg",
+    title: `BACK TO ONE – DAY6 caught in the endless loop of “Still rollin” @ 4DPLEXFILM X`,
+    tags: ["X"]
+  },
 
 ]
 
@@ -15476,6 +15482,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
