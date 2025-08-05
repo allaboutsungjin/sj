@@ -5447,6 +5447,30 @@ const groupvData = [
     tags: ["Live Clip"]
   },
   {
+    url: "https://www.youtube.com/shorts/lcK9vq4RS1s",
+    img: "https://img.youtube.com/vi/lcK9vq4RS1s/0.jpg",
+    title: `탄탄한 기본 안무에서 탄생한 춤신춤왕 데장🔥`,
+    tags: ["Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/g0Y5pEEZc78",
+    img: "https://img.youtube.com/vi/g0Y5pEEZc78/0.jpg",
+    title: `반키 높인 보컬차력쇼! Young K의 좋아합니다 🎵`,
+    tags: ["Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/tlBydXscRBQ",
+    img: "https://img.youtube.com/vi/tlBydXscRBQ/0.jpg",
+    title: `다 같이 또로롱 〰️🫧 또로롱 〰️🫧`,
+    tags: ["Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/PBU6N9AMpCg",
+    img: "https://img.youtube.com/vi/PBU6N9AMpCg/0.jpg",
+    title: `My Day 다들 따라해주세요! "야아〰️〰️〰️〰️🦕"`,
+    tags: ["Shorts"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=hft6QkqmaYQ",
     img: "https://img.youtube.com/vi/hft6QkqmaYQ/0.jpg",
     title: `LIVE｜I'm Fine + 아 왜 + Love me or Leave me + Shoot Me｜DAY6 WORLD TOUR ＜FOREVER YOUNG＞ FINALE in SEOUL`,
@@ -15452,6 +15476,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
