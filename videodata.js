@@ -5446,6 +5446,12 @@ const groupvData = [
     title: `LIVE｜그녀가 웃었다 + Man in a movie + COUNTER + Say Wow｜DAY6 WORLD TOUR＜FOREVER YOUNG＞FINALE in SEOUL`,
     tags: ["Live Clip"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=hft6QkqmaYQ",
+    img: "https://img.youtube.com/vi/hft6QkqmaYQ/0.jpg",
+    title: `LIVE｜I'm Fine + 아 왜 + Love me or Leave me + Shoot Me｜DAY6 WORLD TOUR ＜FOREVER YOUNG＞ FINALE in SEOUL`,
+    tags: ["Live Clip"]
+  },
   
 ]
 
@@ -15446,6 +15452,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
