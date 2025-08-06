@@ -44,18 +44,18 @@ function resetFilters(tabId) {
 
 // Calendar
 const events = {
-    '2025-06-14': '2025 K-WONDER CONCERT IN TAIPEI',
-    '2025-07-03': `Healing Trip for Real`,
-    '2025-07-10': `Healing Trip for Real`,
-    '2025-07-12': `KBO All Star`,
-    '2025-07-15': `JIHYO’s 20th Dol Party`,
-    '2025-07-17': `Healing Trip for Real`,
-    '2025-07-18': `DAY6 4TH FANMEETING 'PIER 10: All My Days'`,
-    '2025-07-19': `DAY6 4TH FANMEETING 'PIER 10: All My Days'`,
-    '2025-07-20': `DAY6 4TH FANMEETING 'PIER 10: All My Days'`,
-    '2025-07-25': `DAY6 4TH FANMEETING 'PIER 10: All My Days'`,
-    '2025-07-26': `DAY6 4TH FANMEETING 'PIER 10: All My Days'`,
-    '2025-07-27': `DAY6 4TH FANMEETING 'PIER 10: All My Days'`,
+    '2025-08-05': `'6DAYS' VIP Screening`,
+    '2025-08-13': `'6DAYS' Movie`,
+    '2025-08-16': `'6DAYS' Stage Greetings`,
+    '2025-08-30': `10th Anniversary Tour <The DECADE> in Goyang`,
+    '2025-08-31': `10th Anniversary Tour <The DECADE> in Goyang`,
+    '2025-09-07': `4TH FULL ALBUM <The DECADE>`,
+    '2025-09-07': `DAY6 10TH ANNIVERSARY 🎉`,
+    '2025-09-17': `10th Anniversary Tour <The DECADE> in Bangkok`,
+    '2025-10-18': `10th Anniversary Tour <The DECADE> in Ho Chi Minh`,
+    '2026-01-17': `10th Anniversary Tour <The DECADE> in Hong Kong`,
+    '2026-01-24': `10th Anniversary Tour <The DECADE> in Manila`,
+    '2026-01-31': `10th Anniversary Tour <The DECADE> in Kuala Lumpur`,
     // Add more events as needed
 };
 
@@ -216,3 +216,4 @@ function listEvents(events, month, year) {
 // Call this function inside generateCalendar:
 generateCalendar(currentMonth, currentYear);
 listEvents(events, currentMonth, currentYear);
+
