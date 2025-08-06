@@ -5476,6 +5476,24 @@ const groupvData = [
     title: `LIVE｜I'm Fine + 아 왜 + Love me or Leave me + Shoot Me｜DAY6 WORLD TOUR ＜FOREVER YOUNG＞ FINALE in SEOUL`,
     tags: ["Live Clip"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=WL8jyAt5C7E",
+    img: "https://img.youtube.com/vi/WL8jyAt5C7E/0.jpg",
+    title: `[데식이들] VANS Photoshoot Behind #2`,
+    tags: ["Behind", "DAY6s"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=aMr3k50AB_M",
+    img: "https://img.youtube.com/vi/aMr3k50AB_M/0.jpg",
+    title: `LIVE｜괴물｜DAY6 WORLD TOUR ＜FOREVER YOUNG＞ FINALE in SEOUL`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=lh32bS0lcyE",
+    img: "https://img.youtube.com/vi/lh32bS0lcyE/0.jpg",
+    title: `LIVE｜끝났지｜DAY6 WORLD TOUR ＜FOREVER YOUNG＞ FINALE in SEOUL`,
+    tags: ["Live Clip"]
+  },
   
 ]
 
@@ -15482,6 +15500,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
