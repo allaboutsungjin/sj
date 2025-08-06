@@ -15415,6 +15415,12 @@ const othersData = [
     title: `BACK TO ONE – DAY6 caught in the endless loop of “Still rollin” @ 4DPLEXFILM X`,
     tags: ["X"]
   },
+  {
+    url: "https://x.com/i/status/1953040855595663499",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1952959718798049281/img/GkKSIlvLX6G-eWXF.jpg",
+    title: `6DAYS VIP 시사회에서 씨지비가 만난 데이식스! @ CGV_KOREA X`,
+    tags: ["X"]
+  },
 
 ]
 
@@ -15500,6 +15506,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
