@@ -15421,6 +15421,18 @@ const othersData = [
     title: `6DAYS VIP 시사회에서 씨지비가 만난 데이식스! @ CGV_KOREA X`,
     tags: ["X"]
   },
+  {
+    url: "https://x.com/i/status/1953274901558706255",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1953267788979843072/img/jX75sWUuyn7AFN49.jpg",
+    title: `📚 <씨네21> 1519호 무빙커버는 <#6DAYS> @ CINE21_EDITOR X`,
+    tags: ["X"]
+  },
+  {
+    url: "https://x.com/i/status/1953289113773457715",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1953287419249475585/img/rqlPvI9BJDqziImZ.jpg",
+    title: `DAY6를 향해 커져만 가는 내 맘 제발 어떻게 좀 해줘요 @ 4DPLEXFILM X`,
+    tags: ["X"]
+  },
 
 ]
 
@@ -15506,6 +15518,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
