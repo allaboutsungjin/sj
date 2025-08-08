@@ -5494,6 +5494,18 @@ const groupvData = [
     title: `LIVE｜끝났지｜DAY6 WORLD TOUR ＜FOREVER YOUNG＞ FINALE in SEOUL`,
     tags: ["Live Clip"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=YUw2lTlfucM",
+    img: "https://img.youtube.com/vi/YUw2lTlfucM/0.jpg",
+    title: `DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞ Behind #1 📸`,
+    tags: ["Behind"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=1iPf4d7zGos",
+    img: "https://img.youtube.com/vi/1iPf4d7zGos/0.jpg",
+    title: `LIVE｜Best Part｜DAY6 WORLD TOUR ＜FOREVER YOUNG＞ FINALE in SEOUL`,
+    tags: ["Live Clip"]
+  },
   
 ]
 
@@ -15518,6 +15530,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
