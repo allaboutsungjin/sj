@@ -1377,6 +1377,18 @@ const psj2yaData = [
     title: `성진은 유명한 다정귀염곰이잖슨🐻‍`,
     tags: ["Season 2", "Shorts", "Food"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/kxgEi_EAcfw",
+    img: "https://img.youtube.com/vi/kxgEi_EAcfw/0.jpg",
+    title: `우리끼리는 경쟁하지 않기로 해요오..🤙‍`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/BhMFN6JcmTs",
+    img: "https://img.youtube.com/vi/BhMFN6JcmTs/0.jpg",
+    title: `성진을 향한 마음을 접었습니다... 곱게 접어서 예쁜 하트로 만들겠습니다🤍‍`,
+    tags: ["Season 2", "Shorts"]
+    },
 ];
 
 const stazData = [
@@ -15445,6 +15457,12 @@ const othersData = [
     title: `DAY6를 향해 커져만 가는 내 맘 제발 어떻게 좀 해줘요 @ 4DPLEXFILM X`,
     tags: ["X"]
   },
+  {
+    url: "https://www.youtube.com/shorts/qQ_Yw8Pqj68",
+    img: "https://img.youtube.com/vi/qQ_Yw8Pqj68/0.jpg",
+    title: `👤: 아무거나 마시는 거 아닙니다. 맛있는 거 마십시다.`,
+    tags: ["Ads", "Shorts"]
+  },
 
 ]
 
@@ -15530,6 +15548,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
