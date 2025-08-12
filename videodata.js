@@ -15463,6 +15463,12 @@ const othersData = [
     title: `👤: 아무거나 마시는 거 아닙니다. 맛있는 거 마십시다.`,
     tags: ["Ads", "Shorts"]
   },
+  {
+    url: "https://www.youtube.com/watch?=k-ZzpPub6kI",
+    img: "https://img.youtube.com/vi/k-ZzpPub6kI/0.jpg",
+    title: `엄마 나 어지러워..이게 바로 낭만인가 봐 《6DAYS》 VIP 시사회 스케치 영상 #최초공개`,
+    tags: ["Behind"]
+  },
 
 ]
 
@@ -15548,6 +15554,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
