@@ -5518,6 +5518,12 @@ const groupvData = [
     title: `LIVE｜Best Part｜DAY6 WORLD TOUR ＜FOREVER YOUNG＞ FINALE in SEOUL`,
     tags: ["Live Clip"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=0zdkvGDDnQg",
+    img: "https://img.youtube.com/vi/0zdkvGDDnQg/0.jpg",
+    title: `DAY6(데이식스) 4th Full Album ＜The DECADE＞ Trailer Film`,
+    tags: ["Trailer Film"]
+  },
   
 ]
 
@@ -15458,16 +15464,34 @@ const othersData = [
     tags: ["X"]
   },
   {
-    url: "https://www.youtube.com/shorts/qQ_Yw8Pqj68",
-    img: "https://img.youtube.com/vi/qQ_Yw8Pqj68/0.jpg",
-    title: `👤: 아무거나 마시는 거 아닙니다. 맛있는 거 마십시다.`,
-    tags: ["Ads", "Shorts"]
+    url: "https://x.com/i/status/1954739195005833591",
+    img: "https://pbs.twimg.com/ext_tw_video_thumb/1954739173824544769/pu/img/p022JNpVh8Cp6BKl.jpg",
+    title: `장난 아닌 DAY6의 장난 아닌 첫 뮤직로드무비 <6DAYS> @ 4DPLEXFILM X`,
+    tags: ["X"]
   },
   {
     url: "https://www.youtube.com/watch?=k-ZzpPub6kI",
     img: "https://img.youtube.com/vi/k-ZzpPub6kI/0.jpg",
     title: `엄마 나 어지러워..이게 바로 낭만인가 봐 《6DAYS》 VIP 시사회 스케치 영상 #최초공개`,
     tags: ["Behind"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/qQ_Yw8Pqj68",
+    img: "https://img.youtube.com/vi/qQ_Yw8Pqj68/0.jpg",
+    title: `👤: 아무거나 마시는 거 아닙니다. 맛있는 거 마십시다.`,
+    tags: ["Ads", "Shorts"]
+  },
+  {
+    url: "https://x.com/i/status/1955463437150195716",
+    img: "hhttps://pbs.twimg.com/ext_tw_video_thumb/1955463399523131392/pu/img/apfbBpC6rDhJ-VOP.jpg",
+    title: `<6DAYS> 드디어 개봉 D-DAY! @ 4DPLEXFILM X`,
+    tags: ["X"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/KUaC59sPPFY",
+    img: "https://img.youtube.com/vi/KUaC59sPPFY/0.jpg",
+    title: `🗓️ DAY1.. DAY2.. DAY6??!!🐻🦊🐰🐶`,
+    tags: ["Ads", "Shorts"]
   },
 
 ]
@@ -15554,6 +15578,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
