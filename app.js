@@ -57,25 +57,25 @@ const events = {
     '2025-08-29': `DAY6 4TH FULL ALBUM The DECADE Track 1 MV Teaser 1`,
     '2025-08-30': `10th Anniversary Tour <The DECADE> in Goyang`,
     '2025-08-31': `10th Anniversary Tour <The DECADE> in Goyang`,
-    '2025-09-01': `DAY6 is 10 Teaser`,
-    '2025-09-01': `10th Anniversary Medley Live`,
-    '2025-09-01': `DAY6.zip : The Home of Our Decade`,
-    '2025-09-02': `DAY6 10th Anniversary Documentary Teaser`,
-    '2025-09-02': `DAY6.zip : The Home of Our Decade`,
-    '2025-09-03': `DAY6 4TH FULL ALBUM The DECADE Album Sampler`,
-    '2025-09-03': `DAY6.zip : The Home of Our Decade`,
-    '2025-09-04': `DAY6 4TH FULL ALBUM The DECADE Track 2 MV Teaser 2`,
-    '2025-09-04': `DAY6.zip : The Home of Our Decade`,
-    '2025-09-05': `DAY6 4TH FULL ALBUM The DECADE Release`,
-    '2025-09-05': `DAY6 4TH FULL ALBUM The DECADE Comeback Live`,
-    '2025-09-05': `DAY6 4TH FULL ALBUM The DECADE Track 2 MV`,
-    '2025-09-05': `DAY6.zip : The Home of Our Decade`,
-    '2025-09-06': `DAY6 4TH FULL ALBUM The DECADE Track 1 MV`,
-    '2025-09-06': `DAY6.zip : The Home of Our Decade`,
-    '2025-09-07': `DAY6 10TH ANNIVERSARY 🎉`,
-    '2025-09-07': `10th Anniversary Special Live`,
-    '2025-09-07': `DAY6 is 10 EP.1`,
-    '2025-09-07': `DAY6.zip : The Home of Our Decade`,
+    '2025-09-01': [`DAY6 is 10 Teaser`,
+                    `10th Anniversary Medley Live`,
+                    `DAY6.zip : The Home of Our Decade`],
+    '2025-09-02': [`DAY6 10th Anniversary Documentary Teaser`,
+                     `DAY6.zip : The Home of Our Decade`],
+    '2025-09-03': [`DAY6 4TH FULL ALBUM The DECADE Album Sampler`,
+                    `DAY6.zip : The Home of Our Decade`],
+    '2025-09-04': [`DAY6 4TH FULL ALBUM The DECADE Track 2 MV Teaser 2`,
+                    `DAY6.zip : The Home of Our Decade`],
+    '2025-09-05': [`DAY6 4TH FULL ALBUM The DECADE Release`,
+                    `DAY6 4TH FULL ALBUM The DECADE Comeback Live`,
+                    `DAY6 4TH FULL ALBUM The DECADE Track 2 MV`,
+                    `DAY6.zip : The Home of Our Decade`],
+    '2025-09-06': [`DAY6 4TH FULL ALBUM The DECADE Track 1 MV`,
+                    `DAY6.zip : The Home of Our Decade`],
+    '2025-09-07': [`DAY6 10TH ANNIVERSARY 🎉`,
+                    `10th Anniversary Special Live`,
+                    `DAY6 is 10 EP.1`,
+                    `DAY6.zip : The Home of Our Decade`],
     '2025-09-08': `DAY6 4TH FULL ALBUM The DECADE Track 2 Live Clip`,
     '2025-09-09': `10th Anniversary Documentary`,
     '2025-09-10': `DAY6 4TH FULL ALBUM The DECADE Track 1 Live Clip`,
@@ -83,8 +83,8 @@ const events = {
     '2025-09-14': `DAY6 is 10 EP.2`,
     '2025-09-15': `LIVE CLIP with My Day 1`,
     '2025-09-16': `LIVE CLIP with My Day 2`,
-    '2025-09-17': `LIVE CLIP with My Day 3`,
-    '2025-09-17': `10th Anniversary Tour <The DECADE> in Bangkok`,
+    '2025-09-17': [`LIVE CLIP with My Day 3`,
+                    `10th Anniversary Tour <The DECADE> in Bangkok`],
     '2025-09-18': `LIVE CLIP with My Day 4`,
     '2025-09-19': `LIVE CLIP with My Day 5`,
     '2025-10-18': `10th Anniversary Tour <The DECADE> in Ho Chi Minh`,
@@ -141,11 +141,13 @@ function generateCalendar(month, year) {
 
                     // Add event info if the day has an event
                     if (events[dayString]) {
-                        const eventInfo = document.createElement('div');
-                        eventInfo.classList.add('event-info');
-                        eventInfo.textContent = events[dayString];
                         cell.innerHTML = `${dayCount}<br><br>`;
-                        cell.appendChild(eventInfo);
+                        events[dayString].forEach(ev => {
+                            const eventInfo = document.createElement('div');
+                            eventInfo.classList.add('event-info');
+                            eventInfo.textContent = ev;
+                            cell.appendChild(eventInfo);
+                        });
                     }
 
                     // Highlight today's date
@@ -241,16 +243,19 @@ function listEvents(events, month, year) {
     }
 
     // Display events
-    monthEvents.forEach(([date, description]) => {
+    monthEvents.forEach(([date, descriptions]) => {
+    descriptions.forEach(desc => {
         const listItem = document.createElement('li');
-        listItem.innerHTML = `${new Intl.DateTimeFormat("en-US", { dateStyle: 'long' }).format(new Date(date))}: ${description}<br><br>`;
+        listItem.innerHTML = `${new Intl.DateTimeFormat("en-US", { dateStyle: 'long' }).format(new Date(date))}: ${desc}<br><br>`;
         eventList.appendChild(listItem);
     });
+});
 }
 
 // Call this function inside generateCalendar:
 generateCalendar(currentMonth, currentYear);
 listEvents(events, currentMonth, currentYear);
+
 
 
 
