@@ -15483,7 +15483,7 @@ const othersData = [
   },
   {
     url: "https://x.com/i/status/1955463437150195716",
-    img: "hhttps://pbs.twimg.com/ext_tw_video_thumb/1955463399523131392/pu/img/apfbBpC6rDhJ-VOP.jpg",
+    img: "https://pbs.twimg.com/ext_tw_video_thumb/1955463399523131392/pu/img/apfbBpC6rDhJ-VOP.jpg",
     title: `<6DAYS> 드디어 개봉 D-DAY! @ 4DPLEXFILM X`,
     tags: ["X"]
   },
@@ -15492,6 +15492,12 @@ const othersData = [
     img: "https://img.youtube.com/vi/KUaC59sPPFY/0.jpg",
     title: `🗓️ DAY1.. DAY2.. DAY6??!!🐻🦊🐰🐶`,
     tags: ["Ads", "Shorts"]
+  },
+  {
+    url: "https://x.com/i/status/1955554961703538746",
+    img: "https://pbs.twimg.com/media/GyHgKvpakAAUYih.jpg",
+    title: `MBC가 만든 첫 번째 오리지널 영화🎬 @ WITHMBC X`,
+    tags: ["X"]
   },
 
 ]
@@ -15578,6 +15584,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
