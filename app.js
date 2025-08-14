@@ -58,7 +58,7 @@ const events = {
     '2025-08-30': `10th Anniversary Tour <The DECADE> in Goyang`,
     '2025-08-31': `10th Anniversary Tour <The DECADE> in Goyang`,
     '2025-09-01': `DAY6 is 10 Teaser`,
-    '2025-09-01': `DAY6 10th Anniversary Medley Live`,
+    '2025-09-01': `10th Anniversary Medley Live`,
     '2025-09-01': `DAY6.zip : The Home of Our Decade`,
     '2025-09-02': `DAY6 10th Anniversary Documentary Teaser`,
     '2025-09-02': `DAY6.zip : The Home of Our Decade`,
@@ -70,10 +70,23 @@ const events = {
     '2025-09-05': `DAY6 4TH FULL ALBUM The DECADE Comeback Live`,
     '2025-09-05': `DAY6 4TH FULL ALBUM The DECADE Track 2 MV`,
     '2025-09-05': `DAY6.zip : The Home of Our Decade`,
+    '2025-09-06': `DAY6 4TH FULL ALBUM The DECADE Track 1 MV`,
     '2025-09-06': `DAY6.zip : The Home of Our Decade`,
     '2025-09-07': `DAY6 10TH ANNIVERSARY 🎉`,
+    '2025-09-07': `10th Anniversary Special Live`,
+    '2025-09-07': `DAY6 is 10 EP.1`,
     '2025-09-07': `DAY6.zip : The Home of Our Decade`,
+    '2025-09-08': `DAY6 4TH FULL ALBUM The DECADE Track 2 Live Clip`,
+    '2025-09-09': `10th Anniversary Documentary`,
+    '2025-09-10': `DAY6 4TH FULL ALBUM The DECADE Track 1 Live Clip`,
+    '2025-09-12': `DAY6 4TH FULL ALBUM The DECADE Track 10 MV`,
+    '2025-09-14': `DAY6 is 10 EP.2`,
+    '2025-09-15': `LIVE CLIP with My Day 1`,
+    '2025-09-16': `LIVE CLIP with My Day 2`,
+    '2025-09-17': `LIVE CLIP with My Day 3`,
     '2025-09-17': `10th Anniversary Tour <The DECADE> in Bangkok`,
+    '2025-09-18': `LIVE CLIP with My Day 4`,
+    '2025-09-19': `LIVE CLIP with My Day 5`,
     '2025-10-18': `10th Anniversary Tour <The DECADE> in Ho Chi Minh`,
     '2026-01-17': `10th Anniversary Tour <The DECADE> in Hong Kong`,
     '2026-01-24': `10th Anniversary Tour <The DECADE> in Manila`,
@@ -238,5 +251,6 @@ function listEvents(events, month, year) {
 // Call this function inside generateCalendar:
 generateCalendar(currentMonth, currentYear);
 listEvents(events, currentMonth, currentYear);
+
 
 
