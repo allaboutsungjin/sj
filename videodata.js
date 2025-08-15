@@ -5524,6 +5524,12 @@ const groupvData = [
     title: `DAY6(데이식스) 4th Full Album ＜The DECADE＞ Trailer Film`,
     tags: ["Trailer Film"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=PEj0AIbODVE",
+    img: "https://img.youtube.com/vi/PEj0AIbODVE/0.jpg",
+    title: `DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞ Behind #2 📸`,
+    tags: ["Behind"]
+  },
   
 ]
 
@@ -15584,6 +15590,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
