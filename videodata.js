@@ -15505,6 +15505,12 @@ const othersData = [
     title: `MBC가 만든 첫 번째 오리지널 영화🎬 @ WITHMBC X`,
     tags: ["X"]
   },
+  {
+    url: "https://www.youtube.com/watch?=_mlHT0NhKOA",
+    img: "https://img.youtube.com/vi/_mlHT0NhKOA/0.jpg",
+    title: `[예고] 데이식스와 함께 떠나는 1박 2일! [1박 2일 시즌4/Two Days and One Night 4] | KBS 250817 방송`,
+    tags: ["Variety"]
+  },
 
 ]
 
@@ -15590,6 +15596,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
