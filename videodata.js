@@ -710,6 +710,14 @@ const psj2yaData = [
     tags: ["Season 2", "Giving A Try"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=gI1gpjL8g8U",
+    img: "https://img.youtube.com/vi/gI1gpjL8g8U/0.jpg",
+    title: "Park SungJJIN S2 EP.52",
+    desc: `The Jinbbangs can only see SUNGJIN 🫣`,
+    guest: "Guest: -",
+    tags: ["Season 2", "What's In My"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
@@ -15511,6 +15519,12 @@ const othersData = [
     title: `[예고] 데이식스와 함께 떠나는 1박 2일! [1박 2일 시즌4/Two Days and One Night 4] | KBS 250817 방송`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?=1N7nZ5UzZGg",
+    img: "https://img.youtube.com/vi/1N7nZ5UzZGg/0.jpg",
+    title: `기아 | The Kia Tasman X DAY6 | 6Days, 한 페이지가 될 수 있게`,
+    tags: ["Ads"]
+  },
 
 ]
 
@@ -15596,6 +15610,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
