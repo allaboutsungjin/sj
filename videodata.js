@@ -5538,6 +5538,12 @@ const groupvData = [
     title: `DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞ Behind #2 📸`,
     tags: ["Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=qmAMfh_mbBA",
+    img: "https://img.youtube.com/vi/qmAMfh_mbBA/0.jpg",
+    title: `DAY6(데이식스) 4th Full Album ＜The DECADE＞ Track Preview Film`,
+    tags: ["Preview Film"]
+  },
   
 ]
 
@@ -15525,6 +15531,24 @@ const othersData = [
     title: `기아 | The Kia Tasman X DAY6 | 6Days, 한 페이지가 될 수 있게`,
     tags: ["Ads"]
   },
+  {
+    url: "https://www.youtube.com/shorts/b9afw4KRUCY",
+    img: "https://img.youtube.com/vi/b9afw4KRUCY/0.jpg",
+    title: `하루종일 아카페라 함께해 | 아카페라❤️데이식스`,
+    tags: ["Ads", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=Olxnul6UScg",
+    img: "https://img.youtube.com/vi/Olxnul6UScg/0.jpg",
+    title: `하루종일 아카페라 함께해 | 아카페라❤️데이식스`,
+    tags: ["Ads"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/6LiFIIiAxeg",
+    img: "https://img.youtube.com/vi/6LiFIIiAxeg/0.jpg",
+    title: `데이식스가 알려주는 깐달걀 피부 치트키🔍 #파파레서피 #효소파우더클렌저 #DAY6 #데이식스`,
+    tags: ["Ads", "Shorts"]
+  },
 
 ]
 
@@ -15610,6 +15634,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
