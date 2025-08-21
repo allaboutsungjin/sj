@@ -15549,6 +15549,30 @@ const othersData = [
     title: `데이식스가 알려주는 깐달걀 피부 치트키🔍 #파파레서피 #효소파우더클렌저 #DAY6 #데이식스`,
     tags: ["Ads", "Shorts"]
   },
+  {
+    url: "https://x.com/i/status/1957276893612569037",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1957276738523893760/img/ap66csNdQvGxmak6.jpg",
+    title: `우리 밴드 비주얼 감상 하실게요 ✨✨ @ 4DPLEXFILM X`,
+    tags: ["X"]
+  },
+  {
+    url: "https://www.instagram.com/p/DNkpASzSCsh/",
+    img: "img/d6cgv.jpg",
+    title: `DAY6 @ CGV_ICECON INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://x.com/i/status/1958000304403935346",
+    img: "https://pbs.twimg.com/ext_tw_video_thumb/1958000250028978177/pu/img/VBPvdq4a1vEV6Xp0.jpg",
+    title: `현장 비하인드 컷 가지고 왔습니다📷 @ 4DPLEXFILM X`,
+    tags: ["X"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=FGt1McfIXio",
+    img: "https://img.youtube.com/vi/FGt1McfIXio/0.jpg",
+    title: `[Playlist] 아카페라❤️데이식스 | 6시간 7분 반복재생🍀`,
+    tags: ["Ads"]
+  },
 
 ]
 
@@ -15634,6 +15658,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
