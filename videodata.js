@@ -15579,6 +15579,24 @@ const othersData = [
     title: "데이식스(DAY6), '10주년 맞이한 데식이들' 베스트 음원상 수상 '마이데이 영원히 함께해~' ('2025 K WORLD DREAM AWARDS)",
     tags: ["Music Awards"]
   },
+  {
+    url: "https://www.youtube.com/shorts/ZyrHM7ZOm7c",
+    img: "https://img.youtube.com/vi/ZyrHM7ZOm7c/0.jpg",
+    title: `[숏츠] Welcome to the show - 데이식스 무보정 이동 라이브🎶 [1박 2일 시즌4/Two Days and One Night 4] | KBS 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/Odexjsdvhgs",
+    img: "https://img.youtube.com/vi/Odexjsdvhgs/0.jpg",
+    title: `[숏츠] 🦆오리발 신고 전력질주!! 최종 승리팀은?! [1박 2일 시즌4/Two Days and One Night 4] | KBS 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/P8ISLkAUdIM",
+    img: "https://img.youtube.com/vi/P8ISLkAUdIM/0.jpg",
+    title: `[숏츠] Welcome to the Show - 데이식스 (무보정 이동 라이브🎶) [1박 2일 시즌4/Two Days and One Night 4] | KBS 방송`,
+    tags: ["Variety", "Shorts"]
+  },
 
 ]
 
@@ -15664,6 +15682,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
