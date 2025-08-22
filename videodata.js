@@ -15573,6 +15573,12 @@ const othersData = [
     title: `[Playlist] 아카페라❤️데이식스 | 6시간 7분 반복재생🍀`,
     tags: ["Ads"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=35eaw9_ochU",
+    img: "https://img.youtube.com/vi/35eaw9_ochU/0.jpg",
+    title: "데이식스(DAY6), '10주년 맞이한 데식이들' 베스트 음원상 수상 '마이데이 영원히 함께해~' ('2025 K WORLD DREAM AWARDS)",
+    tags: ["Music Awards"]
+  },
 
 ]
 
@@ -15658,6 +15664,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
