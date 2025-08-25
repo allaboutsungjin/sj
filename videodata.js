@@ -1397,6 +1397,18 @@ const psj2yaData = [
     title: `성진을 향한 마음을 접었습니다... 곱게 접어서 예쁜 하트로 만들겠습니다🤍‍`,
     tags: ["Season 2", "Shorts"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/S8Rkh-iPY2s",
+    img: "https://img.youtube.com/vi/S8Rkh-iPY2s/0.jpg",
+    title: `옛날에 성진이라는 아이가 있었습니다...딱히 뭘 하진 않았고 잘생겼습니다🤭‍`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/c_NSRAOsieU",
+    img: "https://img.youtube.com/vi/c_NSRAOsieU/0.jpg",
+    title: `📖채널주표 만화 추천 드가를 드가 📖‍`,
+    tags: ["Season 2", "Shorts"]
+    },
 ];
 
 const stazData = [
@@ -15597,6 +15609,13 @@ const othersData = [
     title: `[숏츠] Welcome to the Show - 데이식스 (무보정 이동 라이브🎶) [1박 2일 시즌4/Two Days and One Night 4] | KBS 방송`,
     tags: ["Variety", "Shorts"]
   },
+  {
+    url: "https://www.youtube.com/watch?=6Fwmaf5Dkzo",
+    img: "https://img.youtube.com/vi/6Fwmaf5Dkzo/0.jpg",
+    title: `[선공개] 데이식스와 함께 하는 1박 2일 ＂이렇게 행복해도 되나?😆＂ [1박 2일 시즌4/Two Days and One Night 4] | KBS 방송`,
+    tags: ["Variety"]
+  },
+  
 
 ]
 
@@ -15682,6 +15701,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
