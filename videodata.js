@@ -5556,6 +5556,18 @@ const groupvData = [
     title: `DAY6(데이식스) 4th Full Album ＜The DECADE＞ Track Preview Film`,
     tags: ["Preview Film"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=6v3z4ZzdWRk",
+    img: "https://img.youtube.com/vi/6v3z4ZzdWRk/0.jpg",
+    title: `DAY6(데이식스) "INSIDE OUT" M/V Teaser 1`,
+    tags: ["Teaser"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=XEKvS8wjgzA",
+    img: "https://img.youtube.com/vi/XEKvS8wjgzA/0.jpg",
+    title: `DAY6(데이식스) 4th Full Album ＜The DECADE＞ Trailer Making Film`,
+    tags: ["Making"]
+  },
   
 ]
 
@@ -15701,6 +15713,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
