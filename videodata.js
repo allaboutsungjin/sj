@@ -15627,7 +15627,24 @@ const othersData = [
     title: `[선공개] 데이식스와 함께 하는 1박 2일 ＂이렇게 행복해도 되나?😆＂ [1박 2일 시즌4/Two Days and One Night 4] | KBS 방송`,
     tags: ["Variety"]
   },
-  
+  {
+    url: "https://www.youtube.com/shorts/xWyjb1U0kY8",
+    img: "https://img.youtube.com/vi/xWyjb1U0kY8/0.jpg",
+    title: `[숏츠] Welcome to the show - 데이식스  선상 뮤비ver.🎥🎬 [1박 2일 시즌4/Two Days and One Night 4] | KBS 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/4tOzHMtYnzU",
+    img: "https://img.youtube.com/vi/4tOzHMtYnzU/0.jpg",
+    title: `[쇼츠] 귀하다 귀해 🎶데식이들 댄스 타임🎶 [1박 2일 시즌4/Two Days and One Night 4] | KBS 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=mKEGVziVxKM",
+    img: "https://img.youtube.com/vi/mKEGVziVxKM/0.jpg",
+    title: `[예고] 밴드들이 가득한 놀토에 10주년을 맞이한 대세 밴드가 떴다!💚 데이식스 성진 X 도운 X 원필 X 영케이🍀#놀라운토요일 | amazingsaturday EP.382`,
+    tags: ["Variety"]
+  },
 
 ]
 
@@ -15713,6 +15730,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
