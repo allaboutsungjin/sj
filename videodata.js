@@ -15622,6 +15622,18 @@ const othersData = [
     tags: ["Variety", "Shorts"]
   },
   {
+    url: "https://x.com/i/status/1960543235912425855",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1960543014537060354/img/LdD-CmDN3ZpJVVl5.jpg",
+    title: `𝘽𝙡𝙚𝙢𝙞𝙨𝙝 𝙀𝙣𝙯𝙮𝙢𝙚 𝙋𝙤𝙬𝙙𝙚𝙧 𝘾𝙡𝙚𝙖𝙣𝙨𝙚𝙧 @ PAPARECIPE_KR X`,
+    tags: ["X"]
+  },
+  {
+    url: "https://www.instagram.com/reel/DN2UGpd5HXA/",
+    img: "img/d6cgv2.jpg",
+    title: `DAY6 @ CGV_ICECON INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
+  {
     url: "https://www.youtube.com/watch?=6Fwmaf5Dkzo",
     img: "https://img.youtube.com/vi/6Fwmaf5Dkzo/0.jpg",
     title: `[선공개] 데이식스와 함께 하는 1박 2일 ＂이렇게 행복해도 되나?😆＂ [1박 2일 시즌4/Two Days and One Night 4] | KBS 방송`,
@@ -15730,6 +15742,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
