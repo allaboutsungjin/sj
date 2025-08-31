@@ -15657,6 +15657,13 @@ const othersData = [
     title: `[예고] 밴드들이 가득한 놀토에 10주년을 맞이한 대세 밴드가 떴다!💚 데이식스 성진 X 도운 X 원필 X 영케이🍀#놀라운토요일 | amazingsaturday EP.382`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?=ta9A19qZ5xk",
+    img: "https://img.youtube.com/vi/ta9A19qZ5xk/0.jpg",
+    title: `[선공개] 나 바라는 건 뿌직 하나~🎵 데식이들의 미션 노래방🎤 [1박 2일 시즌4/Two Days and One Night 4] | KBS 방송`,
+    tags: ["Variety"]
+  },
+
 
 ]
 
@@ -15742,6 +15749,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
