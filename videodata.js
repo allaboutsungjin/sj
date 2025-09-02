@@ -718,6 +718,14 @@ const psj2yaData = [
     tags: ["Season 2", "What's In My"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=soFrtdwpR_k",
+    img: "https://img.youtube.com/vi/soFrtdwpR_k/0.jpg",
+    title: "Park SungJJIN S2 EP.53",
+    desc: `The one and only..This is you, YOON DOWOON cake 🐶`,
+    guest: "Guest: Dowoon",
+    tags: ["Season 2", "Giving A Try", "Guest"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
@@ -5568,6 +5576,19 @@ const groupvData = [
     title: `DAY6(데이식스) 4th Full Album ＜The DECADE＞ Trailer Making Film`,
     tags: ["Making"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=5Rk9F50ncRs",
+    img: "https://img.youtube.com/vi/5Rk9F50ncRs/0.jpg",
+    title: `DAY6(데이식스) 10th Anniversary ＜데식은 10살＞ Teaser🎒`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=5JeBGCbeOJ0",
+    img: "https://img.youtube.com/vi/5JeBGCbeOJ0/0.jpg",
+    title: `DAY6(데이식스) 10th Anniversary Medley Live (2015 The Day ~ 2025 The DECADE)`,
+    tags: ["Medley"]
+  },
+  
   
 ]
 
@@ -15749,6 +15770,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
