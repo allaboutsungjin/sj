@@ -5588,6 +5588,12 @@ const groupvData = [
     title: `DAY6(데이식스) 10th Anniversary Medley Live (2015 The Day ~ 2025 The DECADE)`,
     tags: ["Medley"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=U3eKRl0hNq4",
+    img: "https://img.youtube.com/vi/U3eKRl0hNq4/0.jpg",
+    title: `DAY6(데이식스) 10th Anniversary Documentary ＜DAY6: Time of Our Decade＞ Teaser`,
+    tags: ["Documentary"]
+  },
   
   
 ]
@@ -15684,6 +15690,12 @@ const othersData = [
     title: `[선공개] 나 바라는 건 뿌직 하나~🎵 데식이들의 미션 노래방🎤 [1박 2일 시즌4/Two Days and One Night 4] | KBS 방송`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?=RP0xEqsoXsk",
+    img: "https://img.youtube.com/vi/RP0xEqsoXsk/0.jpg",
+    title: `Can you look at your sister and sing You Were Beautiful? | EP.106 DAY6 SUNGJIN, WONPIL | Salon Drip2`,
+    tags: ["YouTube Program"]
+  },
 
 
 ]
@@ -15770,6 +15782,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
