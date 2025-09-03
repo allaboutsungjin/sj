@@ -5594,6 +5594,12 @@ const groupvData = [
     title: `DAY6(데이식스) 10th Anniversary Documentary ＜DAY6: Time of Our Decade＞ Teaser`,
     tags: ["Documentary"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=6BQZ2wT3cag",
+    img: "https://img.youtube.com/vi/6BQZ2wT3cag/0.jpg",
+    title: `[데식이들] binggrae aCafela Photoshoot Behind`,
+    tags: ["Behind", "DAY6s"]
+  },
   
   
 ]
@@ -15782,6 +15788,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
