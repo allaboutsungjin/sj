@@ -5600,7 +5600,108 @@ const groupvData = [
     title: `[데식이들] binggrae aCafela Photoshoot Behind`,
     tags: ["Behind", "DAY6s"]
   },
-  
+  {
+    url: "https://www.youtube.com/watch?v=pvQKocrFA4A",
+    img: "https://img.youtube.com/vi/pvQKocrFA4A/0.jpg",
+    title: `DAY6(데이식스) 4th Full Album ＜The DECADE＞ Album Sampler`,
+    tags: ["Album Sampler"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=b_Eh-9Jz_L8",
+    img: "https://img.youtube.com/vi/b_Eh-9Jz_L8/0.jpg",
+    title: `DAY6(데이식스) "INSIDE OUT" M/V Teaser 2`,
+    tags: ["Teaser"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=qgM76kv8vBU",
+    img: "https://img.youtube.com/vi/qgM76kv8vBU/0.jpg",
+    title: `DAY6 4TH FULL ALBUM 〈The DECADE〉 COMEBACK COUNTDOWN LIVE`,
+    tags: ["Live"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=-N-pmPKS-bE",
+    img: "https://img.youtube.com/vi/-N-pmPKS-bE/0.jpg",
+    title: `DAY6(데이식스) "INSIDE OUT" M/V`,
+    tags: ["MV"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=JcW5emhEON8",
+    img: "https://img.youtube.com/vi/JcW5emhEON8/0.jpg",
+    title: `DAY6 - Dream Bus (Official Audio)`,
+    tags: ["Officia Audio"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=qg0t5QTb600",
+    img: "https://img.youtube.com/vi/qg0t5QTb600/0.jpg",
+    title: `DAY6 - INSIDE OUT (Official Audio)`,
+    tags: ["Officia Audio"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=Lp4x8WsGwCo",
+    img: "https://img.youtube.com/vi/Lp4x8WsGwCo/0.jpg",
+    title: `DAY6 - Sun, Stay Asleep (Official Audio)`,
+    tags: ["Officia Audio"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=uQrCIR5aSto",
+    img: "https://img.youtube.com/vi/uQrCIR5aSto/0.jpg",
+    title: `DAY6 - Disco Day (Official Audio)`,
+    tags: ["Officia Audio"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=G45bO2CYba0",
+    img: "https://img.youtube.com/vi/G45bO2CYba0/0.jpg",
+    title: `DAY6 - My Way (Official Audio)`,
+    tags: ["Officia Audio"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=2fKmtgIseZE",
+    img: "https://img.youtube.com/vi/2fKmtgIseZE/0.jpg",
+    title: `DAY6 - Before the Stars (Official Audio)`,
+    tags: ["Officia Audio"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=IXBQiT2FMb0",
+    img: "https://img.youtube.com/vi/IXBQiT2FMb0/0.jpg",
+    title: `DAY6 - Take All My Heart (Official Audio)`,
+    tags: ["Officia Audio"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=CYj8d_2eD3U",
+    img: "https://img.youtube.com/vi/CYj8d_2eD3U/0.jpg",
+    title: `DAY6 - Dream Rider (Official Audio)`,
+    tags: ["Officia Audio"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=t5vHBX07Qb4",
+    img: "https://img.youtube.com/vi/t5vHBX07Qb4/0.jpg",
+    title: `DAY6 - So It’s the End (Official Audio)`,
+    tags: ["Officia Audio"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=94IwuqEXN-w",
+    img: "https://img.youtube.com/vi/94IwuqEXN-w/0.jpg",
+    title: `DAY6 - Our Season (Official Audio)`,
+    tags: ["Officia Audio"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=T1AKACAFqcs",
+    img: "https://img.youtube.com/vi/T1AKACAFqcs/0.jpg",
+    title: `DAY6(데이식스) 4th Full Album ＜The DECADE＞ Jacket Making Film`,
+    tags: ["Making"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=rAvVRRK9XBY",
+    img: "https://img.youtube.com/vi/rAvVRRK9XBY/0.jpg",
+    title: `DAY6(데이식스) "INSIDE OUT" Singalong Guide Video`,
+    tags: ["Guide"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=-2TQMRRmVXs",
+    img: "https://img.youtube.com/vi/-2TQMRRmVXs/0.jpg",
+    title: `DAY6(데이식스) "꿈의 버스" Singalong Guide Video`,
+    tags: ["Guide"]
+  },
   
 ]
 
@@ -15702,6 +15803,18 @@ const othersData = [
     title: `Can you look at your sister and sing You Were Beautiful? | EP.106 DAY6 SUNGJIN, WONPIL | Salon Drip2`,
     tags: ["YouTube Program"]
   },
+  {
+    url: "https://www.youtube.com/watch?=27bAo9-nccQ",
+    img: "https://img.youtube.com/vi/27bAo9-nccQ/0.jpg",
+    title: `[예고]〈폭군의 셰프〉로 대세 입증한 배우 윤아, 데뷔 10주년이 된 밴드 데이식스, 위문열차 박지수 군무관#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.310`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=82hKRlz6lR4",
+    img: "https://img.youtube.com/vi/82hKRlz6lR4/0.jpg",
+    title: `[FULL CAM] 유퀴즈 최초 공개! DAY6 - 꿈의 버스 | 9/10 본방 후 멤버별 직캠 공개 예정🎉#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.310`,
+    tags: ["Variety"]
+  },
 
 
 ]
@@ -15788,6 +15901,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
