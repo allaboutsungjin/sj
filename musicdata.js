@@ -488,6 +488,18 @@ const musicGroup = [
         ],
 	tags: ["Korean", "Single"]
     },
+	{
+        img: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/9f/05/939f0563-96d1-42df-a9ec-23ecc857eec6/8809928954691_Cover.jpg/592x592bb.webp",
+        title: "The DECADE",
+        date: "September 5, 2025",
+        links: [
+            { url: "https://open.spotify.com/album/6X6qxxLabrBzjZZwnUGAiv?si=Z2yS_JdHTzy9nLQbAAPciA", icon: "Spotify.png", alt: "Spotify" },
+            { url: "https://music.apple.com/us/album/the-decade/1833827616", icon: "AM.svg", alt: "Apple Music" },
+            { url: "https://music.youtube.com/playlist?list=OLAK5uy_llmEuUBbQC0ecOvO88e98YZ7j-P3-PbTI&si=Fhwd6jQTYBZz2E19", icon: "YM.svg", alt: "YouTube Music" },
+            { url: "https://www.melon.com/album/detail.htm?albumId=12100029", icon: "Melon.png", alt: "Melon" }
+        ],
+	tags: ["Korean", "Album"]
+    },
 ];
 
 const musicOthers = [
@@ -565,4 +577,5 @@ document.querySelectorAll('.tc span').forEach(span => {
         e.target.classList.add('active');
     });
 });
+
 
