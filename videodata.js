@@ -5702,6 +5702,12 @@ const groupvData = [
     title: `DAY6(데이식스) "꿈의 버스" Singalong Guide Video`,
     tags: ["Guide"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=hZ6pts6e8dI",
+    img: "https://img.youtube.com/vi/hZ6pts6e8dI/0.jpg",
+    title: `DAY6(데이식스) "꿈의 버스" M/V`,
+    tags: ["MV"]
+  },
   
 ]
 
@@ -15901,6 +15907,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
