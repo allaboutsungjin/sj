@@ -15726,6 +15726,12 @@ const othersData = [
     tags: ["Ads", "Shorts"]
   },
   {
+    url: "https://x.com/i/status/1958816415680467158",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1958812872441749504/img/2IMRR9pb3wxCPdaX.jpg",
+    title: `Hello, we are DAY6! @ SPOTIFYKR X`,
+    tags: ["X"]
+  },
+  {
     url: "https://x.com/i/status/1957276893612569037",
     img: "https://pbs.twimg.com/amplify_video_thumb/1957276738523893760/img/ap66csNdQvGxmak6.jpg",
     title: `우리 밴드 비주얼 감상 하실게요 ✨✨ @ 4DPLEXFILM X`,
@@ -15774,6 +15780,12 @@ const othersData = [
     tags: ["Variety", "Shorts"]
   },
   {
+    url: "https://www.youtube.com/watch?v=35eaw9_ochU",
+    img: "https://img.youtube.com/vi/35eaw9_ochU/0.jpg",
+    title: `데이식스(DAY6), '10주년 맞이한 데식이들' 베스트 음원상 수상 '마이데이 영원히 함께해~' ('2025 K WORLD DREAM AWARDS)`,
+    tags: ["Music Awards"]
+  },
+  {
     url: "https://x.com/i/status/1960543235912425855",
     img: "https://pbs.twimg.com/amplify_video_thumb/1960543014537060354/img/LdD-CmDN3ZpJVVl5.jpg",
     title: `𝘽𝙡𝙚𝙢𝙞𝙨𝙝 𝙀𝙣𝙯𝙮𝙢𝙚 𝙋𝙤𝙬𝙙𝙚𝙧 𝘾𝙡𝙚𝙖𝙣𝙨𝙚𝙧 @ PAPARECIPE_KR X`,
@@ -15816,10 +15828,316 @@ const othersData = [
     tags: ["Variety"]
   },
   {
+    url: "https://x.com/i/status/1962351881021501492",
+    img: "https://pbs.twimg.com/ext_tw_video_thumb/1962351807210102784/pu/img/vEMKMg9vS3QSPpjJ.jpg",
+    title: `식스데이즈를 극장에서 만날 기회가 얼마 남지 않았다는데🥲 @ 4DPLEXFILM X`,
+    tags: ["X"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=oMAMLT8fbhE",
+    img: "https://img.youtube.com/vi/oMAMLT8fbhE/0.jpg",
+    title: `멤버들도 기다린 투샷! 근데... 그냥 김종민 2명 아님?🤔 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250824 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=X0ITVo6qWZg",
+    img: "https://img.youtube.com/vi/X0ITVo6qWZg/0.jpg",
+    title: `데이식스 완전체 출연⭐ 1박 2일 멤버와 남다른 인연까지!? [1박 2일 시즌4/Two Days and One Night 4] | KBS 250824 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=l3p-xujjPp0",
+    img: "https://img.youtube.com/vi/l3p-xujjPp0/0.jpg",
+    title: `원필이는 게임을 잘못 이해한 것 같아 (웅성웅성👥) [1박 2일 시즌4/Two Days and One Night 4] | KBS 250824 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=TIvmwTploHQ",
+    img: "https://img.youtube.com/vi/TIvmwTploHQ/0.jpg",
+    title: `일박이들과 데식이들의 예측 불가 OX 퀴즈 레이스🚗 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250824 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=1s3lOE3ljz0",
+    img: "https://img.youtube.com/vi/1s3lOE3ljz0/0.jpg",
+    title: `귀 정화 시켜주는 믿듣데의 버스 즉흥 라이브...♥ [1박 2일 시즌4/Two Days and One Night 4] | KBS 250824 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=FNaS3HoABb8",
+    img: "https://img.youtube.com/vi/FNaS3HoABb8/0.jpg",
+    title: `게임에 진심인 데이식스! 망설임 없이 바다로 전력질주🔥 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250824 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=B3jcsIC_BZ8",
+    img: "https://img.youtube.com/vi/B3jcsIC_BZ8/0.jpg",
+    title: `우당탕탕 허당미 넘치는 대결! 세윤도 인정한 원필의 깡다구👍 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250824 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=TtgOZWlVPpg",
+    img: "https://img.youtube.com/vi/TtgOZWlVPpg/0.jpg",
+    title: `우리가 생각한 결말은 이게 아닌데...?! 대환장 오리발 닭싸움 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250824 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=gno_Q06URNQ",
+    img: "https://img.youtube.com/vi/gno_Q06URNQ/0.jpg",
+    title: `승리에 목마른 이준의 폭주💥 결말은 새드엔딩ㅋㅋㅋ [1박 2일 시즌4/Two Days and One Night 4] | KBS 250824 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=akiRPajJ958",
+    img: "https://img.youtube.com/vi/akiRPajJ958/0.jpg",
+    title: `이런 게임 너무 좋아 진짜로😆 점심 미션에 신난 데식이들 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250824 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=cHTVyadXWeE",
+    img: "https://img.youtube.com/vi/cHTVyadXWeE/0.jpg",
+    title: `⚠오리발 지옥에 오신 걸 환영합니다⚠ 점심 먹기 힘드네..🤣 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250824 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=ZxFAV_s_g1U",
+    img: "https://img.youtube.com/vi/ZxFAV_s_g1U/0.jpg",
+    title: `고정 멤버 합류는 어떠세요? 예능감 제대로 뽐내고 갑니다~🚌 데이식스 X 1박 2일 청춘여행ㅣ KBS 1박 2일 250824 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=fk56I8Dh4iw",
+    img: "https://img.youtube.com/vi/fk56I8Dh4iw/0.jpg",
+    title: `데이식스 도운은 제2의 김종민?🤗 낙지보쌈이 걸린 ‘오답 퍼레이드’ 퀴즈 현장ㅣ KBS 1박 2일 250824 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=rt-2L8ZDl3E",
+    img: "https://img.youtube.com/vi/rt-2L8ZDl3E/0.jpg",
+    title: `[예고] 제대로 흥 오른 데이식스, 달밤🌙의 대결 [1박 2일 시즌4/Two Days and One Night 4] | KBS 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=574JJ_9TZ_c",
+    img: "https://img.youtube.com/vi/574JJ_9TZ_c/0.jpg",
+    title: `[#십분클립] 데식이들과 함께라면 ⭐청춘은 바로 지금...⭐차 안에서 라이브 해주는 데이식스와의 여행!🚌ㅣ KBS방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=dlRhp6b6v8s",
+    img: "https://img.youtube.com/vi/dlRhp6b6v8s/0.jpg",
+    title: `[#피크타임] 이게 바로 데이식스의 청춘이다! 해변에서 오리발과 함께하는 3종 게임 | #1박2일시즌4 | KBS 250824 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=eh3I5CN4bec",
+    img: "https://img.youtube.com/vi/eh3I5CN4bec/0.jpg",
+    title: `[#피크타임] 데이식스와 함께하는 OX 퀴즈 레이스! ...근데 이렇게 느려도 되나요?😂 | #1박2일시즌4 | KBS 250824 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/m3NxkWJ4e0Y",
+    img: "https://img.youtube.com/vi/m3NxkWJ4e0Y/0.jpg",
+    title: `어떻게 심장이 3개야 #1박2일｜KBS 250824 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/WQjdHWZFK8U",
+    img: "https://img.youtube.com/vi/WQjdHWZFK8U/0.jpg",
+    title: `아름다운 청춘의 한 장 🎼 #1박2일｜KBS 250824 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/p1AIlV3k7aE",
+    img: "https://img.youtube.com/vi/p1AIlV3k7aE/0.jpg",
+    title: `작은 고추가 맵다 #1박2일｜KBS 250824 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=NJCTkR-fczA",
+    img: "https://img.youtube.com/vi/NJCTkR-fczA/0.jpg",
+    title: `도운아 드럼스틱은 안 된다며...? 일동 당황😲 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250831 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=aNym5-z0KlY",
+    img: "https://img.youtube.com/vi/aNym5-z0KlY/0.jpg",
+    title: `여유가 넘치다 못해 흐르는 영케이! 완전 하드캐리 해버렸슨 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250831 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=0hL5qNjrqaE",
+    img: "https://img.youtube.com/vi/0hL5qNjrqaE/0.jpg",
+    title: `녹두전 먹겠다고 프리즈하는 데식이들💚 feat. 영케이 먹방 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250831 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=Vn7naCnHO-8",
+    img: "https://img.youtube.com/vi/Vn7naCnHO-8/0.jpg",
+    title: `데이식스의 자존심이 걸린(?) 구제 미션! 승부욕 활활🔥 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250831 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=9LbgsWqmjfk",
+    img: "https://img.youtube.com/vi/9LbgsWqmjfk/0.jpg",
+    title: `복불복 되게 설렌다..🌸 복불복 매력에 제대로 빠진 데식이들 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250831 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=YYua2EXLR1k",
+    img: "https://img.youtube.com/vi/YYua2EXLR1k/0.jpg",
+    title: `완전 럭키보트잖아?🍀 이 정도 행복이면 야외 취침도 괜찮아🤤 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250831 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=pKn-uUOD1pc",
+    img: "https://img.youtube.com/vi/pKn-uUOD1pc/0.jpg",
+    title: `우린 보트 탔는데 약 오르징?🛥 복불복 희망 편 vs 절망 편 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250831 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=5Pq0JHFfzvs",
+    img: "https://img.youtube.com/vi/5Pq0JHFfzvs/0.jpg",
+    title: `윈드밀 배우는 도러머! 자나깨나 마이데이 생각뿐💚 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250831 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=cNoZgTD3SCk",
+    img: "https://img.youtube.com/vi/cNoZgTD3SCk/0.jpg",
+    title: `작사가 누구야!!!!!🔥 영케이의 셀프 디스ㅋㅋㅋㅋ [1박 2일 시즌4/Two Days and One Night 4] | KBS 250831 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=MMxv_MqDZ3w",
+    img: "https://img.youtube.com/vi/MMxv_MqDZ3w/0.jpg",
+    title: `데이식스가 말아주는 미션 노래방! 저녁 복불복 가보자고🎤 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250831 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=HiZeYuOlD-Q",
+    img: "https://img.youtube.com/vi/HiZeYuOlD-Q/0.jpg",
+    title: `연습생 시절 떠올리며 폭풍 댄스🎵 쫌 하는데? [1박 2일 시즌4/Two Days and One Night 4] | KBS 250831 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=sd7fYc5Okx8",
+    img: "https://img.youtube.com/vi/sd7fYc5Okx8/0.jpg",
+    title: `데이식스 메인댄서 박성진 출격🎉 감히 따라할 수 없는 춤사위 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250831 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=2Kjp4bRp91g",
+    img: "https://img.youtube.com/vi/2Kjp4bRp91g/0.jpg",
+    title: `비공식 댄스그룹 데이식스와 함께하는 달밤에 댄스 퀴즈🕺 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250831 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=WoH6uAaWFJo",
+    img: "https://img.youtube.com/vi/WoH6uAaWFJo/0.jpg",
+    title: `JYP의 숨겨진 춤신춤왕 데이식스🕺🏻1박 2일 멤버들 말문 막힌 댄스 스피드 퀴즈 #1박2일 | KBS 250831 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=QsWaq6wTxJ4",
+    img: "https://img.youtube.com/vi/QsWaq6wTxJ4/0.jpg",
+    title: `데이식스의 순발력·재치·박자 감각까지 볼 수 있는 ‘이어 말하기’👀 #1박2일 | KBS 250831 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=36qclt5WMLI",
+    img: "https://img.youtube.com/vi/36qclt5WMLI/0.jpg",
+    title: `[예고] 1박 2일의 꽃🌸 잠자리 복불복으로 나타난 이상 증세까지?!😅😵 [1박 2일 시즌4/Two Days and One Night 4] | KBS 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=ni1bke52HJo",
+    img: "https://img.youtube.com/vi/ni1bke52HJo/0.jpg",
+    title: `[#피크타임] 성진이 추고 있는 춤을 맞혀보세요🕺 혼신의 힘을 다한 댄스 스피드 퀴즈! | #1박2일시즌4 | KBS 250831 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=sqAs-8odkbg",
+    img: "https://img.youtube.com/vi/sqAs-8odkbg/0.jpg",
+    title: `[#피크타임] 나 바라는 건 뿌직 하나🎵 'ㅇ'이 나오면 가사를 바꾸는 미션 노래방! | #1박2일시즌4 | KBS 250831 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/kBLJiBeIJb0",
+    img: "https://img.youtube.com/vi/kBLJiBeIJb0/0.jpg",
+    title: `김종민 춤 왜 이렇게 잘 춤 ㄷㄷ #1박2일｜KBS 250831 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/NFsTSXu8PSI",
+    img: "https://img.youtube.com/vi/NFsTSXu8PSI/0.jpg",
+    title: `김종민의 윈드밀 강의 #1박2일｜KBS 250831 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/uOvC-HYAUz0",
+    img: "https://img.youtube.com/vi/uOvC-HYAUz0/0.jpg",
+    title: `과거의 나 반성해 #1박2일｜KBS 250831 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/t7BUC4YJBa8",
+    img: "https://img.youtube.com/vi/t7BUC4YJBa8/0.jpg",
+    title: `리액션 천사 데이식스 원필 #1박2일｜KBS 250831 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/UE-FxfqMpo0",
+    img: "https://img.youtube.com/vi/UE-FxfqMpo0/0.jpg",
+    title: `역시 신은 공평해 #1박2일｜KBS 250831 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/ScufxIuFayw",
+    img: "https://img.youtube.com/vi/ScufxIuFayw/0.jpg",
+    title: `거짓말은 못 하지 ~ #1박2일｜KBS 250831 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/paNyQCPnAWQ",
+    img: "https://img.youtube.com/vi/paNyQCPnAWQ/0.jpg",
+    title: `데식이들 간결한 1초 프리즈 #1박2일｜KBS 250831 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/_ep9nXssdmA",
+    img: "https://img.youtube.com/vi/_ep9nXssdmA/0.jpg",
+    title: `도운아.. 뭐해? #1박2일｜KBS 250831 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
     url: "https://www.youtube.com/watch?=RP0xEqsoXsk",
     img: "https://img.youtube.com/vi/RP0xEqsoXsk/0.jpg",
     title: `Can you look at your sister and sing You Were Beautiful? | EP.106 DAY6 SUNGJIN, WONPIL | Salon Drip2`,
     tags: ["YouTube Program"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/Lkrxx-2eUUQ",
+    img: "https://img.youtube.com/vi/Lkrxx-2eUUQ/0.jpg",
+    title: `(질끈) 너무 귀여워서 올립니다 #살롱드립2`,
+    tags: ["YouTube Program", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/cLv7v_8Y7GQ",
+    img: "https://img.youtube.com/vi/cLv7v_8Y7GQ/0.jpg",
+    title: `경숙여사ver. 예뻤어 #살롱드립2`,
+    tags: ["YouTube Program", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/ztPmYzkFb8s",
+    img: "https://img.youtube.com/vi/ztPmYzkFb8s/0.jpg",
+    title: `귀여운 원필에게 화 못내는 성진ㅋㅋㅋㅋ #살롱드립2`,
+    tags: ["YouTube Program", "Shorts"]
+  },
+  {
+    url: "https://www.instagram.com/reel/DOCsSKXEh_h/",
+    img: "img/d6bgkr.jpg",
+    title: `DAY6 @ BINGGRAEKOREA INSTAGRAM REEL`,
+    tags: ["Instagram"]
   },
   {
     url: "https://www.youtube.com/watch?=27bAo9-nccQ",
@@ -15831,6 +16149,162 @@ const othersData = [
     url: "https://www.youtube.com/watch?=82hKRlz6lR4",
     img: "https://img.youtube.com/vi/82hKRlz6lR4/0.jpg",
     title: `[FULL CAM] 유퀴즈 최초 공개! DAY6 - 꿈의 버스 | 9/10 본방 후 멤버별 직캠 공개 예정🎉#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.310`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.instagram.com/reel/DOLffGvCSRP/",
+    img: "img/d6eyesmag2.jpg",
+    title: `DAY6 @ EYESMAG INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/reel/DOLknqAiYX7",
+    img: "img/d6eyesmag1.jpg",
+    title: `DAY6 @ EYESMAG INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/reel/DOLjKQxE2z6",
+    img: "img/d6simag.jpg",
+    title: `DAY6 @ SINGLESMAGAZINE INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/reel/DOLjPCYknuy",
+    img: "img/d6wwdkr.jpg",
+    title: `DAY6 @ WWDKOREA INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/reel/DOLkj1yifeq",
+    img: "img/d6dazed.jpg",
+    title: `DAY6 @ DAZEDKOREA INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/reel/DOLjhCJCTRa",
+    img: "img/d6fpm.jpg",
+    title: `DAY6 @ FASTPAPERMAG INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://x.com/i/status/1963890094684651720",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1963843543551873024/img/AbneT1RaYIFWl7v5.jpg",
+    title: `SING WITH #FLO💙 @ FLO_OFFICIAL X`,
+    tags: ["X"]
+  },
+  {
+    url: "https://x.com/i/status/1963889846038188409",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1963843078357499904/img/TW2wmnwKCR1pa7a5.jpg",
+    title: `[🎥✉️] #DAY6 @ FLO_OFFICIAL X`,
+    tags: ["X"]
+  },
+  {
+    url: "https://x.com/i/status/1963889849762746723",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1963770176207536130/img/5yJi530viE3Tp-dh.jpg",
+    title: `데식이들 10주년은 마이데이가 제일 축하해 ₍ᵔ› ·̫ ‹⸝⸝ᵔ₎੭🖤 @ MELON X`,
+    tags: ["X"]
+  },
+  {
+    url: "https://x.com/i/status/1963889848248619012",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1963879722800357376/img/5m53LlMXjP-SZkBc.jpg",
+    title: `10년 속에 녹아든 DAY6의 음악과 행복🎶 @ GENIE_KT X`,
+    tags: ["X"]
+  },
+  {
+    url: "https://www.instagram.com/reel/DOQUeUKj9sb",
+    img: "img/d6st.jpg",
+    title: `DAY6 @ SOUNDTHRU INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/reel/DOSyxghCdCR/",
+    img: "img/eyesmagd6.jpg",
+    title: `DAY6 @ EYESMAG INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=IZW2tw0xX_E",
+    img: "https://img.youtube.com/vi/IZW2tw0xX_E/0.jpg",
+    title: `[HAPPY ANNIVERSARY] DAY6 debut 10th anniversary 🥳 | KBS WORLD TV`,
+    tags: ["Music Program"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=YWeD5BSijzw",
+    img: "https://img.youtube.com/vi/YWeD5BSijzw/0.jpg",
+    title: `DAY6(데이식스) 10주년 기념 10th Anniversary 피크닉 라이브 소풍 모음.zip┃#피크닉라이브소풍┃EP.113┃#DAY6`,
+    tags: ["Music Program"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=RfTQBCSq5Tc",
+    img: "https://img.youtube.com/vi/RfTQBCSq5Tc/0.jpg",
+    title: `목숨 걸 수밖에 없는 구제 미션! 고기 먹방 제발 제발 제발요🙏 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250907 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=F8FYd8FxZ8c",
+    img: "https://img.youtube.com/vi/F8FYd8FxZ8c/0.jpg",
+    title: `테토남 호소인 원필이랑 하는 팔씨름 맛있다ㅋㅋㅋ😋 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250907 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=XPtWqrzMyjc",
+    img: "https://img.youtube.com/vi/XPtWqrzMyjc/0.jpg",
+    title: `베캠미팅🌹 데이식스가 뽑은 최고의 잠자리복불복 파트너는? [1박 2일 시즌4/Two Days and One Night 4] | KBS 250907 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=Vby6IuZ5LHE",
+    img: "https://img.youtube.com/vi/Vby6IuZ5LHE/0.jpg",
+    title: `롤모델 종민과 이별 여행 중인 도러머ㅋㅋㅋ💔 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250907 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=O_tF4Ap9Bys",
+    img: "https://img.youtube.com/vi/O_tF4Ap9Bys/0.jpg",
+    title: `(끝까지 보세요) 데이식스 잠.복 단합력 ★★★★★ [1박 2일 시즌4/Two Days and One Night 4] | KBS 250907 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=7nkz0ZH0AfA",
+    img: "https://img.youtube.com/vi/7nkz0ZH0AfA/0.jpg",
+    title: `데식이들 잠자리 복불복 풀버전 낋여왔습니다♥ [1박 2일 시즌4/Two Days and One Night 4] | KBS 250907 방송`,
+    tags: ["Variety"]
+  }, 
+  {
+    url: "https://www.youtube.com/watch?=NOvd9YlJTKA",
+    img: "https://img.youtube.com/vi/NOvd9YlJTKA/0.jpg",
+    title: `데이식스 전원 야외 취침🌛 롤모델이 있었는데 없었습니다 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250907 방송`,
+    tags: ["Variety"]
+  }, 
+  {
+    url: "https://www.youtube.com/watch?=F30w6v6J8oY",
+    img: "https://img.youtube.com/vi/F30w6v6J8oY/0.jpg",
+    title: `데이식스 이런 모습 처음이야~ 눈뜨자마자 콘서트 개장!?🎤 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250907 방송`,
+    tags: ["Variety"]
+  }, 
+  {
+    url: "https://www.youtube.com/watch?=M3wxp2wuVNc",
+    img: "https://img.youtube.com/vi/M3wxp2wuVNc/0.jpg",
+    title: `데식이들 아침 복불복 폼 미쳤다(negative) [1박 2일 시즌4/Two Days and One Night 4] | KBS 250907 방송`,
+    tags: ["Variety"]
+  }, 
+  {
+    url: "https://www.youtube.com/watch?=a9qlIrVs2e4",
+    img: "https://img.youtube.com/vi/a9qlIrVs2e4/0.jpg",
+    title: `🎉데뷔 10주년🎉 데이식스와 함께 채운 1박 2일 한 페이지🫧 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250907 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=v2nCaCuhuaU",
+    img: "https://img.youtube.com/vi/v2nCaCuhuaU/0.jpg",
+    title: `“1박 2일인데 야외취침 해야지~” 긍정의 힘 폭발🤣 데이식스 모기장 야외취침🦟 ㅣ KBS 1박 2일 250907 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=NmCXFt4eSEU",
+    img: "https://img.youtube.com/vi/NmCXFt4eSEU/0.jpg",
+    title: `퉁퉁 부은 얼굴로 기상미션 시작! 🎯아침밥을 두고 치열한 다트 한 판 승부 #데이식스ㅣ KBS 1박 2일 250907 방송`,
     tags: ["Variety"]
   },
 
@@ -15919,6 +16393,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
