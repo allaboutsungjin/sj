@@ -5714,6 +5714,12 @@ const groupvData = [
     title: `DAY6(데이식스) “INSIDE OUT” M/V Making Film`,
     tags: ["Making"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=6y1G2F52aUc",
+    img: "https://img.youtube.com/vi/6y1G2F52aUc/0.jpg",
+    title: `DAY6(데이식스) 10th Anniversary ＜데식은 10살＞ EP.1`,
+    tags: ["Variety"]
+  },
   
 ]
 
@@ -15913,6 +15919,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
