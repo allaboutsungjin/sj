@@ -726,6 +726,12 @@ const psj2yaData = [
     tags: ["Season 2", "Giving A Try", "Guest"]
     },
   { 
+    url: "https://www.youtube.com/shorts/eMIfe1rD5H8",
+    img: "https://img.youtube.com/vi/eMIfe1rD5H8/0.jpg",
+    title: `성진 MBTI 검사하면 CUTE 나온대요...🤭`,
+    tags: ["Season 2", "Giving A Try"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
@@ -1416,6 +1422,12 @@ const psj2yaData = [
     img: "https://img.youtube.com/vi/c_NSRAOsieU/0.jpg",
     title: `📖채널주표 만화 추천 드가를 드가 📖‍`,
     tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/p80Vhg2D8tA",
+    img: "https://img.youtube.com/vi/p80Vhg2D8tA/0.jpg",
+    title: `성진 마음속으로 가는 지름길은 어딘가요....?🚘`,
+    tags: ["Season 2", "Giving A Try", "Shorts"]
     },
 ];
 
@@ -5719,6 +5731,12 @@ const groupvData = [
     img: "https://img.youtube.com/vi/6y1G2F52aUc/0.jpg",
     title: `DAY6(데이식스) 10th Anniversary ＜데식은 10살＞ EP.1`,
     tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=zwDvOborZV0",
+    img: "https://img.youtube.com/vi/zwDvOborZV0/0.jpg",
+    title: `DAY6(데이식스) 10th Anniversary Live ＜DAY6의 FREE한 라디오＞`,
+    tags: ["Free Radio", "Live"]
   },
   
 ]
@@ -16489,6 +16507,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
