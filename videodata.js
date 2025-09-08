@@ -16421,6 +16421,24 @@ const othersData = [
     title: `퉁퉁 부은 얼굴로 기상미션 시작! 🎯아침밥을 두고 치열한 다트 한 판 승부 #데이식스ㅣ KBS 1박 2일 250907 방송`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?=sCm4J8cyqbE",
+    img: "https://img.youtube.com/vi/sCm4J8cyqbE/0.jpg",
+    title: `[#놀라운토요일] 영케이 프롬 토롸너🇨🇦 영어 스피드 퀴즈 등장에 자신감 넘치는 영케이ㅋㅋㅋ😎 잉글리쉬 VS 콩글리쉬 대결👀`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=91cqN0GEmQ0",
+    img: "https://img.youtube.com/vi/91cqN0GEmQ0/0.jpg",
+    title: `[#놀라운토요일] 우리 가나지 귀에서 불 나요🔥 구수한 사투리 영어로 스피드 퀴즈 폭주하는 데이식스 도운🤣`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=AiFZSS8HHec",
+    img: "https://img.youtube.com/vi/AiFZSS8HHec/0.jpg",
+    title: `[#놀라운토요일] 데이식스 대체 못하는 게 뭐야💦 춤신춤왕 JYP 밴드맨들이 뒤집어 놓은 놀토 무대🔥`,
+    tags: ["Variety"]
+  },
 
 
 ]
@@ -16507,6 +16525,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
