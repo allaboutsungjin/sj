@@ -5727,6 +5727,12 @@ const groupvData = [
     tags: ["Making"]
   },
   {
+    url: "https://www.youtube.com/shorts/uWNh-prSjE0",
+    img: "https://img.youtube.com/vi/uWNh-prSjE0/0.jpg",
+    title: `Time is now 가 보자고 Okay👌l DAY6 "INSIDE OUT" M/V Behind`,
+    tags: ["Shorts", "Making"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=6y1G2F52aUc",
     img: "https://img.youtube.com/vi/6y1G2F52aUc/0.jpg",
     title: `DAY6(데이식스) 10th Anniversary ＜데식은 10살＞ EP.1`,
@@ -5737,6 +5743,18 @@ const groupvData = [
     img: "https://img.youtube.com/vi/zwDvOborZV0/0.jpg",
     title: `DAY6(데이식스) 10th Anniversary Live ＜DAY6의 FREE한 라디오＞`,
     tags: ["Free Radio", "Live"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/Hh25_1V5RrE",
+    img: "https://img.youtube.com/vi/Hh25_1V5RrE/0.jpg",
+    title: `DAY6 10th Anniversary Tour〈The DECADE〉in GOYANG STADIUM ✨`,
+    tags: ["Shorts", "Behind"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/BWtoB3FiURs",
+    img: "https://img.youtube.com/vi/BWtoB3FiURs/0.jpg",
+    title: `DAY6 10th Anniversary Tour〈The DECADE〉in GOYANG STADIUM ✨`,
+    tags: ["Shorts", "Behind"]
   },
   
 ]
@@ -16439,6 +16457,18 @@ const othersData = [
     title: `[#놀라운토요일] 데이식스 대체 못하는 게 뭐야💦 춤신춤왕 JYP 밴드맨들이 뒤집어 놓은 놀토 무대🔥`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?=KQH4RZ4-RUk",
+    img: "https://img.youtube.com/vi/KQH4RZ4-RUk/0.jpg",
+    title: `[#놀라운토요일] 오호.. 같은 데이식스인데 우째 이리 다르지요❓ 하루를 음료 한 잔으로 때우는 동생들과 거하게 먹는 형들💦`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=yL-tbWS3cFc",
+    img: "https://img.youtube.com/vi/yL-tbWS3cFc/0.jpg",
+    title: `[#놀라운토요일] 데이식스는 사실 유명한 댄스그룹임🔥 털기 춤에 한 획을 그은 성진 X 냅다 프리즈하는 도운🤣`,
+    tags: ["Variety"]
+  },
 
 
 ]
@@ -16525,6 +16555,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
