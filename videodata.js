@@ -15954,6 +15954,24 @@ const othersData = [
     tags: ["Variety", "Shorts"]
   },
   {
+    url: "https://www.youtube.com/watch?=X83ka3vEseM",
+    img: "https://img.youtube.com/vi/X83ka3vEseM/0.jpg",
+    title: `Welcome DAY6 To 2 Days And 1 Night! 🎉 | 2 Days And 1 Night 4 EP288 | KOCOWA+`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=fkj6J6Ia9N8",
+    img: "https://img.youtube.com/vi/fkj6J6Ia9N8/0.jpg",
+    title: `DAY6 Sing Their Hearts Out In Car Karaoke 🎤🎶 | 2 Days And 1 Night 4 EP288 | KOCOWA+`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=t71hgruSu1w",
+    img: "https://img.youtube.com/vi/t71hgruSu1w/0.jpg",
+    title: `Competition Gets Intense As DAY6 & The Guys Compete For Food! | 2 Days And 1 Night 4 EP288 | KOCOWA+`,
+    tags: ["Variety"]
+  },
+  {
     url: "https://www.youtube.com/watch?=NJCTkR-fczA",
     img: "https://img.youtube.com/vi/NJCTkR-fczA/0.jpg",
     title: `도운아 드럼스틱은 안 된다며...? 일동 당황😲 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250831 방송`,
@@ -16110,6 +16128,24 @@ const othersData = [
     tags: ["Variety", "Shorts"]
   },
   {
+    url: "https://www.youtube.com/watch?=-5SYqqyCBJQ",
+    img: "https://img.youtube.com/vi/-5SYqqyCBJQ/0.jpg",
+    title: `Can The Guys Guess The KPOP Song Based Off The Dance? 💃 | 2 Days And 1 Night EP289 | KOCOWA+`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=4qatVlGdOuQ",
+    img: "https://img.youtube.com/vi/4qatVlGdOuQ/0.jpg",
+    title: `Kim Jong Min Teaches DAY6's Dowoon How To Do A Windmill | 2 Days And 1 Night 4 EP289 | KOCOWA+`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=L45LK90TEDs",
+    img: "https://img.youtube.com/vi/L45LK90TEDs/0.jpg",
+    title: `DAY6 Recharge Their Energy With Yummy Food 😋 | 2 Days And 1 Night 4 EP289 | KOCOWA+`,
+    tags: ["Variety"]
+  },
+  {
     url: "https://www.youtube.com/watch?=RP0xEqsoXsk",
     img: "https://img.youtube.com/vi/RP0xEqsoXsk/0.jpg",
     title: `Can you look at your sister and sing You Were Beautiful? | EP.106 DAY6 SUNGJIN, WONPIL | Salon Drip2`,
@@ -16149,6 +16185,12 @@ const othersData = [
     url: "https://www.youtube.com/watch?=82hKRlz6lR4",
     img: "https://img.youtube.com/vi/82hKRlz6lR4/0.jpg",
     title: `[FULL CAM] 유퀴즈 최초 공개! DAY6 - 꿈의 버스 | 9/10 본방 후 멤버별 직캠 공개 예정🎉#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.310`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=kYIM-l70e0k",
+    img: "https://img.youtube.com/vi/kYIM-l70e0k/0.jpg",
+    title: `[예고] 에브리데이 듣고 싶은 케이팝 대표 밴드 등장!🌟 10주년을 맞이한 데이식스 성진 X 도운 X 원필 X 영케이🎉#놀라운토요일 | amazingsaturday EP.382`,
     tags: ["Variety"]
   },
   {
@@ -16222,6 +16264,60 @@ const othersData = [
     img: "img/eyesmagd6.jpg",
     title: `DAY6 @ EYESMAG INSTAGRAM REEL`,
     tags: ["Instagram"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=l5t1JXPw6PY",
+    img: "https://img.youtube.com/vi/l5t1JXPw6PY/0.jpg",
+    title: `[The DECADE] 곡 작업 에피소드부터🖤 DAY6 피셜 킬링 포인트까지🔍 | Spotlight 인터뷰`,
+    tags: ["Interview", "YouTube Program"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=6laUsgrOt7o",
+    img: "https://img.youtube.com/vi/6laUsgrOt7o/0.jpg",
+    title: `데이식스가 선물하기에 찾아왔어요 🩷`,
+    tags: ["Behind"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=OfE65hwHhck",
+    img: "https://img.youtube.com/vi/OfE65hwHhck/0.jpg",
+    title: `[선공개] 🎉데이식스 놀토 첫 방문🎉 10주년을 맞은 대세 밴드 데이식스!🍀 데식 열풍엔 동엽신의 지분이 있다?!😲#놀라운토요일 | amazingsaturday EP.382`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=JpcSYpGVHwg",
+    img: "https://img.youtube.com/vi/JpcSYpGVHwg/0.jpg",
+    title: `[선공개] 이건 반칙 아닌가요?🤔 노래 작사가 등판해버린 간겜ㅋㅋㅋ🤩 더욱 업그레이드된 오예나~ 베이비~ 퀴즈🎶#놀라운토요일 | amazingsaturday EP.382`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=gD6VtgHFwuw",
+    img: "https://img.youtube.com/vi/gD6VtgHFwuw/0.jpg",
+    title: `돌아온 영어 스피드 퀴즈‼️ 절경이네요 가관이고요 예능 신이 주신 선물이네요🤣#놀라운토요일 | amazingsaturday EP.382 | tvN 250906 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=LTb_W1Y3dUQ",
+    img: "https://img.youtube.com/vi/LTb_W1Y3dUQ/0.jpg",
+    title: `독특한 청년 윤도운🐶 도레미들을 전부 속인 광역 어그로 ㅋㅋㅋ 십센치 〈먼데이 이즈 커밍〉♪#놀라운토요일 | amazingsaturday EP.382 | tvN 250906 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=xqBmOQk3zWE",
+    img: "https://img.youtube.com/vi/xqBmOQk3zWE/0.jpg",
+    title: `작사가 영케이🦊등판! ✔️건.사.피.장. : 건물 사이에(X) 건장한 사내가 피워낸 장미🌹#놀라운토요일 | amazingsaturday EP.382 | tvN 250906 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=a742GRDpDNo",
+    img: "https://img.youtube.com/vi/a742GRDpDNo/0.jpg",
+    title: `💥댄스 챌린지의 권위자, 데이식스의 메인 댄서💥 데장 성진🐻 놀토를 뒤집어놓으셨다🔥#놀라운토요일 | amazingsaturday EP.382 | tvN 250906 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=2w-DVZP31TI",
+    img: "https://img.youtube.com/vi/2w-DVZP31TI/0.jpg",
+    title: `[#간식게임] T.T 우는 원필🐰에 데식이들 신곡 공개까지🍀 포포몬쓰로 행복했던 날들이었다 #highlight#놀라운토요일 | amazingsaturday EP.382`,
+    tags: ["Variety"]
   },
   {
     url: "https://www.youtube.com/watch?=IZW2tw0xX_E",
@@ -16393,6 +16489,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
