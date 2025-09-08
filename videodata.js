@@ -5762,6 +5762,12 @@ const groupvData = [
     title: `DAY6(데이식스) “꿈의 버스” M/V Making Film`,
     tags: ["Making"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=VEDkhmvjHcY",
+    img: "https://img.youtube.com/vi/VEDkhmvjHcY/0.jpg",
+    title: `DAY6(데이식스) "INSIDE OUT" LIVE CLIP`,
+    tags: ["Live Clip"]
+  },
   
 ]
 
@@ -16561,6 +16567,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
