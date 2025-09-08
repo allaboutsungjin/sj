@@ -16481,6 +16481,30 @@ const othersData = [
     title: `[#놀라운토요일] 데이식스는 사실 유명한 댄스그룹임🔥 털기 춤에 한 획을 그은 성진 X 냅다 프리즈하는 도운🤣`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?=2PofyLovGiQ",
+    img: "https://img.youtube.com/vi/2PofyLovGiQ/0.jpg",
+    title: `[#놀라운토요일] 이래봬도 해군 만기전역한 30대입니다 🫡 보는 내내 광대가 안 내려오는 꺅둥 원필의 TT 🐰`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=xnAlbLKHHDg",
+    img: "https://img.youtube.com/vi/xnAlbLKHHDg/0.jpg",
+    title: `[#놀라운토요일] 세계 최초(?) 사투리 영어 구사하는 강아지🐶 직독직해 영어로 스피드 퀴즈 캐리하는 도운 ㅋㅋㅋ`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=Ka4qKEQZXhU",
+    img: "https://img.youtube.com/vi/Ka4qKEQZXhU/0.jpg",
+    title: `[#놀라운토요일] 잘할 거 맞습니다 찢고 옵시다~🎵 신곡 ‘인사이드 아웃’ 쌩라이브로 놀토 찢고 간 데이식스🍀`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=WEHsRm-0BcY",
+    img: "https://img.youtube.com/vi/WEHsRm-0BcY/0.jpg",
+    title: `[#놀라운토요일] 이러다 도운이 귀 터지는 거 아니에요?? 갱상도 사투리 영어로 간식 퀴즈 폭주하는 도러머🥁`,
+    tags: ["Variety"]
+  },
 
 
 ]
@@ -16567,6 +16591,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
