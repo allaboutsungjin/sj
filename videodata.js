@@ -5756,6 +5756,12 @@ const groupvData = [
     title: `DAY6 10th Anniversary Tour〈The DECADE〉in GOYANG STADIUM ✨`,
     tags: ["Shorts", "Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=lyoz-j-ojc0",
+    img: "https://img.youtube.com/vi/lyoz-j-ojc0/0.jpg",
+    title: `DAY6(데이식스) “꿈의 버스” M/V Making Film`,
+    tags: ["Making"]
+  },
   
 ]
 
@@ -16555,6 +16561,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
