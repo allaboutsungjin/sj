@@ -16194,6 +16194,12 @@ const othersData = [
     tags: ["Variety"]
   },
   {
+    url: "https://www.youtube.com/shorts/oFadD3CA9uA",
+    img: "https://img.youtube.com/vi/oFadD3CA9uA/0.jpg",
+    title: `성진이 말하는 효소 파우더 속 진짜 쌀가루의 비밀🌾🔍 #데이식스 #성진 #파파레서피 #스킨케어`,
+    tags: ["Ads", "Shorts"]
+  },
+  {
     url: "https://www.youtube.com/watch?=RP0xEqsoXsk",
     img: "https://img.youtube.com/vi/RP0xEqsoXsk/0.jpg",
     title: `Can you look at your sister and sing You Were Beautiful? | EP.106 DAY6 SUNGJIN, WONPIL | Salon Drip2`,
@@ -16591,6 +16597,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
