@@ -4991,7 +4991,7 @@ const groupvData = [
     url: "https://www.youtube.com/watch?v=VnDfhNrn2W4",
     img: "https://img.youtube.com/vi/VnDfhNrn2W4/0.jpg",
     title: `DAY6(데이식스) "녹아내려요 (Melt Down)" M/V Reaction Video with My Day`,
-    tags: ["Behind"]
+    tags: ["Reaction"]
   },
   {
     url: "https://www.youtube.com/watch?v=7Q_i3bMU_0Y",
@@ -5766,6 +5766,30 @@ const groupvData = [
     url: "https://www.youtube.com/watch?v=VEDkhmvjHcY",
     img: "https://img.youtube.com/vi/VEDkhmvjHcY/0.jpg",
     title: `DAY6(데이식스) "INSIDE OUT" LIVE CLIP`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=VEDkhmvjHcY",
+    img: "https://img.youtube.com/vi/VEDkhmvjHcY/0.jpg",
+    title: `DAY6(데이식스) "INSIDE OUT" LIVE CLIP`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=bYyLW9xVIAA",
+    img: "https://img.youtube.com/vi/bYyLW9xVIAA/0.jpg",
+    title: `DAY6(데이식스) 10th Anniversary Documentary ＜DAY6: Time of Our Decade＞`,
+    tags: ["Documentary"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=Hg_V19-XVto",
+    img: "https://img.youtube.com/vi/Hg_V19-XVto/0.jpg",
+    title: `DAY6(데이식스) "INSIDE OUT" M/V Reaction Video`,
+    tags: ["Reaction"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=eNMz5jnZDvg",
+    img: "https://img.youtube.com/vi/eNMz5jnZDvg/0.jpg",
+    title: `DAY6(데이식스) "꿈의 버스" LIVE CLIP`,
     tags: ["Live Clip"]
   },
   
@@ -16458,6 +16482,30 @@ const othersData = [
     tags: ["Variety"]
   },
   {
+    url: "https://www.youtube.com/shorts/7RPQx5QlPX4",
+    img: "https://img.youtube.com/vi/7RPQx5QlPX4/0.jpg",
+    title: `나 이제 롤 모델 끝난 거야?! #1박2일｜KBS 250907 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/q5smQH5_xW0",
+    img: "https://img.youtube.com/vi/q5smQH5_xW0/0.jpg",
+    title: `나한테 실망한 건 아니지? #1박2일｜KBS 250907 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/E7ApYP9z8Do",
+    img: "https://img.youtube.com/vi/E7ApYP9z8Do/0.jpg",
+    title: `원필이 형 믿어요 #1박2일｜KBS 250907 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/rf4GjQ7KTAY",
+    img: "https://img.youtube.com/vi/rf4GjQ7KTAY/0.jpg",
+    title: `테토남 아니고 큐트남 #1박2일｜KBS 250907 방송`,
+    tags: ["Variety", "Shorts"]
+  },
+  {
     url: "https://www.youtube.com/watch?=sCm4J8cyqbE",
     img: "https://img.youtube.com/vi/sCm4J8cyqbE/0.jpg",
     title: `[#놀라운토요일] 영케이 프롬 토롸너🇨🇦 영어 스피드 퀴즈 등장에 자신감 넘치는 영케이ㅋㅋㅋ😎 잉글리쉬 VS 콩글리쉬 대결👀`,
@@ -16509,6 +16557,18 @@ const othersData = [
     url: "https://www.youtube.com/watch?=WEHsRm-0BcY",
     img: "https://img.youtube.com/vi/WEHsRm-0BcY/0.jpg",
     title: `[#놀라운토요일] 이러다 도운이 귀 터지는 거 아니에요?? 갱상도 사투리 영어로 간식 퀴즈 폭주하는 도러머🥁`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=nBxWpc1aGFk",
+    img: "https://img.youtube.com/vi/nBxWpc1aGFk/0.jpg",
+    title: `[선공개]첫 정산금 3,600원? 고양콘 총 8만 석 매진 시키는 지금의 데이식스가 되기까지 10년의 서사🍀#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.310`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=7eCewcxcUso",
+    img: "https://img.youtube.com/vi/7eCewcxcUso/0.jpg",
+    title: `[유퀴즈 직캠] DAY6(데이식스) 성진 l 하이라이트 메들리 라이브♬#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.310`,
     tags: ["Variety"]
   },
 
@@ -16597,6 +16657,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
