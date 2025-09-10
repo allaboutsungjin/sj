@@ -16571,6 +16571,12 @@ const othersData = [
     title: `[유퀴즈 직캠] DAY6(데이식스) 성진 l 하이라이트 메들리 라이브♬#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.310`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.instagram.com/reel/DOanmiZEo0f",
+    img: "img/d6ytkr.jpg",
+    title: `DAY6 @ YOUTUBEKOREA INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
 
 
 ]
@@ -16657,6 +16663,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
