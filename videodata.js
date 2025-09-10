@@ -16560,6 +16560,18 @@ const othersData = [
     tags: ["Variety"]
   },
   {
+    url: "https://www.youtube.com/watch?=ezJDdQqDUws",
+    img: "https://img.youtube.com/vi/ezJDdQqDUws/0.jpg",
+    title: `[#놀라운토요일] 촬영장에 강쥐들 데리고 온 키?! 예상치 못한 꼼데와 가르송의 방문ㅋㅋㅋ🐶`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=k2R2kbqDGGM",
+    img: "https://img.youtube.com/vi/k2R2kbqDGGM/0.jpg",
+    title: `[#놀라운토요일] 분명 영어인데 사투리가 들려요🫨 땀까지 흘리며 영어 폭주쇼하는 도운이ㅋㅋㅋ💦`,
+    tags: ["Variety"]
+  },
+  {
     url: "https://www.youtube.com/watch?=nBxWpc1aGFk",
     img: "https://img.youtube.com/vi/nBxWpc1aGFk/0.jpg",
     title: `[선공개]첫 정산금 3,600원? 고양콘 총 8만 석 매진 시키는 지금의 데이식스가 되기까지 10년의 서사🍀#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.310`,
@@ -16663,6 +16675,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
