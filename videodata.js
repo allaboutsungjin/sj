@@ -16589,6 +16589,48 @@ const othersData = [
     title: `DAY6 @ YOUTUBEKOREA INSTAGRAM REEL`,
     tags: ["Instagram"]
   },
+  {
+    url: "https://www.youtube.com/watch?=xXmKbowxhMQ",
+    img: "https://img.youtube.com/vi/xXmKbowxhMQ/0.jpg",
+    title: `[Full ver.] DAY6(데이식스) 하이라이트 메들리 라이브 + ♬꿈의 버스 풀버전💚#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.310`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=WWeCye2ut0k",
+    img: "https://img.youtube.com/vi/WWeCye2ut0k/0.jpg",
+    title: `아크로바틱 하다가 갑자기 기타 잡음 ㅋㅋ 남다른 데이식스 탄생 썰#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.310 | tvN 250910 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=x_N6rdGyax0",
+    img: "https://img.youtube.com/vi/x_N6rdGyax0/0.jpg",
+    title: `듣자마자 바로 벅차오르는.. DAY6(데이식스)의 히트곡 메들리~🍀#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.310 | tvN 250910 방송`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=w4MfKn_zASA",
+    img: "https://img.youtube.com/vi/w4MfKn_zASA/0.jpg",
+    title: `하루에 14시간씩 연습 ㄷㄷ 데이식스가 빛을 발할 수밖에 없었던 이유..! #highlight#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.310`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=PiBPLWqmvN8",
+    img: "https://img.youtube.com/vi/PiBPLWqmvN8/0.jpg",
+    title: `All Of DAY6 Will Sleep Outside?! 🥲 | 2 Days And 1 Night 4 EP290 | KOCOWA+`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=U5D-WgDOM9Q",
+    img: "https://img.youtube.com/vi/U5D-WgDOM9Q/0.jpg",
+    title: `DAY6 Enjoys Their First Breakfast on 2D1N 🥞 | 2 Days And 1 Night 4 EP290 | KOCOWA+`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=bWNL-9H6crA",
+    img: "https://img.youtube.com/vi/bWNL-9H6crA/0.jpg",
+    title: `DAY6's WonPil Tries Arm Wrestling With Moon Se Yoon 😭💪 | 2 Days And 1 Night 4 EP290 | KOCOWA+`,
+    tags: ["Variety"]
+  },
 
 
 ]
@@ -16675,6 +16717,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
