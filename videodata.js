@@ -16631,6 +16631,18 @@ const othersData = [
     title: `DAY6's WonPil Tries Arm Wrestling With Moon Se Yoon 😭💪 | 2 Days And 1 Night 4 EP290 | KOCOWA+`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?=UqNXP2DEC0M",
+    img: "https://img.youtube.com/vi/UqNXP2DEC0M/0.jpg",
+    title: `[#유퀴즈온더블럭] 우리 데장이 회식 프로참석러가 된 이유🤣 데이식스의 성공을 위해 직접 발로 뛴 리더 성진💍`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://x.com/i/status/1965284138296246614",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1965283602658435072/img/qUof6gV9X0-1kUHw.jpg",
+    title: `[파파생정] 피부 좋아지는 법 / 훈녀 / 훈남 / 인기만점 되는 방법 @ PAPARECIPE_KR X`,
+    tags: ["X"]
+  },
 
 
 ]
@@ -16717,6 +16729,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
