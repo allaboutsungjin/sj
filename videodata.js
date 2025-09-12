@@ -5792,6 +5792,12 @@ const groupvData = [
     title: `DAY6(데이식스) "꿈의 버스" LIVE CLIP`,
     tags: ["Live Clip"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=Y2oox-OGg3Y",
+    img: "https://img.youtube.com/vi/Y2oox-OGg3Y/0.jpg",
+    title: `DAY6(데이식스) "우리의 계절" M/V`,
+    tags: ["MV"]
+  },
   
 ]
 
@@ -16643,6 +16649,12 @@ const othersData = [
     title: `[파파생정] 피부 좋아지는 법 / 훈녀 / 훈남 / 인기만점 되는 방법 @ PAPARECIPE_KR X`,
     tags: ["X"]
   },
+  {
+    url: "https://www.youtube.com/watch?=Dn7oTrj1_98",
+    img: "https://img.youtube.com/vi/Dn7oTrj1_98/0.jpg",
+    title: `[#유퀴즈온더블럭] 충격적으로 적었던 데이식스의 첫 정산금💦 그들이 무명 시절을 버틸 수 있었던 진짜 이유⁉️`,
+    tags: ["Variety"]
+  },
 
 
 ]
@@ -16729,6 +16741,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
