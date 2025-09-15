@@ -5798,6 +5798,12 @@ const groupvData = [
     title: `DAY6(데이식스) "우리의 계절" M/V`,
     tags: ["MV"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=H-ebAvadtmY",
+    img: "https://img.youtube.com/vi/H-ebAvadtmY/0.jpg",
+    title: `DAY6(데이식스) 10th Anniversary ＜데식은 10살＞ EP.2`,
+    tags: ["Variety"]
+  },
   
 ]
 
@@ -16655,6 +16661,12 @@ const othersData = [
     title: `[#유퀴즈온더블럭] 충격적으로 적었던 데이식스의 첫 정산금💦 그들이 무명 시절을 버틸 수 있었던 진짜 이유⁉️`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?=_gd3YpGaLvY",
+    img: "https://img.youtube.com/vi/_gd3YpGaLvY/0.jpg",
+    title: `UMBRO HBL : For Brothers Everywhere with DAY6`,
+    tags: ["Ads"]
+  },
 
 
 ]
@@ -16741,6 +16753,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
