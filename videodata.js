@@ -5804,6 +5804,18 @@ const groupvData = [
     title: `DAY6(데이식스) 10th Anniversary ＜데식은 10살＞ EP.2`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=AHy7z1ABnZE",
+    img: "https://img.youtube.com/vi/AHy7z1ABnZE/0.jpg",
+    title: `DAY6(데이식스) "Welcome to the Show" LIVE CLIP (with My Day ver.)`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=EIl7giKdFIs",
+    img: "https://img.youtube.com/vi/EIl7giKdFIs/0.jpg",
+    title: `[데식이들] Papa Recipe Photoshoot Behind #2`,
+    tags: ["DAY6s", "Behind"]
+  },
   
 ]
 
@@ -16667,6 +16679,18 @@ const othersData = [
     title: `UMBRO HBL : For Brothers Everywhere with DAY6`,
     tags: ["Ads"]
   },
+  {
+    url: "https://www.instagram.com/reel/DOpPV2Ikywk",
+    img: "img/d6dip.jpg",
+    title: `DAY6 @ DIP_MAGAZINE INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/reel/DOpo6xqid-h",
+    img: "img/d6jwkr.jpg",
+    title: `DAY6 @ DAZEDKOREA INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
 
 
 ]
@@ -16753,6 +16777,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
