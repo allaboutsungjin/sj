@@ -5816,6 +5816,12 @@ const groupvData = [
     title: `[데식이들] Papa Recipe Photoshoot Behind #2`,
     tags: ["DAY6s", "Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=Pp8Bza15AWY",
+    img: "https://img.youtube.com/vi/Pp8Bza15AWY/0.jpg",
+    title: `DAY6(데이식스) "Congratulations" LIVE CLIP (with My Day ver.)`,
+    tags: ["Live Clip"]
+  },
   
 ]
 
@@ -16777,6 +16783,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
