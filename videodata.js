@@ -5822,6 +5822,12 @@ const groupvData = [
     title: `DAY6(데이식스) "Congratulations" LIVE CLIP (with My Day ver.)`,
     tags: ["Live Clip"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=SbzU_9hKfIo",
+    img: "https://img.youtube.com/vi/SbzU_9hKfIo/0.jpg",
+    title: `DAY6(데이식스) "INSIDE OUT" LIVE CLIP (with My Day ver.)`,
+    tags: ["Live Clip"]
+  },
   
 ]
 
@@ -16697,6 +16703,18 @@ const othersData = [
     title: `DAY6 @ DAZEDKOREA INSTAGRAM REEL`,
     tags: ["Instagram"]
   },
+  {
+    url: "https://www.instagram.com/p/DOrycSVEkG4",
+    img: "img/d6jwkr2.jpg",
+    title: `DAY6 @ DAZEDKOREA INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.instagram.com/p/DOry8ljks11",
+    img: "img/d6jwkr3.jpg",
+    title: `DAY6 @ DAZEDKOREA INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
 
 
 ]
@@ -16783,6 +16801,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
