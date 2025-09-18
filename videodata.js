@@ -5828,6 +5828,12 @@ const groupvData = [
     title: `DAY6(데이식스) "INSIDE OUT" LIVE CLIP (with My Day ver.)`,
     tags: ["Live Clip"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=4uKgxsPcA_I",
+    img: "https://img.youtube.com/vi/4uKgxsPcA_I/0.jpg",
+    title: `DAY6(데이식스) "꿈의 버스" LIVE CLIP (with My Day ver.)`,
+    tags: ["Live Clip"]
+  },
   
 ]
 
@@ -16801,6 +16807,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
