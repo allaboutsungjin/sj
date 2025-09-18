@@ -16721,6 +16721,12 @@ const othersData = [
     title: `DAY6 @ DAZEDKOREA INSTAGRAM REEL`,
     tags: ["Instagram"]
   },
+  {
+    url: "https://x.com/i/status/1968543013938102672",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1968542735809597440/img/K5ZJjMvIiuYgWyDQ.jpg",
+    title: `𝙄𝙣𝙨𝙞𝙙𝙚 𝙤𝙪𝙩 @ PAPARECIPE_KR X`,
+    tags: ["X"]
+  },
 
 
 ]
@@ -16807,6 +16813,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
