@@ -5829,9 +5829,15 @@ const groupvData = [
     tags: ["Live Clip"]
   },
   {
-    url: "https://www.youtube.com/watch?v=4uKgxsPcA_I",
-    img: "https://img.youtube.com/vi/4uKgxsPcA_I/0.jpg",
-    title: `DAY6(데이식스) "꿈의 버스" LIVE CLIP (with My Day ver.)`,
+    url: "https://www.youtube.com/watch?v=MV3cMDqBWyo",
+    img: "https://img.youtube.com/vi/MV3cMDqBWyo/0.jpg",
+    title: `DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ MD Shooting Sketch 📸`,
+    tags: ["Behind"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=iQBOu81LkT0",
+    img: "https://img.youtube.com/vi/iQBOu81LkT0/0.jpg",
+    title: `DAY6(데이식스) "한 페이지가 될 수 있게" LIVE CLIP (with My Day ver.)`,
     tags: ["Live Clip"]
   },
   
@@ -16813,6 +16819,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
