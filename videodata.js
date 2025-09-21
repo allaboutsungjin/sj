@@ -5840,6 +5840,12 @@ const groupvData = [
     title: `DAY6(데이식스) "한 페이지가 될 수 있게" LIVE CLIP (with My Day ver.)`,
     tags: ["Live Clip"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=ww3DEtr24yU",
+    img: "https://img.youtube.com/vi/ww3DEtr24yU/0.jpg",
+    title: `[데식이들] DAY6(데이식스) ＜DAY6.zip : The Home of Our Decade＞ Behind`,
+    tags: ["Behind", "DAY6s"]
+  },
   
 ]
 
@@ -16819,6 +16825,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
