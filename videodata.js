@@ -16769,6 +16769,12 @@ const othersData = [
     title: `스포티파이와 함께라면 하루가 짧다, DAY6! @ SPOTIFYKR X`,
     tags: ["X"]
   },
+  {
+    url: "https://www.youtube.com/watch?=rXKmMOdCdsA",
+    img: "https://img.youtube.com/vi/rXKmMOdCdsA/0.jpg",
+    title: `DAY6와 함께한 스포티파이 Speakeasy Live 🎲 - 한 페이지가 될 수 있게, HAPPY, Welcome to the Show, 꿈의 버스, INSIDE OUT`,
+    tags: ["YouTube Program"]
+  },
 
 
 ]
@@ -16855,6 +16861,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
