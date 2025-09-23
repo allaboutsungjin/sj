@@ -16739,6 +16739,18 @@ const othersData = [
     title: `𝙄𝙣𝙨𝙞𝙙𝙚 𝙤𝙪𝙩 @ PAPARECIPE_KR X`,
     tags: ["X"]
   },
+  {
+    url: "https://x.com/i/status/1970003805204107471",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1970003650081857536/img/3cQt50fimaXdDBxg.jpg",
+    title: `🌟성진 선수, 오늘도 미백 각질 케어 캐치 @ PAPARECIPE_KR X`,
+    tags: ["X"]
+  },
+  {
+    url: "https://www.instagram.com/reel/DO5n0wgCU73",
+    img: "img/d6eyesmag3.jpg",
+    title: `DAY6 @ EYESMAG INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
 
 
 ]
@@ -16825,6 +16837,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
