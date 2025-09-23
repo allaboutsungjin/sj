@@ -16763,6 +16763,12 @@ const othersData = [
     title: `DAY6 @ EYESMAG INSTAGRAM REEL`,
     tags: ["Instagram"]
   },
+  {
+    url: "https://x.com/i/status/1970419509887750204",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1970318643960651780/img/kvNGp81n1dY5qELd.jpg",
+    title: `스포티파이와 함께라면 하루가 짧다, DAY6! @ SPOTIFYKR X`,
+    tags: ["X"]
+  },
 
 
 ]
@@ -16849,6 +16855,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
