@@ -1429,6 +1429,18 @@ const psj2yaData = [
     title: `성진 마음속으로 가는 지름길은 어딘가요....?🚘`,
     tags: ["Season 2", "Giving A Try", "Shorts"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/y3mqMYgDL0Q",
+    img: "https://img.youtube.com/vi/y3mqMYgDL0Q/0.jpg",
+    title: `??: 아이템 겹치지 마라🤨`,
+    tags: ["Season 2", "What's In My", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/hLjHtVJ2h5c",
+    img: "https://img.youtube.com/vi/hLjHtVJ2h5c/0.jpg",
+    title: `🔔띵동- 택배가 도착하였습니다🔔`,
+    tags: ["Season 2", "What's In My", "Shorts"]
+    },
 ];
 
 const stazData = [
@@ -16837,6 +16849,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
