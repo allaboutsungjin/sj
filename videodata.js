@@ -16787,6 +16787,12 @@ const othersData = [
     title: `[다시보는 AAA 2024 명장면] 사투리로 고백 하는 방법❤️(상남자 st) | 2024 Asia Artist Awards`,
     tags: ["Music Awards", "Shorts"]
   },
+  {
+    url: "https://www.youtube.com/shorts/_C6p_qIc9CI",
+    img: "https://img.youtube.com/vi/_C6p_qIc9CI/0.jpg",
+    title: `[다시보는 AAA 2024 명장면] 전 여기에 눕겠습니다...✨ | 2024 Asia Artist Awards`,
+    tags: ["Music Awards", "Shorts"]
+  },
 
 
 ]
@@ -16873,6 +16879,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
