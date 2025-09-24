@@ -5858,6 +5858,12 @@ const groupvData = [
     title: `[데식이들] DAY6(데이식스) ＜DAY6.zip : The Home of Our Decade＞ Behind`,
     tags: ["Behind", "DAY6s"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=xEGO8AGmWJQ",
+    img: "https://img.youtube.com/vi/xEGO8AGmWJQ/0.jpg",
+    title: `DAY6(데이식스) ＜DAY6.zip : The Home of Our Decade＞ 성진'S PICK Instrumental Playlist`,
+    tags: ["Extended"]
+  },
   
 ]
 
@@ -16775,6 +16781,12 @@ const othersData = [
     title: `DAY6와 함께한 스포티파이 Speakeasy Live 🎲 - 한 페이지가 될 수 있게, HAPPY, Welcome to the Show, 꿈의 버스, INSIDE OUT`,
     tags: ["YouTube Program"]
   },
+  {
+    url: "https://www.youtube.com/shorts/zfcYkGKBgpc",
+    img: "https://img.youtube.com/vi/zfcYkGKBgpc/0.jpg",
+    title: `[다시보는 AAA 2024 명장면] 사투리로 고백 하는 방법❤️(상남자 st) | 2024 Asia Artist Awards`,
+    tags: ["Music Awards", "Shorts"]
+  },
 
 
 ]
@@ -16861,6 +16873,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
