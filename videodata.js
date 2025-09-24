@@ -16793,6 +16793,12 @@ const othersData = [
     title: `[다시보는 AAA 2024 명장면] 전 여기에 눕겠습니다...✨ | 2024 Asia Artist Awards`,
     tags: ["Music Awards", "Shorts"]
   },
+  {
+    url: "https://www.youtube.com/watch?=TCpgApP9QCQ",
+    img: "https://img.youtube.com/vi/TCpgApP9QCQ/0.jpg",
+    title: `[미방분] 위 라이크 투 파티~ 예이예이예이예~🎉 본격 놀토 제대로 즐기고 간 데이식스 모음집🍀#놀라운토요일 | amazingsaturday EP.382`,
+    tags: ["Variety"]
+  },
 
 
 ]
@@ -16879,6 +16885,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
