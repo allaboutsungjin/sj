@@ -5864,6 +5864,12 @@ const groupvData = [
     title: `DAY6(데이식스) ＜DAY6.zip : The Home of Our Decade＞ 성진'S PICK Instrumental Playlist`,
     tags: ["Extended"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=OPmJDkTg0Q4",
+    img: "https://img.youtube.com/vi/OPmJDkTg0Q4/0.jpg",
+    title: `DAY6(데이식스) LIVE CLIP (with My Day) Making Film`,
+    tags: ["Making"]
+  },
   
 ]
 
@@ -16891,6 +16897,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
