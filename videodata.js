@@ -726,6 +726,22 @@ const psj2yaData = [
     tags: ["Season 2", "Giving A Try", "Guest"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=fimHj2QOrys",
+    img: "https://img.youtube.com/vi/fimHj2QOrys/0.jpg",
+    title: "Park SungJJIN S2 EP.54",
+    desc: `☑️채널주 pick 국밥은요~? (영진국밥 아닙니데이) ☑️`,
+    guest: "Guest: -",
+    tags: ["Season 2", "Food"]
+    },
+  { 
+    url: "https://www.youtube.com/watch?v=c7QCpFvtBf0",
+    img: "https://img.youtube.com/vi/c7QCpFvtBf0/0.jpg",
+    title: "Park SungJJIN S2 EP.55",
+    desc: `Theme switched to Chuseok 🌕🥮 (feat. Papa Recipe ✨)`,
+    guest: "Guest: -",
+    tags: ["Season 2", "Food"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/eMIfe1rD5H8",
     img: "https://img.youtube.com/vi/eMIfe1rD5H8/0.jpg",
     title: `성진 MBTI 검사하면 CUTE 나온대요...🤭`,
@@ -16811,6 +16827,19 @@ const othersData = [
     title: `DAY6 @ DAZEDKOREA INSTAGRAM REEL`,
     tags: ["Instagram"]
   },
+  {
+    url: "https://www.youtube.com/shorts/-CxFr-3fMEw",
+    img: "https://img.youtube.com/vi/-CxFr-3fMEw/0.jpg",
+    title: `밑장빼기 하는 윤도운 실존. 반스와 데이식스가 함께한 캠페인 𝗖𝗢𝗠𝗘 𝗢𝗡 𝗢𝗩𝗘𝗥!♠️ #VANS #반스 #DAY6 #데이식스 #GQKOREA #SHORTS`,
+    tags: ["Ads", "Magazine", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=erkHr09wmAk",
+    img: "https://img.youtube.com/vi/erkHr09wmAk/0.jpg",
+    title: `동작 그만, 밑장빼기냐! 데이식스가 반스를 신고 참여한 숨 막히는 도둑 잡기 게임 현장. 과연 승자는...?🃏 (VANS, 반스, 하버 뮬, 올드스쿨, 로퍼, DAY6, 데이식스)`,
+    tags: ["Ads", "Magazine"]
+  },
+  
 
 
 ]
@@ -16897,6 +16926,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
