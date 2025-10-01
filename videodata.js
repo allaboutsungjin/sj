@@ -16845,6 +16845,12 @@ const othersData = [
     title: `동작 그만, 밑장빼기냐! 데이식스가 반스를 신고 참여한 숨 막히는 도둑 잡기 게임 현장. 과연 승자는...?🃏 (VANS, 반스, 하버 뮬, 올드스쿨, 로퍼, DAY6, 데이식스)`,
     tags: ["Ads", "Magazine"]
   },
+  {
+    url: "https://www.youtube.com/watch?=0MuDVfTCfHg",
+    img: "https://img.youtube.com/vi/0MuDVfTCfHg/0.jpg",
+    title: `CRAFT YOUR RUBY WITH DAY6, 일일 바텐더가 돼보자 ♥ㅣHI CONFUSED`,
+    tags: ["Ads", "Magazine"]
+  },
   
 
 
@@ -16932,6 +16938,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
