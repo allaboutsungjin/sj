@@ -5886,6 +5886,12 @@ const groupvData = [
     title: `DAY6(데이식스) LIVE CLIP (with My Day) Making Film`,
     tags: ["Making"]
   },
+  {
+    url: "https://www.youtube.com/shorts/QM16lrpp2Zw",
+    img: "https://img.youtube.com/vi/QM16lrpp2Zw/0.jpg",
+    title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in BANGKOK ✨Behind the Scene📱`,
+    tags: ["Shorts", "Behind"]
+  },
   
 ]
 
@@ -16926,6 +16932,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
