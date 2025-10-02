@@ -16851,6 +16851,12 @@ const othersData = [
     title: `CRAFT YOUR RUBY WITH DAY6, 일일 바텐더가 돼보자 ♥ㅣHI CONFUSED`,
     tags: ["Ads", "Magazine"]
   },
+  {
+    url: "https://www.youtube.com/watch?=8Ts4wei-eZQ",
+    img: "https://img.youtube.com/vi/8Ts4wei-eZQ/0.jpg",
+    title: `[티저] 우리들에게 조용필이란?`,
+    tags: ["Variety"]
+  },
   
 
 
@@ -16938,6 +16944,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
