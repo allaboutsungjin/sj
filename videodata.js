@@ -1457,6 +1457,18 @@ const psj2yaData = [
     title: `🔔띵동- 택배가 도착하였습니다🔔`,
     tags: ["Season 2", "What's In My", "Shorts"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/6UE8n210JPE",
+    img: "https://img.youtube.com/vi/6UE8n210JPE/0.jpg",
+    title: `이런 대표님 또 없습니다..🫠`,
+    tags: ["Season 2", "Food", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/U3oATGifMxw",
+    img: "https://img.youtube.com/vi/U3oATGifMxw/0.jpg",
+    title: `에법 사투리 안 쓰는디요?🤫`,
+    tags: ["Season 2", "Food", "Shorts"]
+    },
 ];
 
 const stazData = [
@@ -16944,6 +16956,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
