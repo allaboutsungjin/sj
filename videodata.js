@@ -16875,6 +16875,24 @@ const othersData = [
     title: `'데장'의 퍼스널 컬러는 반스와 함께하는 가을이 확실합니다...🍂 #VANS #반스 #DAY6 #데이식스 #SUNGJIN #성진 #GQKOREA #SHORTS`,
     tags: ["Ads", "Magazine", "Shorts"]
   },
+  {
+    url: "https://www.instagram.com/reel/DPVL5JYk2MB",
+    img: "img/d6gqvans.jpg",
+    title: `DAY6 @ GQ_KOREA INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/pvYHJGCEWVc",
+    img: "https://img.youtube.com/vi/pvYHJGCEWVc/0.jpg",
+    title: `PAPARECIPE X DAY6 촬영 현장 비하인드🎬 청춘 시트콤 아니죠?? #파파레서피 #데이식스 #DAY6 #paparecipe #비하인드`,
+    tags: ["Ads", "Shorts"]
+  },
+  {
+    url: "https://x.com/i/status/1975125366282014982",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1975125243552530432/img/eYvE0ReSUWiMVdsp.jpg",
+    title: `행복한 추석🌝 @ PAPARECIPE_KR X`,
+    tags: ["X"]
+  },
   
 
 
@@ -16962,6 +16980,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
