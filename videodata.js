@@ -16869,6 +16869,12 @@ const othersData = [
     title: `[티저] 우리들에게 조용필이란?`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/shorts/r9n6kVcXe10",
+    img: "https://img.youtube.com/vi/r9n6kVcXe10/0.jpg",
+    title: `'데장'의 퍼스널 컬러는 반스와 함께하는 가을이 확실합니다...🍂 #VANS #반스 #DAY6 #데이식스 #SUNGJIN #성진 #GQKOREA #SHORTS`,
+    tags: ["Ads", "Magazine", "Shorts"]
+  },
   
 
 
@@ -16956,6 +16962,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
