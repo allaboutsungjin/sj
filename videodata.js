@@ -742,6 +742,14 @@ const psj2yaData = [
     tags: ["Season 2", "Food"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=WgU9T7vcLDQ",
+    img: "https://img.youtube.com/vi/WgU9T7vcLDQ/0.jpg",
+    title: "Park SungJJIN S2 EP.56",
+    desc: `Slang Quiz 🫶 Sungjin’s the New Trend Among Jjinbbangies 🫶`,
+    guest: "Guest: -",
+    tags: ["Season 2"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/eMIfe1rD5H8",
     img: "https://img.youtube.com/vi/eMIfe1rD5H8/0.jpg",
     title: `성진 MBTI 검사하면 CUTE 나온대요...🤭`,
@@ -16893,6 +16901,24 @@ const othersData = [
     title: `행복한 추석🌝 @ PAPARECIPE_KR X`,
     tags: ["X"]
   },
+  {
+    url: "https://www.youtube.com/shorts/a3dXegpZMgg",
+    img: "https://img.youtube.com/vi/a3dXegpZMgg/0.jpg",
+    title: `더 큰 행복을 드리기 위한 파파레서피의 보석함 OPEN✨ #파파레서피 #데이식스 #DAY6 #paparecipe #비하인드`,
+    tags: ["Ads", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/n3_P4Y-e6s8",
+    img: "https://img.youtube.com/vi/n3_P4Y-e6s8/0.jpg",
+    title: `데이식스에게 주어진 단 하루의 달콤한 휴일, 과연 이들은 무사히 휴식을 즐길 수 있을까요...?🍫 #KitKat #킷캣 #DAY6 #데이식스 #GQKOREA #SHORTS`,
+    tags: ["Ads", "Magazine", "Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=7_BjcuhsLAs",
+    img: "https://img.youtube.com/vi/7_BjcuhsLAs/0.jpg",
+    title: `데이식스가 킷캣과 함께 달콤한 휴식을 즐기는 방법🍫 (KitKat, 킷캣, Have A Break, DAY6, 데이식스)`,
+    tags: ["Ads", "Magazine"]
+  },
   
 
 
@@ -16980,6 +17006,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
