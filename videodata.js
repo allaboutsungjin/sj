@@ -5912,6 +5912,24 @@ const groupvData = [
     title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in BANGKOK ✨Behind the Scene📱`,
     tags: ["Shorts", "Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=VcemG_j3RgQ",
+    img: "https://img.youtube.com/vi/VcemG_j3RgQ/0.jpg",
+    title: `DAY6(데이식스) 3RD WORLD TOUR ＜FOREVER YOUNG＞ in INCHEON & FINALE in SEOUL Blu-ray PREVIEW 📹🩵`,
+    tags: ["Teaser"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/ENk72_RAWGE",
+    img: "https://img.youtube.com/vi/ENk72_RAWGE/0.jpg",
+    title: `DAY6(데이식스) 3RD WORLD TOUR ＜FOREVER YOUNG＞ in INCHEON & FINALE in SEOUL`,
+    tags: ["Shorts", "Teaser"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/pjEoR-CUZl0",
+    img: "https://img.youtube.com/vi/pjEoR-CUZl0/0.jpg",
+    title: `DAY6(데이식스) 3RD WORLD TOUR ＜FOREVER YOUNG＞ in INCHEON & FINALE in SEOUL`,
+    tags: ["Shorts", "Teaser"]
+  },
   
 ]
 
@@ -17006,6 +17024,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
