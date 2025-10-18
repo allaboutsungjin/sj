@@ -16937,6 +16937,24 @@ const othersData = [
     title: `데이식스가 킷캣과 함께 달콤한 휴식을 즐기는 방법🍫 (KitKat, 킷캣, Have A Break, DAY6, 데이식스)`,
     tags: ["Ads", "Magazine"]
   },
+  {
+    url: "https://www.youtube.com/watch?=R7D3-Ppm7u8",
+    img: "https://img.youtube.com/vi/R7D3-Ppm7u8/0.jpg",
+    title: `🧳Preview | The World's First Idol Scout! | The Game Caterers X JYP`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=H84-4x3CEyI",
+    img: "https://img.youtube.com/vi/H84-4x3CEyI/0.jpg",
+    title: `🧳Preview | JYP meets The Game Caterers! | 🧳💙The Game Caterers X JYP`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/4ylp7Br49kw",
+    img: "https://img.youtube.com/vi/4ylp7Br49kw/0.jpg",
+    title: `[출오야 스포] JYP 기본안무로 스카우트 스타뜨`,
+    tags: ["Variety", "Shorts"]
+  },
   
 
 
@@ -17024,6 +17042,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
