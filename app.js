@@ -102,6 +102,10 @@ const events = {
     '2025-09-18': `LIVE CLIP with My Day 4`,
     '2025-09-19': `LIVE CLIP with My Day 5`,
     '2025-10-18': `10th Anniversary Tour <The DECADE> in Ho Chi Minh`,
+    '2025-10-22': `The Game Caterers X JYP EP.1 TVN`,
+    '2025-10-23': `The Game Caterers X JYP EP.1 Full Version YouTube`,
+    '2025-10-29': `The Game Caterers X JYP EP.2 TVN`,
+    '2025-10-30': `The Game Caterers X JYP EP.2 Full Version YouTube`,
     '2026-01-17': `10th Anniversary Tour <The DECADE> in Hong Kong`,
     '2026-01-24': `10th Anniversary Tour <The DECADE> in Manila`,
     '2026-01-31': `10th Anniversary Tour <The DECADE> in Kuala Lumpur`
@@ -214,3 +218,4 @@ document.getElementById('next-month').addEventListener('click', () => {
     generateCalendar(currentMonth, currentYear);
     listEvents(events, currentMonth, currentYear);
 });
+
