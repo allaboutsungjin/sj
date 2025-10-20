@@ -1477,6 +1477,24 @@ const psj2yaData = [
     title: `에법 사투리 안 쓰는디요?🤫`,
     tags: ["Season 2", "Food", "Shorts"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/SPdsva2n4sk",
+    img: "https://img.youtube.com/vi/SPdsva2n4sk/0.jpg",
+    title: `💢이라이라 챌린지 탑승한 성진💢`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/C9kGOn3LGvs",
+    img: "https://img.youtube.com/vi/C9kGOn3LGvs/0.jpg",
+    title: `형아... 이렇게 하는 거 맞아...?🚙붕붕`,
+    tags: ["Season 2", "Guest", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/2OW0oLqggxY",
+    img: "https://img.youtube.com/vi/2OW0oLqggxY/0.jpg",
+    title: `영상이 안 멈추는데 어떡해....♾️`,
+    tags: ["Season 2", "Guest", "Shorts"]
+    },
 ];
 
 const stazData = [
@@ -5929,6 +5947,12 @@ const groupvData = [
     img: "https://img.youtube.com/vi/pjEoR-CUZl0/0.jpg",
     title: `DAY6(데이식스) 3RD WORLD TOUR ＜FOREVER YOUNG＞ in INCHEON & FINALE in SEOUL`,
     tags: ["Shorts", "Teaser"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=_8gRdWWWP6I",
+    img: "https://img.youtube.com/vi/_8gRdWWWP6I/0.jpg",
+    title: `DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ in BANGKOK Behind`,
+    tags: ["Behind"]
   },
   
 ]
@@ -17042,6 +17066,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
