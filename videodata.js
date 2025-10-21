@@ -5954,6 +5954,12 @@ const groupvData = [
     title: `DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ in BANGKOK Behind`,
     tags: ["Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=qeFOUUjmbdY",
+    img: "https://img.youtube.com/vi/qeFOUUjmbdY/0.jpg",
+    title: `[데식이들] KitKat Photoshoot Behind`,
+    tags: ["Behind", "DAY6s"]
+  },
   
 ]
 
@@ -16979,6 +16985,18 @@ const othersData = [
     title: `[출오야 스포] JYP 기본안무로 스카우트 스타뜨`,
     tags: ["Variety", "Shorts"]
   },
+  {
+    url: "https://www.youtube.com/watch?=RYcA2gUPn04",
+    img: "https://img.youtube.com/vi/RYcA2gUPn04/0.jpg",
+    title: `🍫도운VER. 우리 집 가나디가 킷캣과 함께 기분 좋아진 순간 (KitKat, 킷캣, Have A Break, DAY6, 데이식스, DOWOON, 도운)`,
+    tags: ["Ads", "Magazine"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=L88JQGmOQaI",
+    img: "https://img.youtube.com/vi/L88JQGmOQaI/0.jpg",
+    title: `🍫원필VER. 집돌이 '필끼'가 킷캣과 함께 방에서 뒹굴거리는 하루 (KitKat, 킷캣, Have A Break, DAY6, 데이식스, WONPIL, 원필)`,
+    tags: ["Ads", "Magazine"]
+  },
   
 
 
@@ -17066,6 +17084,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
