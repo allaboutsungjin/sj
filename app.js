@@ -42,19 +42,6 @@ function resetFilters(tabId) {
 
 // Calendar data
 const events = {
-    '2025-08-05': `'6DAYS' VIP Screening`,
-    '2025-08-13': `'6DAYS' Movie`,
-    '2025-08-16': `'6DAYS' Stage Greetings`,
-    '2025-08-18': `DAY6 4TH FULL ALBUM The DECADE Tracklist`,
-    '2025-08-19': `DAY6 4TH FULL ALBUM The DECADE Track Preview Film`,
-    '2025-08-20': `DAY6 4TH FULL ALBUM The DECADE Concept Photo 1 SUNGJIN`,
-    '2025-08-24': `DAY6 4TH FULL ALBUM The DECADE Concept Photo 1 DAY6`,
-    '2025-08-25': `DAY6 4TH FULL ALBUM The DECADE Concept Photo 2 SUNGJIN`,
-    '2025-08-27': `DAY6 4TH FULL ALBUM The DECADE Concept Photo 2 DAY6`,
-    '2025-08-28': `DAY6 4TH FULL ALBUM The DECADE Track 2 MV Teaser 1`,
-    '2025-08-29': `DAY6 4TH FULL ALBUM The DECADE Track 1 MV Teaser 1`,
-    '2025-08-30': `10th Anniversary Tour <The DECADE> in Goyang`,
-    '2025-08-31': `10th Anniversary Tour <The DECADE> in Goyang`,
     '2025-09-01': [
         `DAY6 is 10 Teaser`,
         `10th Anniversary Medley Live`,
@@ -106,6 +93,8 @@ const events = {
     '2025-10-23': `The Game Caterers X JYP EP.1 Full Version YouTube`,
     '2025-10-29': `The Game Caterers X JYP EP.2 TVN`,
     '2025-10-30': `The Game Caterers X JYP EP.2 Full Version YouTube`,
+    '2025-11-01': `Johnnie Walker X DAY6 Pop Up Store`,
+    '2025-11-02': `Johnnie Walker X DAY6 Pop Up Store`,
     '2026-01-17': `10th Anniversary Tour <The DECADE> in Hong Kong`,
     '2026-01-24': `10th Anniversary Tour <The DECADE> in Manila`,
     '2026-01-31': `10th Anniversary Tour <The DECADE> in Kuala Lumpur`
@@ -218,4 +207,5 @@ document.getElementById('next-month').addEventListener('click', () => {
     generateCalendar(currentMonth, currentYear);
     listEvents(events, currentMonth, currentYear);
 });
+
 
