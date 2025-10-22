@@ -5960,6 +5960,12 @@ const groupvData = [
     title: `[데식이들] KitKat Photoshoot Behind`,
     tags: ["Behind", "DAY6s"]
   },
+  {
+    url: "https://www.youtube.com/shorts/PXr_MZ_PlEg",
+    img: "https://img.youtube.com/vi/PXr_MZ_PlEg/0.jpg",
+    title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in HO CHI MINH CITY ✨Behind the Scene📱`,
+    tags: ["Shorts", "Behind"]
+  },
   
 ]
 
@@ -16997,6 +17003,12 @@ const othersData = [
     title: `🍫원필VER. 집돌이 '필끼'가 킷캣과 함께 방에서 뒹굴거리는 하루 (KitKat, 킷캣, Have A Break, DAY6, 데이식스, WONPIL, 원필)`,
     tags: ["Ads", "Magazine"]
   },
+  {
+    url: "https://www.youtube.com/watch?=V_75b7pCUWo",
+    img: "https://img.youtube.com/vi/V_75b7pCUWo/0.jpg",
+    title: `🍫성진VER. '데장'이 킷캣 청키와 야구에 진심일 때 (KitKat, 킷캣, Have A Break, DAY6, 데이식스, SUNGJIN, 성진)`,
+    tags: ["Ads", "Magazine"]
+  },
   
 
 
@@ -17084,6 +17096,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
