@@ -17009,6 +17009,36 @@ const othersData = [
     title: `🍫성진VER. '데장'이 킷캣 청키와 야구에 진심일 때 (KitKat, 킷캣, Have A Break, DAY6, 데이식스, SUNGJIN, 성진)`,
     tags: ["Ads", "Magazine"]
   },
+  {
+    url: "https://www.youtube.com/shorts/luqPd2hvKik",
+    img: "https://img.youtube.com/vi/luqPd2hvKik/0.jpg",
+    title: `Blue Valentine with #SUNGJIN #DAY6 🐻ˊ˗#NMIXX #엔믹스 #해원 #설윤 #BlueValentine #데이식스 #성진`,
+    tags: ["Shorts", "Challenge"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=if6zIc9pgKM",
+    img: "https://img.youtube.com/vi/if6zIc9pgKM/0.jpg",
+    title: `🧳EP 1-1 FULL | 일단 기본안무로 몸부터 풀고 시작할게요 | 🧳💙출장십오야 X JYP`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=rM4F_0fYadg",
+    img: "https://img.youtube.com/vi/rM4F_0fYadg/0.jpg",
+    title: `🧳EP 1-2 FULL | 1등상품 캠핑카에 눈이 dora(?)버린 제왑대원들 | 🧳💙출장십오야 X JYP`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=lz7hosa5niQ",
+    img: "https://img.youtube.com/vi/lz7hosa5niQ/0.jpg",
+    title: `🧳EP 1-3 FULL | 나피디님! 인물퀴즈는 좋은사람(?)으로 내주세요~ | 🧳💙출장십오야 X JYP`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?=P7t8fQfjUyg",
+    img: "https://img.youtube.com/vi/P7t8fQfjUyg/0.jpg",
+    title: `🧳EP 1-4 FULL | 섹시푸들? 쩝쩝냠냠? JYP에는 인터넷이 안되나요..? | 🧳💙출장십오야 X JYP`,
+    tags: ["Variety"]
+  },
   
 
 
@@ -17096,6 +17126,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
