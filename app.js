@@ -96,6 +96,7 @@ const events = {
     '2025-11-01': `Johnnie Walker X DAY6 Pop Up Store`,
     '2025-11-02': `Johnnie Walker X DAY6 Pop Up Store`,
     '2026-01-17': `10th Anniversary Tour <The DECADE> in Hong Kong`,
+    '2026-01-18': `10th Anniversary Tour <The DECADE> in Hong Kong`,
     '2026-01-24': `10th Anniversary Tour <The DECADE> in Manila`,
     '2026-01-31': `10th Anniversary Tour <The DECADE> in Kuala Lumpur`
 };
@@ -207,5 +208,6 @@ document.getElementById('next-month').addEventListener('click', () => {
     generateCalendar(currentMonth, currentYear);
     listEvents(events, currentMonth, currentYear);
 });
+
 
 
