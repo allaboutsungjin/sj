@@ -13097,6 +13097,12 @@ const othersData = [
     tags: ["X"]
   },
   {
+    url: "https://www.youtube.com/shorts/bWQT91-SyoM",
+    img: "https://img.youtube.com/vi/bWQT91-SyoM/0.jpg",
+    title: `MENYALA ABANGKUH 🔥🔥🔥🔥 #TrylingualLive_DAY6 #DAY6xhello82 #DAY6 #hello82`,
+    tags: ["Shorts", "YouTube Program"]
+  },
+  {
     url: "https://www.youtube.com/shorts/Tz3alB84S90",
     img: "https://img.youtube.com/vi/Tz3alB84S90/0.jpg",
     title: `#DAY6 is happy happy happy!🤗💙 #hello82 #shorts`,
@@ -17039,6 +17045,18 @@ const othersData = [
     title: `🧳EP 1-4 FULL | 섹시푸들? 쩝쩝냠냠? JYP에는 인터넷이 안되나요..? | 🧳💙출장십오야 X JYP`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/shorts/CkaUL441RAk",
+    img: "https://img.youtube.com/vi/CkaUL441RAk/0.jpg",
+    title: `킷캣의 달콤함에 취해 ‘슈가하이’ 온 데이식스 #KitKat #킷캣 #HaveABreak #DAY6 #데이식스 #GAKOREA #SHORTS`,
+    tags: ["Shorts", "Ads", "Magazine"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/wskHMzncJZ4",
+    img: "https://img.youtube.com/vi/wskHMzncJZ4/0.jpg",
+    title: `데이식스의 '섹시푸드'는 킷캣이 확실합니다... 쩝쩝냠냠🍫 #KitKat #킷캣 #HaveABreak #DAY6 #데이식스 #GAKOREA #SHORTS`,
+    tags: ["Shorts", "Ads", "Magazine"]
+  },
   
 
 
@@ -17126,6 +17144,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
