@@ -17057,7 +17057,24 @@ const othersData = [
     title: `데이식스의 '섹시푸드'는 킷캣이 확실합니다... 쩝쩝냠냠🍫 #KitKat #킷캣 #HaveABreak #DAY6 #데이식스 #GAKOREA #SHORTS`,
     tags: ["Shorts", "Ads", "Magazine"]
   },
-  
+  {
+    url: "https://www.youtube.com/shorts/8AXR6CYzrtA",
+    img: "https://img.youtube.com/vi/8AXR6CYzrtA/0.jpg",
+    title: `성진, 푸들 둘 다 어리둥절하잖아 지금 🐩ㅣTVINGㅣ#출장십오야 #gamecaterers`,
+    tags: ["Shorts", "Variety"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/r4ntct_YdpU",
+    img: "https://img.youtube.com/vi/r4ntct_YdpU/0.jpg",
+    title: `스테이 보고 있지?! 👀ㅣTVINGㅣ#출장십오야 #gamecaterers`,
+    tags: ["Shorts", "Variety"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/A_V5qWVx8ko",
+    img: "https://img.youtube.com/vi/A_V5qWVx8ko/0.jpg",
+    title: `죄송합니다. 시정하겠습니다앍!ㅣTVINGㅣ#출장십오야 #gamecaterers`,
+    tags: ["Shorts", "Variety"]
+  },
 
 
 ]
@@ -17144,6 +17161,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
