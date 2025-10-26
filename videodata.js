@@ -14759,6 +14759,12 @@ const othersData = [
     tags: ["Music Program"]
   },
   {
+    url: "https://www.youtube.com/watch?v=oNCeWPb9eaI",
+    img: "https://img.youtube.com/vi/oNCeWPb9eaI/0.jpg",
+    title: `명절처럼 북적북적 와글와글🍂 ‘Fe3O4: STICK OUT’ 음악방송 3주차 비하인드 | Day MIXX`,
+    tags: ["Behind"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=Ho-LkB1VWv4",
     img: "https://img.youtube.com/vi/Ho-LkB1VWv4/0.jpg",
     title: `[IU's Palette🎨] Eardrums might 'Melt Down' (With DAY6) Ep.28`,
@@ -17167,6 +17173,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
