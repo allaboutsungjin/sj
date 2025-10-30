@@ -5974,6 +5974,12 @@ const groupvData = [
     title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in HO CHI MINH CITY ✨Behind the Scene📱`,
     tags: ["Shorts", "Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=vqwxwzwUbA8",
+    img: "https://img.youtube.com/vi/vqwxwzwUbA8/0.jpg",
+    title: `[데식이들] Johnnie Walker Black Ruby Photoshoot Behind`,
+    tags: ["Behind", "DAY6s"]
+  },
   
 ]
 
@@ -17095,6 +17101,30 @@ const othersData = [
     title: `🧳Episode 2 Preview | The most Random Play Dance rounds EVER | 🧳💙The Game Caterers X JYP`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=FSDw3jX2tvE",
+    img: "https://img.youtube.com/vi/FSDw3jX2tvE/0.jpg",
+    title: `🧳JYP 2-1 FULL | 솔직히 딸바사 틀리면 JYP 아닌 것 같아요 | 🧳💙출장십오야 X JYP`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=_16Zx1sfU0I",
+    img: "https://img.youtube.com/vi/_16Zx1sfU0I/0.jpg",
+    title: `🧳JYP 2-2 FULL | 대표님 왜 이렇게까지 열심히 하시는 거예요...? | 🧳💙출장십오야 X JYP`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=cZWJDtzfq8s",
+    img: "https://img.youtube.com/vi/cZWJDtzfq8s/0.jpg",
+    title: `🧳JYP 2-3 FULL | 밴드가 왜 아직 살아있죠?! 개성과 실력이 난무하는 JYP 랜플댄 | 🧳💙출장십오야 X JYP`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=NkibNXbcSbo",
+    img: "https://img.youtube.com/vi/NkibNXbcSbo/0.jpg",
+    title: `🧳JYP 2-4 FULL | 집처럼 편안~한 JYP라서 행복합니다 | 🧳💙출장십오야 X JYP`,
+    tags: ["Variety"]
+  },
 
 
 ]
@@ -17181,6 +17211,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
