@@ -17125,6 +17125,12 @@ const othersData = [
     title: `🧳JYP 2-4 FULL | 집처럼 편안~한 JYP라서 행복합니다 | 🧳💙출장십오야 X JYP`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=M7ezy-REIcg",
+    img: "https://img.youtube.com/vi/M7ezy-REIcg/0.jpg",
+    title: `🧳JYP 미공개 | DAY6 랜덤 플레이 댄스 풀버전 | 🧳💙출장십오야 X JYP`,
+    tags: ["Variety"]
+  },
 
 
 ]
@@ -17211,6 +17217,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
