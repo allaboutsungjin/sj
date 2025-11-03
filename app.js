@@ -95,6 +95,9 @@ const events = {
     '2025-10-30': `The Game Caterers X JYP EP.2 Full Version YouTube`,
     '2025-11-01': `Johnnie Walker X DAY6 Pop Up Store`,
     '2025-11-02': `Johnnie Walker X DAY6 Pop Up Store`,
+    '2025-12-19': `2025 DAY6 Special Concert ‘The Present’`,
+    '2025-12-20': `2025 DAY6 Special Concert ‘The Present’`,
+    '2025-12-21': `2025 DAY6 Special Concert ‘The Present’`,
     '2026-01-17': `10th Anniversary Tour <The DECADE> in Hong Kong`,
     '2026-01-18': `10th Anniversary Tour <The DECADE> in Hong Kong`,
     '2026-01-24': `10th Anniversary Tour <The DECADE> in Manila`,
@@ -208,6 +211,7 @@ document.getElementById('next-month').addEventListener('click', () => {
     generateCalendar(currentMonth, currentYear);
     listEvents(events, currentMonth, currentYear);
 });
+
 
 
 
