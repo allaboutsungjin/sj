@@ -17131,6 +17131,12 @@ const othersData = [
     title: `🧳JYP 미공개 | DAY6 랜덤 플레이 댄스 풀버전 | 🧳💙출장십오야 X JYP`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=qD4KI9zprV4",
+    img: "https://img.youtube.com/vi/qD4KI9zprV4/0.jpg",
+    title: `UMBRO 2025 헤비다운 컬렉션 : WINTER ADVENTURE with DAY6`,
+    tags: ["Ads"]
+  },
 
 
 ]
@@ -17217,6 +17223,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
