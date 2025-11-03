@@ -758,6 +758,13 @@ const psj2yaData = [
     tags: ["Season 2"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=wskXkEqL8kc",
+    img: "https://img.youtube.com/vi/wskXkEqL8kc/0.jpg",
+    title: "💈단독! 깜짝 영상이 도착했어요💈",
+    guest: "Guest: -",
+    tags: ["Season 2"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/eMIfe1rD5H8",
     img: "https://img.youtube.com/vi/eMIfe1rD5H8/0.jpg",
     title: `성진 MBTI 검사하면 CUTE 나온대요...🤭`,
@@ -1501,6 +1508,24 @@ const psj2yaData = [
     url: "https://www.youtube.com/shorts/2OW0oLqggxY",
     img: "https://img.youtube.com/vi/2OW0oLqggxY/0.jpg",
     title: `영상이 안 멈추는데 어떡해....♾️`,
+    tags: ["Season 2", "Guest", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/ChSS4QtA6d0",
+    img: "https://img.youtube.com/vi/ChSS4QtA6d0/0.jpg",
+    title: `서로가 서로에게 무조건적인 칭찬 중🫳`,
+    tags: ["Season 2", "Guest", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/iq23M7xFafw",
+    img: "https://img.youtube.com/vi/iq23M7xFafw/0.jpg",
+    title: `성진 든 꽃..아니 꽃을 든 성진..🌻`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/_7JEy7G958c",
+    img: "https://img.youtube.com/vi/_7JEy7G958c/0.jpg",
+    title: `배는 고파도 대답은 친절한 사람...🍔`,
     tags: ["Season 2", "Guest", "Shorts"]
     },
 ];
@@ -17223,6 +17248,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
