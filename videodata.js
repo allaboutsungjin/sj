@@ -6005,6 +6005,12 @@ const groupvData = [
     title: `[데식이들] Johnnie Walker Black Ruby Photoshoot Behind`,
     tags: ["Behind", "DAY6s"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=sOfDb8Eb0II",
+    img: "https://img.youtube.com/vi/sOfDb8Eb0II/0.jpg",
+    title: `[LIVE] Free하게 + 녹아내려요｜DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞`,
+    tags: ["Live Clip"]
+  },
   
 ]
 
@@ -17248,6 +17254,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
