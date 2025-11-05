@@ -6011,6 +6011,12 @@ const groupvData = [
     title: `[LIVE] Free하게 + 녹아내려요｜DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞`,
     tags: ["Live Clip"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=PGg-56Y8gvk",
+    img: "https://img.youtube.com/vi/PGg-56Y8gvk/0.jpg",
+    title: `[LIVE] 아픈 길 + 아직 거기 살아 + 원하니까 + Congratulations｜DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞`,
+    tags: ["Live Clip"]
+  },
   
 ]
 
@@ -17254,6 +17260,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
