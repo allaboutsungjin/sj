@@ -6017,6 +6017,18 @@ const groupvData = [
     title: `[LIVE] 아픈 길 + 아직 거기 살아 + 원하니까 + Congratulations｜DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞`,
     tags: ["Live Clip"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=OvQslUZacec",
+    img: "https://img.youtube.com/vi/OvQslUZacec/0.jpg",
+    title: `[LIVE] Not Mine + Colors + 누군가 필요해｜DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=0DBceKPyzGM",
+    img: "https://img.youtube.com/vi/0DBceKPyzGM/0.jpg",
+    title: `[LIVE] Be Lazy + 좋은걸 뭐 어떡해 + DANCE DANCE｜DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞`,
+    tags: ["Live Clip"]
+  },
   
 ]
 
@@ -17260,6 +17272,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
