@@ -6029,6 +6029,18 @@ const groupvData = [
     title: `[LIVE] Be Lazy + 좋은걸 뭐 어떡해 + DANCE DANCE｜DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞`,
     tags: ["Live Clip"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=-id12pcVdOY",
+    img: "https://img.youtube.com/vi/-id12pcVdOY/0.jpg",
+    title: `[LIVE] Sing Me + Welcome to the Show｜DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=SDPL3nhtPjU",
+    img: "https://img.youtube.com/vi/SDPL3nhtPjU/0.jpg",
+    title: `[LIVE] 별들 앞에서｜DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞`,
+    tags: ["Live Clip"]
+  },
   
 ]
 
@@ -17272,6 +17284,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
