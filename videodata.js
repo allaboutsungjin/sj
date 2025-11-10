@@ -765,6 +765,14 @@ const psj2yaData = [
     tags: ["Season 2"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=1aDIT3duSrc",
+    img: "https://img.youtube.com/vi/1aDIT3duSrc/0.jpg",
+    title: "Park SungJJIN S2 EP.58",
+    desc: `Food Genius Sungjin🥩`,
+    guest: "Guest: -",
+    tags: ["Season 2", "Food"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/eMIfe1rD5H8",
     img: "https://img.youtube.com/vi/eMIfe1rD5H8/0.jpg",
     title: `성진 MBTI 검사하면 CUTE 나온대요...🤭`,
@@ -17284,6 +17292,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
