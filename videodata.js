@@ -17212,6 +17212,18 @@ const othersData = [
     title: `UMBRO 2025 헤비다운 컬렉션 : WINTER ADVENTURE with DAY6`,
     tags: ["Ads"]
   },
+  {
+    url: "https://www.youtube.com/shorts/ew7ipXoVv8s",
+    img: "https://img.youtube.com/vi/ew7ipXoVv8s/0.jpg",
+    title: `갑자기 추워진 날씨에도 결점없이 촉촉 매끈한 성진의 피부 비결?!🧐#파파레서피 #데이식스 #DAY6 #성진 #센텔라팩앤폼`,
+    tags: ["Ads", "Shorts"]
+  },
+  {
+    url: "https://www.instagram.com/reel/DREdPElkva2",
+    img: "img/d6kitkat.jpg",
+    title: `DAY6 @ KITKATKOREA INSTAGRAM REEL`,
+    tags: ["Instagram"]
+  },
 
 
 ]
@@ -17298,6 +17310,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
