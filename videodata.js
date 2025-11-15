@@ -6049,6 +6049,12 @@ const groupvData = [
     title: `[LIVE] 별들 앞에서｜DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞`,
     tags: ["Live Clip"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=XrRhx2FMAMA",
+    img: "https://img.youtube.com/vi/XrRhx2FMAMA/0.jpg",
+    title: `DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ in HO CHI MINH CITY Behind`,
+    tags: ["Behind"]
+  },
   
 ]
 
@@ -17292,6 +17298,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
