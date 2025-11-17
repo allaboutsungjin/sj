@@ -1536,6 +1536,18 @@ const psj2yaData = [
     title: `배는 고파도 대답은 친절한 사람...🍔`,
     tags: ["Season 2", "Guest", "Shorts"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/WyDjuhoAgic",
+    img: "https://img.youtube.com/vi/WyDjuhoAgic/0.jpg",
+    title: `성진이 재밌었던 촬영은?🎥`,
+    tags: ["Season 2", "QnA", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/XyydTuCA82Q",
+    img: "https://img.youtube.com/vi/XyydTuCA82Q/0.jpg",
+    title: `🍯할테야테야 꿀템 추천을 할테야🍯`,
+    tags: ["Season 2", "QnA", "Shorts"]
+    },
 ];
 
 const stazData = [
@@ -17310,6 +17322,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
