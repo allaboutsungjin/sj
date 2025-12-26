@@ -500,6 +500,18 @@ const musicGroup = [
         ],
 	tags: ["Korean", "Album"]
     },
+	{
+        img: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/08/7a/7f087a86-3ecf-212a-b3d5-16ca784861b1/8809928958583_Cover.jpg/592x592bb.webp",
+        title: `Lovin' the Christmas`,
+        date: "May 7, 2025",
+        links: [
+            { url: "https://open.spotify.com/album/0n2rbF9KvlhkViJeW0JD8S?si=dlfrzCUSSveecbPbJVPN-g", icon: "Spotify.png", alt: "Spotify" },
+            { url: "https://music.apple.com/us/album/lovin-the-christmas-single/1858121071", icon: "AM.svg", alt: "Apple Music" },
+            { url: "https://music.youtube.com/playlist?list=OLAK5uy_nYdG0a5HF1JjnUhLGPamvIxjZlCbtWBhc", icon: "YM.svg", alt: "YouTube Music" },
+            { url: "https://www.melon.com/album/detail.htm?albumId=12436788", icon: "Melon.png", alt: "Melon" }
+        ],
+	tags: ["Korean", "Single"]
+    },
 ];
 
 const musicOthers = [
@@ -577,5 +589,6 @@ document.querySelectorAll('.tc span').forEach(span => {
         e.target.classList.add('active');
     });
 });
+
 
 
