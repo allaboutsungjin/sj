@@ -776,7 +776,23 @@ const psj2yaData = [
     url: "https://www.youtube.com/watch?v=LaG6lLazTws",
     img: "https://img.youtube.com/vi/LaG6lLazTws/0.jpg",
     title: "Park SungJJIN S2 EP.59",
-    desc: `Guitar + Sungjin = Impossible Not to Fall for Him 🎸 `,
+    desc: `Guitar + Sungjin = Impossible Not to Fall for Him 🎸`,
+    guest: "Guest: -",
+    tags: ["Season 2"]
+    },
+  { 
+    url: "https://www.youtube.com/watch?v=7mHQQZzBW5o",
+    img: "https://img.youtube.com/vi/7mHQQZzBW5o/0.jpg",
+    title: "Park SungJJIN S2 EP.60",
+    desc: `Sungjin subae, I wanna join the art club! 🎨`,
+    guest: "Guest: -",
+    tags: ["Season 2"]
+    },
+  { 
+    url: "https://www.youtube.com/watch?v=jm7WWL6Mips",
+    img: "https://img.youtube.com/vi/jm7WWL6Mips/0.jpg",
+    title: "Park SungJJIN S2 EP.61",
+    desc: `Even Jjinbbangies’ hearts = ART ☕️`,
     guest: "Guest: -",
     tags: ["Season 2"]
     },
@@ -1555,6 +1571,30 @@ const psj2yaData = [
     img: "https://img.youtube.com/vi/XyydTuCA82Q/0.jpg",
     title: `🍯할테야테야 꿀템 추천을 할테야🍯`,
     tags: ["Season 2", "QnA", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/mwWygkad71Y",
+    img: "https://img.youtube.com/vi/mwWygkad71Y/0.jpg",
+    title: `그렇게 성진한테 물들어가...🌊`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/Vst4tt1ymnI",
+    img: "https://img.youtube.com/vi/Vst4tt1ymnI/0.jpg",
+    title: `👼: 안아주세요`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/yqrcWffDpgE",
+    img: "https://img.youtube.com/vi/yqrcWffDpgE/0.jpg",
+    title: `세상엔 맛있는 게 너무 많아😋`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/KuLTlFmd7xM",
+    img: "https://img.youtube.com/vi/KuLTlFmd7xM/0.jpg",
+    title: `🐸: 내 마음이야`,
+    tags: ["Season 2", "Shorts"]
     },
 ];
 
@@ -6073,7 +6113,49 @@ const groupvData = [
     url: "https://www.youtube.com/watch?v=XrRhx2FMAMA",
     img: "https://img.youtube.com/vi/XrRhx2FMAMA/0.jpg",
     title: `DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ in HO CHI MINH CITY Behind`,
+    tags: ["Behind"]   
+  },
+  {
+    url: "https://www.youtube.com/shorts/DRA53ZetAgg",
+    img: "https://img.youtube.com/vi/DRA53ZetAgg/0.jpg",
+    title: `💌 From. DAY6, StrayKids, ITZY`,
+    tags: ["Shorts", "Message"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=GRFGUwy2Sk4",
+    img: "https://img.youtube.com/vi/GRFGUwy2Sk4/0.jpg",
+    title: `DAY6(데이식스) "Lovin' the Christmas" Loop Video`,
+    tags: ["Teaser"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=R856GYdEcPg",
+    img: "https://img.youtube.com/vi/R856GYdEcPg/0.jpg",
+    title: `DAY6(데이식스) "Lovin' the Christmas" M/V`,
+    tags: ["MV"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=6AkqPi9NKFk",
+    img: "https://img.youtube.com/vi/6AkqPi9NKFk/0.jpg",
+    title: `DAY6(데이식스) Christmas Special Single "Lovin' the Christmas" Teaser Making Film`,
+    tags: ["Making"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=kEsVJFCgxxg",
+    img: "https://img.youtube.com/vi/kEsVJFCgxxg/0.jpg",
+    title: `2025 DAY6(데이식스) Special Concert ‘The Present’ Encore VCR 🎅`,
+    tags: ["VCR"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=MLLRLSplZho",
+    img: "https://img.youtube.com/vi/MLLRLSplZho/0.jpg",
+    title: `2025 DAY6(데이식스) Special Concert ‘The Present’ MD Shooting Sketch 📸`,
     tags: ["Behind"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=qAddBN7A6l4",
+    img: "https://img.youtube.com/vi/qAddBN7A6l4/0.jpg",
+    title: `[DAY6의 겨울캠핑 🏕️] Teaser`,
+    tags: ["Variety"]
   },
   
 ]
@@ -13956,6 +14038,12 @@ const othersData = [
     tags: ["Music Festival", "Behind"]
   },
   {
+    url: "https://www.youtube.com/watch?v=TdOhlRapILQ",
+    img: "https://img.youtube.com/vi/TdOhlRapILQ/0.jpg",
+    title: `CHECK IN MISSION💛 | DAY6 (데이식스) | KCON HONG KONG 2024`,
+    tags: ["Music Festival", "Behind"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=yaKcA7VKDek",
     img: "https://img.youtube.com/vi/yaKcA7VKDek/0.jpg",
     title: `JYP 1호 밴드 타이틀, 그 속에 가려진 고민들! DAY6(데이식스) 멤버들의 솔직한 이야기 | #강제소환 | KBS 방송`,
@@ -17244,6 +17332,18 @@ const othersData = [
     title: `DAY6 @ KITKATKOREA INSTAGRAM REEL`,
     tags: ["Instagram"]
   },
+  {
+    url: "https://x.com/i/status/1998363800903491591",
+    img: "https://pbs.twimg.com/amplify_video_thumb/1998357825333194752/img/wBJDnpWc7kl426pN.jpg",
+    title: `Lovin' the Christmas - Sungjin`,
+    tags: ["X"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=JGxngjJspas",
+    img: "https://img.youtube.com/vi/JGxngjJspas/0.jpg",
+    title: `Xdinary Heroes 〈Beautiful Mind〉 World Tour FINALE in SEOUL Making Film`,
+    tags: ["Behind"]
+  },
 
 
 ]
@@ -17330,6 +17430,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
