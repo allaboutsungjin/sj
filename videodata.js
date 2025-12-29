@@ -6169,6 +6169,24 @@ const groupvData = [
     title: `[DAY6의 겨울캠핑 🏕️] Teaser`,
     tags: ["Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=2p9ztx9EFC8",
+    img: "https://img.youtube.com/vi/2p9ztx9EFC8/0.jpg",
+    title: `[LIVE] 한 페이지가 될 수 있게+녹아내려요+HAPPY+Welcome to the Show｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=WjHPYQPttH0",
+    img: "https://img.youtube.com/vi/WjHPYQPttH0/0.jpg",
+    title: `[LIVE] Disco Day｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=PjJSpC_Nezs",
+    img: "https://img.youtube.com/vi/PjJSpC_Nezs/0.jpg",
+    title: `[LIVE] 놓아 놓아 놓아+반드시 웃는다+You make Me｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞`,
+    tags: ["Live Clip"]
+  },
   
 ]
 
@@ -17442,6 +17460,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
