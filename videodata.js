@@ -1596,6 +1596,18 @@ const psj2yaData = [
     title: `🐸: 내 마음이야`,
     tags: ["Season 2", "Shorts"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/WhYZQbC1a6E",
+    img: "https://img.youtube.com/vi/WhYZQbC1a6E/0.jpg",
+    title: `⚾️성진도 누군가의 팬이다⚾️`,
+    tags: ["Season 2", "Baseball", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/rr_8SJ2arkI",
+    img: "https://img.youtube.com/vi/rr_8SJ2arkI/0.jpg",
+    title: `😧표정이 이렇게도 다채롭습니다😯`,
+    tags: ["Season 2", "Baseball", "Shorts"]
+    },
 ];
 
 const stazData = [
@@ -17430,6 +17442,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
