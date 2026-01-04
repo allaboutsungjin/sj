@@ -6187,6 +6187,66 @@ const groupvData = [
     title: `[LIVE] 놓아 놓아 놓아+반드시 웃는다+You make Me｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞`,
     tags: ["Live Clip"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=zftroR3vhf0",
+    img: "https://img.youtube.com/vi/zftroR3vhf0/0.jpg",
+    title: `[LIVE] WARNING!+Sweet Chaos｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=U--x4zrICDQ",
+    img: "https://img.youtube.com/vi/U--x4zrICDQ/0.jpg",
+    title: `[LIVE] Afraid+우리 앞으로 더 사랑하자+좋아합니다｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=eN8Fl7_9SnQ",
+    img: "https://img.youtube.com/vi/eN8Fl7_9SnQ/0.jpg",
+    title: `[LIVE] 우리의 계절｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=SBRnkS7FnTE",
+    img: "https://img.youtube.com/vi/SBRnkS7FnTE/0.jpg",
+    title: `[LIVE] Congratulations｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=uI1V0l9tAE4",
+    img: "https://img.youtube.com/vi/uI1V0l9tAE4/0.jpg",
+    title: `[LIVE] 꿈의 버스｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=f2wun94A-so",
+    img: "https://img.youtube.com/vi/f2wun94A-so/0.jpg",
+    title: `[LIVE] INSIDE OUT｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=3fYZ-20uTok",
+    img: "https://img.youtube.com/vi/3fYZ-20uTok/0.jpg",
+    title: `[LIVE] Best Part｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=tVrM3oGDQ9o",
+    img: "https://img.youtube.com/vi/tVrM3oGDQ9o/0.jpg",
+    title: `[Dear. My Day] 2026 HAPPY NEW YEAR 🩵`,
+    tags: ["Message"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=v7LvyItDD9U",
+    img: "https://img.youtube.com/vi/v7LvyItDD9U/0.jpg",
+    title: `DAY6(데이식스) 2026 Season’s Greetings [Press The Button!] 🕹 Shooting Sketch`,
+    tags: ["Behind"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=kzRCBQK_Shk",
+    img: "https://img.youtube.com/vi/kzRCBQK_Shk/0.jpg",
+    title: `[DAY6의 겨울캠핑 🏕️] EP.1 "우리 이제 뭐 해요?"`,
+    tags: ["Variety"]
+  },
   
 ]
 
@@ -17460,6 +17520,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
