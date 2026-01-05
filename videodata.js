@@ -797,6 +797,14 @@ const psj2yaData = [
     tags: ["Season 2"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=BEwK7esTdv8",
+    img: "https://img.youtube.com/vi/BEwK7esTdv8/0.jpg",
+    title: "Park SungJJIN S2 EP.62",
+    desc: `So charming, I carry it around in my bag 🧳`,
+    guest: "Guest: -",
+    tags: ["Season 2"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/eMIfe1rD5H8",
     img: "https://img.youtube.com/vi/eMIfe1rD5H8/0.jpg",
     title: `성진 MBTI 검사하면 CUTE 나온대요...🤭`,
@@ -17520,6 +17528,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
