@@ -6238,6 +6238,18 @@ const groupvData = [
     tags: ["Live Clip"]
   },
   {
+    url: "https://www.youtube.com/shorts/qatOhJySqbo",
+    img: "https://img.youtube.com/vi/qatOhJySqbo/0.jpg",
+    title: `2025 DAY6(데이식스) Special Concert ‘The Present’🎄`,
+    tags: ["Shorts", "Behind"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/rqYLJeQKD4I",
+    img: "https://img.youtube.com/vi/rqYLJeQKD4I/0.jpg",
+    title: `2025 DAY6(데이식스) Special Concert ‘The Present’🎄`,
+    tags: ["Shorts", "Behind"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=tVrM3oGDQ9o",
     img: "https://img.youtube.com/vi/tVrM3oGDQ9o/0.jpg",
     title: `[Dear. My Day] 2026 HAPPY NEW YEAR 🩵`,
@@ -6254,6 +6266,18 @@ const groupvData = [
     img: "https://img.youtube.com/vi/kzRCBQK_Shk/0.jpg",
     title: `[DAY6의 겨울캠핑 🏕️] EP.1 "우리 이제 뭐 해요?"`,
     tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/DLbCF_Jo1lo",
+    img: "https://img.youtube.com/vi/DLbCF_Jo1lo/0.jpg",
+    title: `[DAY6의 겨울캠핑 🏕️] 캠핑 친구 피죤 (?) 🕊️`,
+    tags: ["Shorts", "Variety"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/m8MGZIBEa-Q",
+    img: "https://img.youtube.com/vi/m8MGZIBEa-Q/0.jpg",
+    title: `[DAY6의 겨울캠핑 🏕️] 모기 잡기 대소동 🖐️`,
+    tags: ["Shorts", "Variety"]
   },
   
 ]
@@ -17528,6 +17552,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
