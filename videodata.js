@@ -6279,6 +6279,12 @@ const groupvData = [
     title: `[DAY6의 겨울캠핑 🏕️] 모기 잡기 대소동 🖐️`,
     tags: ["Shorts", "Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=jDt7FFpUXzQ",
+    img: "https://img.youtube.com/vi/jDt7FFpUXzQ/0.jpg",
+    title: `2025 DAY6(데이식스) Special Concert ‘The Present’ Encore VCR Making Film`,
+    tags: ["Behind"]
+  },
   
 ]
 
@@ -17552,6 +17558,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
