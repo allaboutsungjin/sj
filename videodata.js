@@ -6285,6 +6285,18 @@ const groupvData = [
     title: `2025 DAY6(데이식스) Special Concert ‘The Present’ Encore VCR Making Film`,
     tags: ["Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=SxgXJwgZT20",
+    img: "https://img.youtube.com/vi/SxgXJwgZT20/0.jpg",
+    title: `[DAY6의 겨울캠핑 🏕️] EP.2 "식량이 바닥났습니다"`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=CxUFA668pn0",
+    img: "https://img.youtube.com/vi/CxUFA668pn0/0.jpg",
+    title: `DAY6(데이식스) 2025 Special Concert ‘The Present’ Behind 🎁`,
+    tags: ["Behind"]
+  },
   
 ]
 
@@ -17558,6 +17570,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
