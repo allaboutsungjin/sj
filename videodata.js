@@ -1616,6 +1616,18 @@ const psj2yaData = [
     title: `😧표정이 이렇게도 다채롭습니다😯`,
     tags: ["Season 2", "Baseball", "Shorts"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/TScUgKgzYy4",
+    img: "https://img.youtube.com/vi/TScUgKgzYy4/0.jpg",
+    title: `🧆두쫀쿠 보다 큰 성진 마음 = 귀하다`,
+    tags: ["Season 2", "Food", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/hentB8Mji20",
+    img: "https://img.youtube.com/vi/hentB8Mji20/0.jpg",
+    title: `애플 브리 샌드위치 맛 평가 👍`,
+    tags: ["Season 2", "Food", "Shorts"]
+    },
 ];
 
 const stazData = [
@@ -6296,6 +6308,18 @@ const groupvData = [
     img: "https://img.youtube.com/vi/CxUFA668pn0/0.jpg",
     title: `DAY6(데이식스) 2025 Special Concert ‘The Present’ Behind 🎁`,
     tags: ["Behind"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/1_pm0_SK8X8",
+    img: "https://img.youtube.com/vi/1_pm0_SK8X8/0.jpg",
+    title: `[DAY6의 겨울캠핑 🏕️] 원필 학생 성진쌤이 뭐 시켰죠?🧑‍🏫`,
+    tags: ["Shorts", "Variety"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/x4uWQoe-wJk",
+    img: "https://img.youtube.com/vi/x4uWQoe-wJk/0.jpg",
+    title: `[DAY6의 겨울캠핑 🏕️] 막내들의 불 지피기🔥`,
+    tags: ["Shorts", "Variety"]
   },
   
 ]
@@ -17570,6 +17594,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
