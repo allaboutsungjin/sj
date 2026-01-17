@@ -805,6 +805,13 @@ const psj2yaData = [
     tags: ["Season 2"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=Oi1RQ5frXD4",
+    img: "https://img.youtube.com/vi/Oi1RQ5frXD4/0.jpg",
+    desc: `찐빵이들 안녕?👋`,
+    guest: "Guest: -",
+    tags: ["Season 2", "Greetings"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/eMIfe1rD5H8",
     img: "https://img.youtube.com/vi/eMIfe1rD5H8/0.jpg",
     title: `성진 MBTI 검사하면 CUTE 나온대요...🤭`,
@@ -6320,6 +6327,12 @@ const groupvData = [
     img: "https://img.youtube.com/vi/x4uWQoe-wJk/0.jpg",
     title: `[DAY6의 겨울캠핑 🏕️] 막내들의 불 지피기🔥`,
     tags: ["Shorts", "Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=DhqRZzrV6As",
+    img: "https://img.youtube.com/vi/DhqRZzrV6As/0.jpg",
+    title: `[DAY6의 겨울캠핑 🏕️] EP.3 "이걸 갖고 왔다고?!"`,
+    tags: ["Variety"]
   },
   
 ]
@@ -17508,6 +17521,18 @@ const othersData = [
     title: `Xdinary Heroes 〈Beautiful Mind〉 World Tour FINALE in SEOUL Making Film`,
     tags: ["Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=HI-kwvElEZc",
+    img: "https://img.youtube.com/vi/HI-kwvElEZc/0.jpg",
+    title: `데이식스, "인천국제공항 출국" l DAY6, "ICN INT Airport Departure" [공항]`,
+    tags: ["Media"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=nHKW73BqqTI",
+    img: "https://img.youtube.com/vi/nHKW73BqqTI/0.jpg",
+    title: `[데이식스/성진] 260117 성진 인스타 라이브 Full | 채팅 X`,
+    tags: ["Instagram"]
+  },
 
 
 ]
@@ -17594,6 +17619,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
