@@ -812,6 +812,14 @@ const psj2yaData = [
     tags: ["Season 2", "Greetings"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=x59hfLiCutk",
+    img: "https://img.youtube.com/vi/x59hfLiCutk/0.jpg",
+    title: "Park SungJJIN S2 EP.63",
+    desc: `Stranded with a Roaring Tiger?! 🐅`,
+    guest: "Guest: Park Kanghyun",
+    tags: ["Season 2", "Guest"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/eMIfe1rD5H8",
     img: "https://img.youtube.com/vi/eMIfe1rD5H8/0.jpg",
     title: `성진 MBTI 검사하면 CUTE 나온대요...🤭`,
@@ -6333,6 +6341,18 @@ const groupvData = [
     img: "https://img.youtube.com/vi/DhqRZzrV6As/0.jpg",
     title: `[DAY6의 겨울캠핑 🏕️] EP.3 "이걸 갖고 왔다고?!"`,
     tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/7ZblHP4WeMk",
+    img: "https://img.youtube.com/vi/7ZblHP4WeMk/0.jpg",
+    title: `[DAY6의 겨울캠핑 🏕️] 구운 귤 맛있다니까?!`,
+    tags: ["Shorts", "Variety"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/EykiiUwMmCY",
+    img: "https://img.youtube.com/vi/EykiiUwMmCY/0.jpg",
+    title: `[DAY6의 겨울캠핑 🏕️] DAY6의 새로운 챌린지👊🏻`,
+    tags: ["Shorts", "Variety"]
   },
   
 ]
@@ -17619,6 +17639,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
