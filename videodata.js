@@ -6354,6 +6354,12 @@ const groupvData = [
     title: `[DAY6의 겨울캠핑 🏕️] DAY6의 새로운 챌린지👊🏻`,
     tags: ["Shorts", "Variety"]
   },
+  {
+    url: "https://www.youtube.com/shorts/4pwhyQXEgvw",
+    img: "https://img.youtube.com/vi/4pwhyQXEgvw/0.jpg",
+    title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in HONGKONG ✨Behind the Scene📱`,
+    tags: ["Shorts", "Behind"]
+  },
   
 ]
 
@@ -17639,6 +17645,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
