@@ -6360,6 +6360,12 @@ const groupvData = [
     title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in HONGKONG ✨Behind the Scene📱`,
     tags: ["Shorts", "Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=aBfSS3OKA_s",
+    img: "https://img.youtube.com/vi/aBfSS3OKA_s/0.jpg",
+    title: `[DAY6의 겨울캠핑 🏕️] EP.4 "캠프파이어와 속마음 이야기"`,
+    tags: ["Variety"]
+  },
   
 ]
 
@@ -17645,6 +17651,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
