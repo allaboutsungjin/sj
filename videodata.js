@@ -1643,6 +1643,19 @@ const psj2yaData = [
     title: `애플 브리 샌드위치 맛 평가 👍`,
     tags: ["Season 2", "Food", "Shorts"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/tStK9TzDg-c",
+    img: "https://img.youtube.com/vi/tStK9TzDg-c/0.jpg",
+    title: `성진곰은 택을 뜯어~🐻`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/c032h7pmg8w",
+    img: "https://img.youtube.com/vi/c032h7pmg8w/0.jpg",
+    title: `고장난 것 같은데...으심대😬`,
+    tags: ["Season 2", "Shorts"]
+    },
+  
 ];
 
 const stazData = [
@@ -6365,6 +6378,18 @@ const groupvData = [
     img: "https://img.youtube.com/vi/aBfSS3OKA_s/0.jpg",
     title: `[DAY6의 겨울캠핑 🏕️] EP.4 "캠프파이어와 속마음 이야기"`,
     tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/8upxE8zBs-0",
+    img: "https://img.youtube.com/vi/8upxE8zBs-0/0.jpg",
+    title: `[DAY6의 겨울캠핑 🏕️] 도깨비 불을 모르는 멤버는? 🔥`,
+    tags: ["Shorts", "Variety"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/ru2kFXvr9d4",
+    img: "https://img.youtube.com/vi/ru2kFXvr9d4/0.jpg",
+    title: `[DAY6의 겨울캠핑 🏕️] 만약에 과거로 돌아간다면? ⏳`,
+    tags: ["Shorts", "Variety"]
   },
   
 ]
@@ -17651,6 +17676,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
