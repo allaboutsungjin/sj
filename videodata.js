@@ -6391,6 +6391,12 @@ const groupvData = [
     title: `[DAY6의 겨울캠핑 🏕️] 만약에 과거로 돌아간다면? ⏳`,
     tags: ["Shorts", "Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=qFMN-l5fPSA",
+    img: "https://img.youtube.com/vi/qFMN-l5fPSAs/0.jpg",
+    title: `[DAY6의 겨울캠핑 🏕️] EP.5 "생일파티 준비"`,
+    tags: ["Variety"]
+  },
   
 ]
 
@@ -17590,6 +17596,12 @@ const othersData = [
     title: `[데이식스/성진] 260117 성진 인스타 라이브 Full | 채팅 X`,
     tags: ["Instagram"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=zqJ-oQ-u45U",
+    img: "https://img.youtube.com/vi/zqJ-oQ-u45U/0.jpg",
+    title: `DAY6, ICN INT Airport Departure`,
+    tags: ["Media"]
+  },
 
 
 ]
@@ -17676,6 +17688,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
