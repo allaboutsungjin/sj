@@ -802,7 +802,7 @@ const psj2yaData = [
     title: "Park SungJJIN S2 EP.62",
     desc: `So charming, I carry it around in my bag 🧳`,
     guest: "Guest: -",
-    tags: ["Season 2"]
+    tags: ["Season 2", "What's In My"]
     },
   { 
     url: "https://www.youtube.com/watch?v=Oi1RQ5frXD4",
@@ -818,6 +818,14 @@ const psj2yaData = [
     desc: `Stranded with a Roaring Tiger?! 🐅`,
     guest: "Guest: Park Kanghyun",
     tags: ["Season 2", "Guest"]
+    },
+  { 
+    url: "https://www.youtube.com/watch?v=axx1zycK7gY",
+    img: "https://img.youtube.com/vi/axx1zycK7gY/0.jpg",
+    title: "Park SungJJIN S2 EP.64",
+    desc: `You’re invited to Sungjin’s birthday party! 🎉`,
+    guest: "Guest: -",
+    tags: ["Season 2"]
     },
   { 
     url: "https://www.youtube.com/shorts/eMIfe1rD5H8",
@@ -6396,6 +6404,36 @@ const groupvData = [
     img: "https://img.youtube.com/vi/qFMN-l5fPSAs/0.jpg",
     title: `[DAY6의 겨울캠핑 🏕️] EP.5 "생일파티 준비"`,
     tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/MmF57eU5SU8",
+    img: "https://img.youtube.com/vi/MmF57eU5SU8/0.jpg",
+    title: `[DAY6의 겨울캠핑 🏕️] 과연 냄비의 운명은? 🫕`,
+    tags: ["Shorts", "Variety"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/iHG-d4mUvx0",
+    img: "https://img.youtube.com/vi/iHG-d4mUvx0/0.jpg",
+    title: `[DAY6의 겨울캠핑 🏕️] 전설의 미역국 그 맛은? 🥄`,
+    tags: ["Shorts", "Variety"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/_Yalnmz9eD4",
+    img: "https://img.youtube.com/vi/_Yalnmz9eD4/0.jpg",
+    title: `[DAY6의 겨울캠핑 🏕️] 도운이 만든 케이크 🐶`,
+    tags: ["Shorts", "Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=HxC6kOUr9FA",
+    img: "https://img.youtube.com/vi/HxC6kOUr9FA/0.jpg",
+    title: `[LIVE] 해야 뜨지 말아 줘｜2025 DAY6(데이식스) Special Concert 'The Present'`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=toJH0cYZBX0",
+    img: "https://img.youtube.com/vi/toJH0cYZBX0/0.jpg",
+    title: `[LIVE] 남겨둘게｜2025 DAY6(데이식스) Special Concert 'The Present'`,
+    tags: ["Live Clip"]
   },
   
 ]
@@ -17688,6 +17726,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
