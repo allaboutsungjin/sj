@@ -6435,6 +6435,24 @@ const groupvData = [
     title: `[LIVE] 남겨둘게｜2025 DAY6(데이식스) Special Concert 'The Present'`,
     tags: ["Live Clip"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=WIDTYDVcBQk",
+    img: "https://img.youtube.com/vi/WIDTYDVcBQk/0.jpg",
+    title: `[LIVE] My Way｜2025 DAY6(데이식스) Special Concert 'The Present'`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=aBaMvqbdqoQ",
+    img: "https://img.youtube.com/vi/aBaMvqbdqoQ/0.jpg",
+    title: `[LIVE] 별들 앞에서+우리의 계절｜2025 DAY6(데이식스) Special Concert 'The Present'`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=N-a9Nvv9fYU",
+    img: "https://img.youtube.com/vi/N-a9Nvv9fYU/0.jpg",
+    title: `[LIVE] 날아라! 드림라이더｜2025 DAY6(데이식스) Special Concert 'The Present'`,
+    tags: ["Live Clip"]
+  },
   
 ]
 
@@ -17726,6 +17744,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
