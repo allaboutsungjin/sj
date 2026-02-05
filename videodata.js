@@ -6406,6 +6406,12 @@ const groupvData = [
     tags: ["Variety"]
   },
   {
+    url: "https://www.youtube.com/shorts/2pt_xvpFnnc",
+    img: "https://img.youtube.com/vi/2pt_xvpFnnc/0.jpg",
+    title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in MANILA ✨Behind the Scene📱`,
+    tags: ["Shorts", "Behind"]
+  },
+  {
     url: "https://www.youtube.com/shorts/MmF57eU5SU8",
     img: "https://img.youtube.com/vi/MmF57eU5SU8/0.jpg",
     title: `[DAY6의 겨울캠핑 🏕️] 과연 냄비의 운명은? 🫕`,
@@ -6452,6 +6458,24 @@ const groupvData = [
     img: "https://img.youtube.com/vi/N-a9Nvv9fYU/0.jpg",
     title: `[LIVE] 날아라! 드림라이더｜2025 DAY6(데이식스) Special Concert 'The Present'`,
     tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=ju6mkCDsjPU",
+    img: "https://img.youtube.com/vi/ju6mkCDsjPU/0.jpg",
+    title: `[LIVE] 널 제외한 나의 뇌｜2025 DAY6(데이식스) Special Concert 'The Present'`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=wiEvZ8HNQRE",
+    img: "https://img.youtube.com/vi/wiEvZ8HNQRE/0.jpg",
+    title: `[LIVE] Lovin' the Christmas｜2025 DAY6(데이식스) Special Concert 'The Present'`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/RxEjDFHD3Ek",
+    img: "https://img.youtube.com/vi/RxEjDFHD3Ek/0.jpg",
+    title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in KUALA LUMPUR✨Behind the Scene📱`,
+    tags: ["Shorts", "Behind"]
   },
   
 ]
@@ -17744,6 +17768,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
