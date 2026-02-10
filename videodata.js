@@ -1663,6 +1663,18 @@ const psj2yaData = [
     title: `고장난 것 같은데...으심대😬`,
     tags: ["Season 2", "Shorts"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/k-F5WdMANoE",
+    img: "https://img.youtube.com/vi/k-F5WdMANoE/0.jpg",
+    title: `친절한 설명 요정이 찾아왔어요🧚`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/AC8ubOaA-Nw",
+    img: "https://img.youtube.com/vi/AC8ubOaA-Nw/0.jpg",
+    title: `O링: 아잇 빠질게`,
+    tags: ["Season 2", "Shorts"]
+    },
   
 ];
 
@@ -17768,6 +17780,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
