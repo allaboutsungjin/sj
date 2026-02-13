@@ -6489,6 +6489,12 @@ const groupvData = [
     title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in KUALA LUMPUR✨Behind the Scene📱`,
     tags: ["Shorts", "Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=VjHCmkgeUDg",
+    img: "https://img.youtube.com/vi/VjHCmkgeUDg/0.jpg",
+    title: `DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ in HONG KONG + MANILA Behind`,
+    tags: ["Behind"]
+  },
   
 ]
 
@@ -17694,6 +17700,12 @@ const othersData = [
     title: `DAY6, ICN INT Airport Departure`,
     tags: ["Media"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=yGfppnXynGU",
+    img: "https://img.youtube.com/vi/yGfppnXynGU/0.jpg",
+    title: `[TEASER] 반스 프리미엄 어센틱을 신은 데이식스가 증명해 보이는 순간들 (VANS, 반스, 어센틱, 프리미엄 어센틱, DAY6, 데이식스)`,
+    tags: ["Ads"]
+  },
 
 
 ]
@@ -17780,6 +17792,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
