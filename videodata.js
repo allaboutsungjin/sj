@@ -6495,6 +6495,12 @@ const groupvData = [
     title: `DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ in HONG KONG + MANILA Behind`,
     tags: ["Behind"]
   },
+  {
+    url: "https://www.youtube.com/shorts/pcfWasFAwJo",
+    img: "https://img.youtube.com/vi/pcfWasFAwJo/0.jpg",
+    title: `DAY6(데이식스)의 귀성길 플레이리스트 | Drive Home Playlist 🎼`,
+    tags: ["Shorts"]
+  },
   
 ]
 
@@ -17792,6 +17798,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
