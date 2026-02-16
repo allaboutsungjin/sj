@@ -6509,6 +6509,18 @@ const groupvData = [
     title: `DAY6(데이식스)의 귀성길 플레이리스트 | Drive Home Playlist 🎼`,
     tags: ["Shorts"]
   },
+  {
+    url: "https://www.youtube.com/shorts/wKQ5YLDudSA",
+    img: "https://img.youtube.com/vi/wKQ5YLDudSA/0.jpg",
+    title: `마요 마요 잔소리 마요 | My Way 🙅‍♂️`,
+    tags: ["Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/c7j0fFmL88M",
+    img: "https://img.youtube.com/vi/c7j0fFmL88M/0.jpg",
+    title: `DAY6(데이식스) Official Fanclub My Day 6th Generation #성진`,
+    tags: ["Shorts"]
+  },
   
 ]
 
@@ -17806,6 +17818,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
