@@ -6521,6 +6521,12 @@ const groupvData = [
     title: `DAY6(데이식스) Official Fanclub My Day 6th Generation #성진`,
     tags: ["Shorts"]
   },
+  {
+    url: "https://www.youtube.com/shorts/0gF35t2KbSo",
+    img: "https://img.youtube.com/vi/0gF35t2KbSo/0.jpg",
+    title: `DAY6(데이식스) 설맞이 밸런스 게임 | Lunar New Year Balance Game 🧧`,
+    tags: ["Shorts"]
+  },
   
 ]
 
@@ -17818,6 +17824,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
