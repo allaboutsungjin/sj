@@ -1683,6 +1683,18 @@ const psj2yaData = [
     title: `O링: 아잇 빠질게`,
     tags: ["Season 2", "Shorts"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/2VqtW-eBsz0",
+    img: "https://img.youtube.com/vi/2VqtW-eBsz0/0.jpg",
+    title: `난리자베스가 되는 현장 😁`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/UQzF2Bb-dEA",
+    img: "https://img.youtube.com/vi/UQzF2Bb-dEA/0.jpg",
+    title: `🥽이상하게 관심이 가..🥽`,
+    tags: ["Season 2", "Shorts"]
+    },
   
 ];
 
@@ -17824,6 +17836,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
