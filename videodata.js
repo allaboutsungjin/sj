@@ -13412,6 +13412,12 @@ const othersData = [
     tags: ["Instagram"]
   },
   {
+    url: "https://www.tiktok.com/@baekayeon_official/video/7306080538803195137",
+    img: "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/b64c537c0aff40f2975ac152dc62d917_1701079467~tplv-tiktokx-origin.image?dr=14575&x-expires=1772132400&x-signature=M1Xmd2wRz%2F2dqjMUDokr4f%2Beokw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my3",
+    title: `#데이식스 #성진 과 함께하는 💚라임챌린지💚`,
+    tags: ["TikTok"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=E7hih9aT-ck",
     img: "https://img.youtube.com/vi/E7hih9aT-ck/0.jpg",
     title: `데이식스의 키스 더 라디오 with 데이식스 231128`,
@@ -17836,6 +17842,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
