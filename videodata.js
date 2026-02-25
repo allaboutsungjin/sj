@@ -6363,7 +6363,7 @@ const groupvData = [
     url: "https://www.youtube.com/watch?v=jDt7FFpUXzQ",
     img: "https://img.youtube.com/vi/jDt7FFpUXzQ/0.jpg",
     title: `2025 DAY6(데이식스) Special Concert ‘The Present’ Encore VCR Making Film`,
-    tags: ["Behind"]
+    tags: ["Making"]
   },
   {
     url: "https://www.youtube.com/watch?v=SxgXJwgZT20",
@@ -6538,6 +6538,12 @@ const groupvData = [
     img: "https://img.youtube.com/vi/0gF35t2KbSo/0.jpg",
     title: `DAY6(데이식스) 설맞이 밸런스 게임 | Lunar New Year Balance Game 🧧`,
     tags: ["Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=knxWao3dKIE",
+    img: "https://img.youtube.com/vi/knxWao3dKIE/0.jpg",
+    title: `[My Day 6TH] CLEAN ARCHIVE : DAY6 Edition🫧 Special Kit Making Film`,
+    tags: ["Making"]
   },
   
 ]
@@ -17842,6 +17848,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
