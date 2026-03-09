@@ -1703,6 +1703,18 @@ const psj2yaData = [
     title: `🥽이상하게 관심이 가..🥽`,
     tags: ["Season 2", "Shorts"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/e9LuDPBqr1I",
+    img: "https://img.youtube.com/vi/e9LuDPBqr1I/0.jpg",
+    title: `하지만 우리에겐 채널주가 있잖아 😍`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/kbVmH9xYV1I",
+    img: "https://img.youtube.com/vi/kbVmH9xYV1I/0.jpg",
+    title: `아무래도 채널주겠지👆`,
+    tags: ["Season 2", "Shorts"]
+    },
   
 ];
 
@@ -17856,6 +17868,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
