@@ -6565,6 +6565,12 @@ const groupvData = [
     title: `[My Day 6TH] CLEAN ARCHIVE : DAY6 Edition🫧 Special Kit Making Film`,
     tags: ["Making"]
   },
+  {
+    url: "https://www.youtube.com/shorts/yCOWTXZuStk",
+    img: "https://img.youtube.com/vi/yCOWTXZuStk/0.jpg",
+    title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in DAEGU ✨Behind the Scene📱`,
+    tags: ["Shorts", "Behind"]
+  },
   
 ]
 
@@ -17868,6 +17874,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
