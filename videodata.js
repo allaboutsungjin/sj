@@ -6571,6 +6571,18 @@ const groupvData = [
     title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in DAEGU ✨Behind the Scene📱`,
     tags: ["Shorts", "Behind"]
   },
+  {
+    url: "https://www.youtube.com/shorts/yBmVYAwWknU",
+    img: "https://img.youtube.com/vi/yBmVYAwWknU/0.jpg",
+    title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in TAIPEI ✨Behind the Scene📱`,
+    tags: ["Shorts", "Behind"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=DLQNw-o7GYs",
+    img: "https://img.youtube.com/vi/DLQNw-o7GYs/0.jpg",
+    title: `DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ in KUALA LUMPUR + DAEGU Behind`,
+    tags: ["Behind"]
+  },
   
 ]
 
@@ -17788,6 +17800,12 @@ const othersData = [
     title: `[TEASER] 반스 프리미엄 어센틱을 신은 데이식스가 증명해 보이는 순간들 (VANS, 반스, 어센틱, 프리미엄 어센틱, DAY6, 데이식스)`,
     tags: ["Ads"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=UBKpmJ2G9VE",
+    img: "https://img.youtube.com/vi/UBKpmJ2G9VE/0.jpg",
+    title: `[주간 예열🔥] 예열을 위한 미리 듣는 롯데자이언츠 응원가 시리즈 | 오늘도 승리한다 feat. 데이식스 성진`,
+    tags: ["KBO"]
+  },
 
 
 ]
@@ -17874,6 +17892,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 
 
 
