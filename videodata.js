@@ -17806,6 +17806,48 @@ const othersData = [
     title: `[주간 예열🔥] 예열을 위한 미리 듣는 롯데자이언츠 응원가 시리즈 | 오늘도 승리한다 feat. 데이식스 성진`,
     tags: ["KBO"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=QwWT8eUNGrQ",
+    img: "https://img.youtube.com/vi/QwWT8eUNGrQ/0.jpg",
+    title: `[주간 예열🔥] 예열을 위한 미리 듣는 롯데자이언츠 응원가 시리즈 | 승리를 위한 전진 feat. 데이식스 성진`,
+    tags: ["KBO"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=r3YArUxYSGU",
+    img: "https://img.youtube.com/vi/r3YArUxYSGU/0.jpg",
+    title: `[주간 예열🔥] 예열을 위한 미리 듣는 롯데자이언츠 응원가 시리즈 | 영광의 순간 feat. 데이식스 성진`,
+    tags: ["KBO"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/VV8Us8hbuv8",
+    img: "https://img.youtube.com/vi/VV8Us8hbuv8/0.jpg",
+    title: `DAY6 성진이 부르는 오늘도 승리한다🔥#DAY6 #성진 #롯데자이언츠 #응원가`,
+    tags: ["Shorts", "KBO"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/rTbD0pU-PG4",
+    img: "https://img.youtube.com/vi/rTbD0pU-PG4/0.jpg",
+    title: `DAY6 성진이 부르는 승리를 위한 전진🔥 #DAY6 #성진 #롯데자이언츠 #응원가`,
+    tags: ["Shorts", "KBO"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/DV4npHbgpz4",
+    img: "https://img.youtube.com/vi/DV4npHbgpz4/0.jpg",
+    title: `DAY6 성진이부르는영광의순간🔥`,
+    tags: ["Shorts", "KBO"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/1FaCnbhV8FQ",
+    img: "https://img.youtube.com/vi/1FaCnbhV8FQ/0.jpg",
+    title: `응원가 커버 M/V 제작 비하인드 with 데이식스 성진 📷🔥 #DAY6 #성진 #롯데자이언츠 #응원가 #주간예열`,
+    tags: ["Shorts", "KBO"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/TqseXh00w_Q",
+    img: "https://img.youtube.com/vi/TqseXh00w_Q/0.jpg",
+    title: `데이식스 성진과 함께하는 응원가 뮤비촬영 비하인드 | 김원중 & 전준우 인터뷰 🎤 #DAY6 #성진 #롯데자이언츠 #응원가 #주간예열`,
+    tags: ["Shorts", "KBO"]
+  },
 
 
 ]
