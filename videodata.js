@@ -6583,6 +6583,12 @@ const groupvData = [
     title: `DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ in KUALA LUMPUR + DAEGU Behind`,
     tags: ["Behind"]
   },
+  {
+    url: "https://www.youtube.com/shorts/0rAbaoTUgCg",
+    img: "https://img.youtube.com/vi/0rAbaoTUgCg/0.jpg",
+    title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in GWANGJU ✨Behind the Scene📱`,
+    tags: ["Shorts", "Behind"]
+  },
   
 ]
 
