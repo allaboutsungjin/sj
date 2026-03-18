@@ -17854,6 +17854,12 @@ const othersData = [
     title: `데이식스 성진과 함께하는 응원가 뮤비촬영 비하인드 | 김원중 & 전준우 인터뷰 🎤 #DAY6 #성진 #롯데자이언츠 #응원가 #주간예열`,
     tags: ["Shorts", "KBO"]
   },
+  {
+    url: "https://www.youtube.com/shorts/oL0g0oT1BJg",
+    img: "https://img.youtube.com/vi/oL0g0oT1BJg/0.jpg",
+    title: `Celebrating INSPIRE’s 2nd Anniversary - DAY6`,
+    tags: ["Shorts"]
+  },
 
 
 ]
