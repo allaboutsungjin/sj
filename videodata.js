@@ -1715,6 +1715,18 @@ const psj2yaData = [
     title: `아무래도 채널주겠지👆`,
     tags: ["Season 2", "Shorts"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/OF_o5Kk9ATU",
+    img: "https://img.youtube.com/vi/OF_o5Kk9ATU/0.jpg",
+    title: `뗄 수 없는 동반푸드🍚`,
+    tags: ["Season 2", "Food", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/XbzRmvdaX84",
+    img: "https://img.youtube.com/vi/XbzRmvdaX84/0.jpg",
+    title: `꽉 잠그세요👝`,
+    tags: ["Season 2", "Food", "Shorts"]
+    },
   
 ];
 
