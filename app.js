@@ -1,3 +1,6 @@
+// Get year
+document.getElementById('year').textContent = new Date().getFullYear();
+
 // Toggle menu for mobile
 function toggleMobileMenu(menu) {
     menu.classList.toggle('open');
