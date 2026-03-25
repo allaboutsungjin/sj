@@ -2963,6 +2963,12 @@ const solovData = [
     title: "성진(SUNGJIN) SOLO CONCERT ＜30＞ Behind",
     tags: ["Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=jXSaQxlpn9Q",
+    img: "https://img.youtube.com/vi/jXSaQxlpn9Q/0.jpg",
+    title: `[데식이들] 성진 X 롯데 자이언츠 응원가 촬영 비하인드`,
+    tags: ["Behind", "DAY6s"]
+  },
 
 ];
 
