@@ -17878,6 +17878,12 @@ const othersData = [
     title: `Celebrating INSPIRE’s 2nd Anniversary - DAY6`,
     tags: ["Shorts"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=k3AyOn76qDw",
+    img: "https://img.youtube.com/vi/k3AyOn76qDw/0.jpg",
+    title: `서울을 배경으로 반스와 데이식스가 남긴 청춘의 기록 (VANS, 반스, 어센틱, 프리미엄 어센틱, 서울컬렉션, DAY6, 데이식스)`,
+    tags: ["Ads"]
+  },
 
 
 ]
