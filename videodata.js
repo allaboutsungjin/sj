@@ -6623,6 +6623,12 @@ const groupvData = [
     title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in GWANGJU ✨Behind the Scene📱`,
     tags: ["Shorts", "Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=2lLyX5x4d_c",
+    img: "https://img.youtube.com/vi/2lLyX5x4d_c/0.jpg",
+    title: `성진이형 밥 먹어라 먹어봐봐 밥을 [원필의 식탁]`,
+    tags: ["Variety"]
+  },
   
 ]
 
