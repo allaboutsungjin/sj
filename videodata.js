@@ -850,6 +850,22 @@ const psj2yaData = [
     tags: ["Season 2", "Food"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=qa20KFYPdZM",
+    img: "https://img.youtube.com/vi/qa20KFYPdZM/0.jpg",
+    title: "Park SungJJIN S2 EP.67",
+    desc: `At the Volleyball Game (feat. Lim Sung-jin) 🏐`,
+    guest: "Guest: -",
+    tags: ["Season 2"]
+    },
+  { 
+    url: "https://www.youtube.com/watch?v=xt6kXlUcbgc",
+    img: "https://img.youtube.com/vi/xt6kXlUcbgc/0.jpg",
+    title: "Park SungJJIN S2 EP.68",
+    desc: `xt6kXlUcbgc`,
+    guest: "Guest: -",
+    tags: ["Season 2", "Giving A Try"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
@@ -17883,6 +17899,24 @@ const othersData = [
     img: "https://img.youtube.com/vi/k3AyOn76qDw/0.jpg",
     title: `서울을 배경으로 반스와 데이식스가 남긴 청춘의 기록 (VANS, 반스, 어센틱, 프리미엄 어센틱, 서울컬렉션, DAY6, 데이식스)`,
     tags: ["Ads"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/99wUSv-xeio",
+    img: "https://img.youtube.com/vi/99wUSv-xeio/0.jpg",
+    title: `'데장'의 짧머를 봤던 순간, [지큐]는 아직 거기 살아... #VANS #AUTHENTIC #DAY6 #SUNGJIN #GQKOREA #SHORTS`,
+    tags: ["Shorts", "Ads"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/TniVNvfYebo",
+    img: "https://img.youtube.com/vi/TniVNvfYebo/0.jpg",
+    title: `지금 이 순간을 다시 넘겨볼 수 있는 데이식스만의 청춘과 에너지 #VANS #AUTHENTIC #DAY6 #GQKOREA #SHORTS`,
+    tags: ["Shorts", "Ads"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/SK8JnBsIGvo",
+    img: "https://img.youtube.com/vi/SK8JnBsIGvo/0.jpg",
+    title: `반스 어센틱 팝업에서 만난 밴드맨들 보면 그녀가 웃는다... #VANS #AUTHENTIC #DAY6 #GQKOREA #SHORTS`,
+    tags: ["Shorts"]
   },
 
 
