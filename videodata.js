@@ -861,9 +861,17 @@ const psj2yaData = [
     url: "https://www.youtube.com/watch?v=xt6kXlUcbgc",
     img: "https://img.youtube.com/vi/xt6kXlUcbgc/0.jpg",
     title: "Park SungJJIN S2 EP.68",
-    desc: `xt6kXlUcbgc`,
+    desc: `Behind the Wheel = ⚠️ MAX HYPE ⚠️`,
     guest: "Guest: -",
     tags: ["Season 2", "Giving A Try"]
+    },
+  { 
+    url: "https://www.youtube.com/watch?v=JAAxZNLaxoA",
+    img: "https://img.youtube.com/vi/JAAxZNLaxoA/0.jpg",
+    title: "Park SungJJIN S2 EP.69",
+    desc: `Channel Owner’s Top 3 Favorite Foods: Curry 🥘`,
+    guest: "Guest: -",
+    tags: ["Season 2", "Food"]
     },
   { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
