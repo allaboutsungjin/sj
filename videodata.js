@@ -17932,6 +17932,12 @@ const othersData = [
     title: `반스 어센틱 팝업에서 만난 밴드맨들 보면 그녀가 웃는다... #VANS #AUTHENTIC #DAY6 #GQKOREA #SHORTS`,
     tags: ["Shorts"]
   },
+  {
+    url: "https://www.instagram.com/p/DXGzQbQBBEw/",
+    img: "img/vansday6musinsa.jpg",
+    title: `𝗩𝗔𝗡𝗦 × 𝗠𝗨𝗦𝗜𝗡𝗦𝗔 @ VANS_KOREA INSTAGRAM`,
+    tags: ["Instagram"]
+  },
 
 
 ]
