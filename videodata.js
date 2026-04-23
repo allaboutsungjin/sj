@@ -1751,6 +1751,18 @@ const psj2yaData = [
     title: `꽉 잠그세요👝`,
     tags: ["Season 2", "Food", "Shorts"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/46bf6LqOJqE",
+    img: "https://img.youtube.com/vi/46bf6LqOJqE/0.jpg",
+    title: `GMG😒`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/CAfQavJXiVU",
+    img: "https://img.youtube.com/vi/CAfQavJXiVU/0.jpg",
+    title: `현재 상태: 듀르륵...💧`,
+    tags: ["Season 2", "Shorts"]
+    },
   
 ];
 
@@ -6636,6 +6648,18 @@ const groupvData = [
     img: "https://img.youtube.com/vi/2lLyX5x4d_c/0.jpg",
     title: `성진이형 밥 먹어라 먹어봐봐 밥을 [원필의 식탁]`,
     tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=1Ftd7xptwJE",
+    img: "https://img.youtube.com/vi/1Ftd7xptwJE/0.jpg",
+    title: `DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ in TAIPEI + GWANGJU + DAEJEON Behind`,
+    tags: ["Behind"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/_K1g7dNLhaY",
+    img: "https://img.youtube.com/vi/_K1g7dNLhaY/0.jpg",
+    title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in SINGAPORE ✨Behind the Scene📱`,
+    tags: ["Shorts", "Behind"]
   },
   
 ]
