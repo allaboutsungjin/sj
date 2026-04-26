@@ -17968,6 +17968,12 @@ const othersData = [
     title: `𝗩𝗔𝗡𝗦 × 𝗠𝗨𝗦𝗜𝗡𝗦𝗔 @ VANS_KOREA INSTAGRAM`,
     tags: ["Instagram"]
   },
+  {
+    url: "https://x.com/i/status/2047556143921451384",
+    img: "https://pbs.twimg.com/media/HGVFnV1b0AAJIO5.jpg",
+    title: `DAY6 10th Anniversary Tour <The DECADE> in JAPAN`,
+    tags: ["X"]
+  },
 
 
 ]
