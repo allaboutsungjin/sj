@@ -6675,6 +6675,18 @@ const groupvData = [
     title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in SINGAPORE ✨Behind the Scene📱`,
     tags: ["Shorts", "Behind"]
   },
+  {
+    url: "https://www.youtube.com/shorts/Rcs4PpDodA0",
+    img: "https://img.youtube.com/vi/Rcs4PpDodA0/0.jpg",
+    title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in TOKYO✨Behind the Scene📱`,
+    tags: ["Shorts", "Behind"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=HF6REwfBs34",
+    img: "https://img.youtube.com/vi/HF6REwfBs34/0.jpg",
+    title: `DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ in JAPAN MD Shooting Sketch 📸`,
+    tags: ["Behind"]
+  },
   
 ]
 
