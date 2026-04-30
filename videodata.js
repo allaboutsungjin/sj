@@ -17994,6 +17994,12 @@ const othersData = [
     title: `DAY6 10th Anniversary Tour <The DECADE> in JAPAN`,
     tags: ["X"]
   },
+  {
+    url: "https://www.instagram.com/reels/DXvrZTkh9t5/",
+    img: "img/day6hkb.jpg",
+    title: `DAY6 @ HARPERSBAZAARHK INSTAGRAM`,
+    tags: ["Instagram"]
+  },
 
 
 ]
