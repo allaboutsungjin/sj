@@ -882,6 +882,13 @@ const psj2yaData = [
     tags: ["Season 2"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=Mrs4BsUhncw",
+    img: "https://img.youtube.com/vi/Mrs4BsUhncw/0.jpg",
+    title: `소중한 편지들 눈에 담아 보았습니다 👀`,
+    guest: "Guest: -",
+    tags: ["Season 2"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
