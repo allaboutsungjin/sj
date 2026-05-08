@@ -18007,6 +18007,19 @@ const othersData = [
     title: `DAY6 @ HARPERSBAZAARHK INSTAGRAM`,
     tags: ["Instagram"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=zPzWi928Cnc",
+    img: "https://img.youtube.com/vi/zPzWi928Cnc/0.jpg",
+    title: `DAY6, Incheon International Airport DEPARTURE`,
+    tags: ["Media"]
+  },
+  {
+    url: "https://x.com/i/status/2052649426041393655",
+    img: "https://pbs.twimg.com/amplify_video_thumb/2052649341459013632/img/F0e89BsuzUlvVWsn.jpg",
+    title: `나: 카메라는 안 보고 오직 데이식스 오빵이들만 바라봄`,
+    tags: ["X"]
+  },
+  
 
 
 ]
