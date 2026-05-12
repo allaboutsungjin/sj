@@ -889,6 +889,14 @@ const psj2yaData = [
     tags: ["Season 2"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=YLL61JOyrO0",
+    img: "https://img.youtube.com/vi/YLL61JOyrO0/0.jpg",
+    title: "Park SungJJIN S2 EP.71",
+    desc: `Unexpected Park Vlog Thanks to the Nice Weather 📷`,
+    guest: "Guest: -",
+    tags: ["Season 2"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
@@ -6693,6 +6701,18 @@ const groupvData = [
     img: "https://img.youtube.com/vi/HF6REwfBs34/0.jpg",
     title: `DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ in JAPAN MD Shooting Sketch 📸`,
     tags: ["Behind"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=YS5p9Q7WVCs",
+    img: "https://img.youtube.com/vi/YS5p9Q7WVCs/0.jpg",
+    title: `원필(WONPIL) SOLO CONCERT 'Unpiltered' VCR 🕺`,
+    tags: ["VCR"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/7cYlJFn-36E",
+    img: "https://img.youtube.com/vi/7cYlJFn-36E/0.jpg",
+    title: `밴드 안 했으면 벌어졌을 일: JYP 댄스 1등 김원필`,
+    tags: ["Shorts", "VCR"]
   },
   
 ]
