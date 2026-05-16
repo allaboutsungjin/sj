@@ -18039,6 +18039,12 @@ const othersData = [
     title: `나: 카메라는 안 보고 오직 데이식스 오빵이들만 바라봄`,
     tags: ["X"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=kVbWUbB22sI",
+    img: "https://img.youtube.com/vi/kVbWUbB22sI/0.jpg",
+    title: `DAY6 Sung Jin's powerful ceremonial first pitch | KBO | Korean Baseball`,
+    tags: ["KBO"]
+  },
   
 
 
