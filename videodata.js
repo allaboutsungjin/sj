@@ -1786,6 +1786,18 @@ const psj2yaData = [
     title: `현재 상태: 듀르륵...💧`,
     tags: ["Season 2", "Shorts"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/6b7AdA0p99o",
+    img: "https://img.youtube.com/vi/6b7AdA0p99o/0.jpg",
+    title: `효자 박성진🖌️`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/wBSYW7V2Myk",
+    img: "https://img.youtube.com/vi/wBSYW7V2Myk/0.jpg",
+    title: `성진의 까마귀 퇴치법🐦‍⬛`,
+    tags: ["Season 2", "Shorts"]
+    },
   
 ];
 
@@ -6713,6 +6725,18 @@ const groupvData = [
     img: "https://img.youtube.com/vi/7cYlJFn-36E/0.jpg",
     title: `밴드 안 했으면 벌어졌을 일: JYP 댄스 1등 김원필`,
     tags: ["Shorts", "VCR"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/EtNgOzFrvXc",
+    img: "https://img.youtube.com/vi/EtNgOzFrvXc/0.jpg",
+    title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in MACAU✨Behind the Scene📱`,
+    tags: ["Shorts", "Behind"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/LWOAMkCCDHo",
+    img: "https://img.youtube.com/vi/LWOAMkCCDHo/0.jpg",
+    title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in BUSAN✨Behind the Scene📱`,
+    tags: ["Shorts", "Behind"]
   },
   
 ]
