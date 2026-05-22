@@ -6738,6 +6738,12 @@ const groupvData = [
     title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in BUSAN✨Behind the Scene📱`,
     tags: ["Shorts", "Behind"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=CmFC2gCTqZk",
+    img: "https://img.youtube.com/vi/CmFC2gCTqZk/0.jpg",
+    title: `원필(WONPIL) SOLO CONCERT 'Unpiltered' Behind#2`,
+    tags: ["Behind"]
+  },
   
 ]
 
@@ -18068,6 +18074,12 @@ const othersData = [
     img: "https://img.youtube.com/vi/kVbWUbB22sI/0.jpg",
     title: `DAY6 Sung Jin's powerful ceremonial first pitch | KBO | Korean Baseball`,
     tags: ["KBO"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=l7RNMlxiS9Q",
+    img: "https://img.youtube.com/vi/l7RNMlxiS9Q/0.jpg",
+    title: `이게 뭐야~~? 비하인드 아니햐아~~? ㅣ 2025-2026시즌 비하인드 모음.zip`,
+    tags: ["Behind"]
   },
   
 
