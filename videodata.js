@@ -1806,6 +1806,24 @@ const psj2yaData = [
     title: `성진의 까마귀 퇴치법🐦‍⬛`,
     tags: ["Season 2", "Shorts"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/fXyKShIWzTg",
+    img: "https://img.youtube.com/vi/fXyKShIWzTg/0.jpg",
+    title: `흐르는 게 눈물인지 땀인지 모르겠어💦`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/E7iJepZFg_E",
+    img: "https://img.youtube.com/vi/E7iJepZFg_E/0.jpg",
+    title: `좋아하실 것 같아 준비했습니다📷🫶`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/WLr9ZXuUB4o",
+    img: "https://img.youtube.com/vi/WLr9ZXuUB4o/0.jpg",
+    title: `얼마나 캐치하고 싶은지 감도 안 옴🙀`,
+    tags: ["Season 2", "Shorts"]
+    },
   
 ];
 
