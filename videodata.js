@@ -6770,6 +6770,18 @@ const groupvData = [
     title: `원필(WONPIL) SOLO CONCERT 'Unpiltered' Behind#2`,
     tags: ["Behind"]
   },
+  {
+    url: "https://www.youtube.com/shorts/AdcLu5_v2xk",
+    img: "https://img.youtube.com/vi/AdcLu5_v2xk/0.jpg",
+    title: `My Day가 지켜봐 준 시간들 🍀🤍`,
+    tags: ["Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=6WdzYHj0GL4",
+    img: "https://img.youtube.com/vi/6WdzYHj0GL4/0.jpg",
+    title: `DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ in SINGAPORE + MACAU + BUSAN Behind`,
+    tags: ["Behind"]
+  },
   
 ]
 
