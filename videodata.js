@@ -1832,6 +1832,18 @@ const psj2yaData = [
     title: `얼마나 캐치하고 싶은지 감도 안 옴🙀`,
     tags: ["Season 2", "Shorts"]
     },
+  { 
+    url: "https://www.youtube.com/shorts/PmGUdkHTXec",
+    img: "https://img.youtube.com/vi/PmGUdkHTXec/0.jpg",
+    title: `✔️성진의 빈티지 숍 꿀팁✔️`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/O3PCoGq5XI8",
+    img: "https://img.youtube.com/vi/O3PCoGq5XI8/0.jpg",
+    title: `자연광이 성진 퍼스널빛이네✨`,
+    tags: ["Season 2", "Shorts"]
+    },
   
 ];
 
