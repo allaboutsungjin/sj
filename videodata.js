@@ -913,6 +913,14 @@ const psj2yaData = [
     tags: ["Season 2"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=fzVckJTOdQg",
+    img: "https://img.youtube.com/vi/fzVckJTOdQg/0.jpg",
+    title: "Park SungJJIN S2 EP.74",
+    desc: `Would you like to watch the stars with me? ✨⭐️💫 `,
+    guest: "Guest: -",
+    tags: ["Season 2"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
@@ -18139,7 +18147,36 @@ const othersData = [
     title: `이게 뭐야~~? 비하인드 아니햐아~~? ㅣ 2025-2026시즌 비하인드 모음.zip`,
     tags: ["Behind"]
   },
-  
+  {
+    url: "https://www.youtube.com/shorts/Hb8yk_cG-II",
+    img: "https://img.youtube.com/vi/Hb8yk_cG-II/0.jpg",
+    title: `오랜만에 만난 DAY6 성진과 김원중 | 머리카락 근황 토크(?) #롯데자이언츠 #DAY6 #성진`,
+    tags: ["Shorts", "KBO"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/uwMZDeavaD8",
+    img: "https://img.youtube.com/vi/uwMZDeavaD8/0.jpg",
+    title: `DAY6 성진이 라이브로 부르는 영광의 순간✨ #롯데자이언츠 #DAY6 #성진`,
+    tags: ["Shorts", "KBO"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/2qNaj5FR4YA",
+    img: "https://img.youtube.com/vi/2qNaj5FR4YA/0.jpg",
+    title: `DAY6 성진과 함께하는 롯데자이언츠 아웃송 메들리🎵 #롯데자이언츠 #DAY6 #성진`,
+    tags: ["Shorts", "KBO"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/6DI1neuPgdA",
+    img: "https://img.youtube.com/vi/6DI1neuPgdA/0.jpg",
+    title: `칭찬만 가득한 시구 연습 현장✨ with 시구 경력 만렙 성진 #롯데자이언츠 #DAY6 #성진`,
+    tags: ["Shorts", "KBO"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/H57QLQJl_tc",
+    img: "https://img.youtube.com/vi/H57QLQJl_tc/0.jpg",
+    title: `김원중이 가르쳐주는 슬라이더 | 시구자 최초(?) 변화구 시도? #롯데자이언츠 #DAY6 #성진`,
+    tags: ["Shorts", "KBO"]
+  },
 
 
 ]
