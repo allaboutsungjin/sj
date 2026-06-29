@@ -18177,6 +18177,12 @@ const othersData = [
     title: `김원중이 가르쳐주는 슬라이더 | 시구자 최초(?) 변화구 시도? #롯데자이언츠 #DAY6 #성진`,
     tags: ["Shorts", "KBO"]
   },
+  {
+    url: "https://x.com/SuperStarJYP/status/2071066058912653675/video/1",
+    img: "https://pbs.twimg.com/amplify_video_thumb/2070340541309751296/img/9Vs84H1Oa4RRzvD-.jpg",
+    title: `#SSJ_BIRTHDAY_2026 I with DAY6`,
+    tags: ["X"]
+  },
 
 
 ]
