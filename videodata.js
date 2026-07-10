@@ -921,6 +921,14 @@ const psj2yaData = [
     tags: ["Season 2"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=e0lxju5041s",
+    img: "https://img.youtube.com/vi/e0lxju5041s/0.jpg",
+    title: "Park SungJJIN S2 EP.75",
+    desc: `Knock, Knock!✊ What's Behind the Host's Wardrobe? 👕👖 `,
+    guest: "Guest: -",
+    tags: ["Season 2"]
+    },
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
@@ -1850,6 +1858,30 @@ const psj2yaData = [
     url: "https://www.youtube.com/shorts/O3PCoGq5XI8",
     img: "https://img.youtube.com/vi/O3PCoGq5XI8/0.jpg",
     title: `자연광이 성진 퍼스널빛이네✨`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/c-wwrXak22Q",
+    img: "https://img.youtube.com/vi/c-wwrXak22Q/0.jpg",
+    title: `한 번만 잡숴봐🤤`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/wbaPVXsidY4",
+    img: "https://img.youtube.com/vi/wbaPVXsidY4/0.jpg",
+    title: `성진을 위해 말벌 아저씨가 돼..🎥`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/ty1GtxznjU0",
+    img: "https://img.youtube.com/vi/ty1GtxznjU0/0.jpg",
+    title: `밥카소: 이 작품으로 말할 것 같으면...🎨`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/FuQRSPEiye0",
+    img: "https://img.youtube.com/vi/FuQRSPEiye0/0.jpg",
+    title: `카레 잘못 먹은 사춘기 방이🐻`,
     tags: ["Season 2", "Shorts"]
     },
   
