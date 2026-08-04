@@ -924,7 +924,23 @@ const psj2yaData = [
     url: "https://www.youtube.com/watch?v=e0lxju5041s",
     img: "https://img.youtube.com/vi/e0lxju5041s/0.jpg",
     title: "Park SungJJIN S2 EP.75",
-    desc: `Knock, Knock!✊ What's Behind the Host's Wardrobe? 👕👖 `,
+    desc: `Knock, Knock!✊ What's Behind the Host's Wardrobe? 👕👖`,
+    guest: "Guest: -",
+    tags: ["Season 2"]
+    },
+  { 
+    url: "https://www.youtube.com/watch?v=zB6QaixSXs",
+    img: "https://img.youtube.com/vi/zB6QaixSXs/0.jpg",
+    title: "Park SungJJIN S2 EP.76",
+    desc: `Hello I'm Dialect Teacher Park! 👨‍🏫`,
+    guest: "Guest: -",
+    tags: ["Season 2"]
+    },
+  { 
+    url: "https://www.youtube.com/watch?v=9vXwfxd4yfY",
+    img: "https://img.youtube.com/vi/9vXwfxd4yfY/0.jpg",
+    title: "Park SungJJIN S2 EP.77",
+    desc: `How Old Are You, Squishy? ⚪️`,
     guest: "Guest: -",
     tags: ["Season 2"]
     },
@@ -1882,6 +1898,30 @@ const psj2yaData = [
     url: "https://www.youtube.com/shorts/FuQRSPEiye0",
     img: "https://img.youtube.com/vi/FuQRSPEiye0/0.jpg",
     title: `카레 잘못 먹은 사춘기 방이🐻`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/8YfY6pWdjNE",
+    img: "https://img.youtube.com/vi/8YfY6pWdjNE/0.jpg",
+    title: `🌹레드 좋아🌹`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/l4ezfweFb4Q",
+    img: "https://img.youtube.com/vi/l4ezfweFb4Q/0.jpg",
+    title: `👕상의 먼저 👖 아니 하의 먼저 👟 아니지 신발 먼저`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/JcfMO6o6mnM",
+    img: "https://img.youtube.com/vi/JcfMO6o6mnM/0.jpg",
+    title: `내도 애립다...🫠`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/79L2_VOq02M",
+    img: "https://img.youtube.com/vi/79L2_VOq02M/0.jpg",
+    title: `저...혹시 가사를 찾고 있나요...? 🥺`,
     tags: ["Season 2", "Shorts"]
     },
   
@@ -6852,6 +6892,12 @@ const groupvData = [
     url: "https://www.youtube.com/watch?v=F7H5DS3i1Ck",
     img: "https://img.youtube.com/vi/F7H5DS3i1Ck/0.jpg",
     title: `DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ in TOKYO + KOBE Behind`,
+    tags: ["Behind"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=gTPOZFgabiE",
+    img: "https://img.youtube.com/vi/gTPOZFgabiE/0.jpg",
+    title: `DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ FINALE in SEOUL Behind`,
     tags: ["Behind"]
   },
   
