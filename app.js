@@ -78,33 +78,10 @@ const events = {
         `DAY6 is 10 EP.1`,
         `DAY6.zip : The Home of Our Decade`
     ],
-    '2025-09-08': `DAY6 4TH FULL ALBUM The DECADE Track 2 Live Clip`,
-    '2025-09-09': `10th Anniversary Documentary`,
-    '2025-09-10': `DAY6 4TH FULL ALBUM The DECADE Track 1 Live Clip`,
-    '2025-09-12': `DAY6 4TH FULL ALBUM The DECADE Track 10 MV`,
-    '2025-09-14': `DAY6 is 10 EP.2`,
-    '2025-09-15': `LIVE CLIP with My Day 1`,
-    '2025-09-16': `LIVE CLIP with My Day 2`,
-    '2025-09-17': [
-        `LIVE CLIP with My Day 3`,
-        `10th Anniversary Tour <The DECADE> in Bangkok`
-    ],
-    '2025-09-18': `LIVE CLIP with My Day 4`,
-    '2025-09-19': `LIVE CLIP with My Day 5`,
-    '2025-10-18': `10th Anniversary Tour <The DECADE> in Ho Chi Minh`,
-    '2025-10-22': `The Game Caterers X JYP EP.1 TVN`,
-    '2025-10-23': `The Game Caterers X JYP EP.1 Full Version YouTube`,
-    '2025-10-29': `The Game Caterers X JYP EP.2 TVN`,
-    '2025-10-30': `The Game Caterers X JYP EP.2 Full Version YouTube`,
-    '2025-11-01': `Johnnie Walker X DAY6 Pop Up Store`,
-    '2025-11-02': `Johnnie Walker X DAY6 Pop Up Store`,
-    '2025-12-19': `2025 DAY6 Special Concert ‘The Present’`,
-    '2025-12-20': `2025 DAY6 Special Concert ‘The Present’`,
-    '2025-12-21': `2025 DAY6 Special Concert ‘The Present’`,
-    '2026-01-17': `10th Anniversary Tour <The DECADE> in Hong Kong`,
-    '2026-01-18': `10th Anniversary Tour <The DECADE> in Hong Kong`,
-    '2026-01-24': `10th Anniversary Tour <The DECADE> in Manila`,
-    '2026-01-31': `10th Anniversary Tour <The DECADE> in Kuala Lumpur`
+    '2026-10-04': `XNTERSTELLAT MUSIC FESTIVAL 2026`,
+    '2026-10-23': `DAY6 5TH FANMEETING <EVERY DAY6, EVERY My Day>`,
+    '2026-10-24': `DAY6 5TH FANMEETING <EVERY DAY6, EVERY My Day>`,
+    '2026-10-25': `DAY6 5TH FANMEETING <EVERY DAY6, EVERY My Day>`
 };
 
 let currentMonth = new Date().getMonth();
