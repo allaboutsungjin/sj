@@ -6994,6 +6994,12 @@ const groupvData = [
     title: `My Day Pick❗️어디서나 당당하게 걷기💗`,
     tags: ["Shorts", "Challenge"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=UiRzMcwwsfs",
+    img: "https://img.youtube.com/vi/UiRzMcwwsfs/0.jpg",
+    title: `[데식이들] 2026 가족사진 비하인드`,
+    tags: ["Behind", "DAY6s"]
+  },
   
 ]
 
