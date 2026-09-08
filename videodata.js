@@ -945,6 +945,22 @@ const psj2yaData = [
     tags: ["Season 2"]
     },
   { 
+    url: "https://www.youtube.com/watch?v=xDUB2a2ImOY",
+    img: "https://img.youtube.com/vi/xDUB2a2ImOY/0.jpg",
+    title: "Park SungJJIN S2 EP.78",
+    desc: `아껴 두었던 단골집 공개합니다⭐`,
+    guest: "Guest: -",
+    tags: ["Season 2", "Food"]
+    },
+  { 
+    url: "https://www.youtube.com/watch?v=pV7ULyIlrnQ",
+    img: "https://img.youtube.com/vi/pV7ULyIlrnQ/0.jpg",
+    title: "Park SungJJIN S2 EP.78",
+    desc: `In Search of a Neat Wardrobe 👕👖`,
+    guest: "Guest: -",
+    tags: ["Season 2"]
+    },  
+  { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
     title: "성진이 그 시절 감성으로 부르는 ‘죽일 놈’🎵",
@@ -1922,6 +1938,48 @@ const psj2yaData = [
     url: "https://www.youtube.com/shorts/79L2_VOq02M",
     img: "https://img.youtube.com/vi/79L2_VOq02M/0.jpg",
     title: `저...혹시 가사를 찾고 있나요...? 🥺`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/3h-GxS_aDxQ",
+    img: "https://img.youtube.com/vi/3h-GxS_aDxQ/0.jpg",
+    title: `자리에 앉아...🪑🥲`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/zsVlu6t7n_Q",
+    img: "https://img.youtube.com/vi/zsVlu6t7n_Q/0.jpg",
+    title: `니가 좋아🫵🐻`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/djM8h4TO9dI",
+    img: "https://img.youtube.com/vi/djM8h4TO9dI/0.jpg",
+    title: `우리는 모두 친구😉`,
+    tags: ["Season 2", "Food", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/FN9Y9OkirzQ",
+    img: "https://img.youtube.com/vi/FN9Y9OkirzQ/0.jpg",
+    title: `성진의 식지도 공유 부탁드립니다😊`,
+    tags: ["Season 2", "Food", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/qNVzrz1jR5I",
+    img: "https://img.youtube.com/vi/qNVzrz1jR5I/0.jpg",
+    title: `📌늦을까 봐 많이 일찍 올리는 벌칙 챌린지📌`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/A5I1h58WW3Q",
+    img: "https://img.youtube.com/vi/A5I1h58WW3Q/0.jpg",
+    title: `지금 성진의 옷을 고른다면🤔`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/vQ--AVJjk4k",
+    img: "https://img.youtube.com/vi/vQ--AVJjk4k/0.jpg",
+    title: `멤버의 옷장을 보았다👀`,
     tags: ["Season 2", "Shorts"]
     },
   
@@ -6883,6 +6941,12 @@ const groupvData = [
     tags: ["Behind"]
   },
   {
+    url: "https://www.youtube.com/shorts/wq9jqKz78iA",
+    img: "https://img.youtube.com/vi/wq9jqKz78iA/0.jpg",
+    title: `DAY6 10th Anniversary Tour 〈The DECADE〉 in KOBE✨Behind the Scene📱`,
+    tags: ["Shorts", "Behind"]
+  },
+  {
     url: "https://www.youtube.com/watch?v=bZ_obMmvs1s",
     img: "https://img.youtube.com/vi/bZ_obMmvs1s/0.jpg",
     title: `DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ FINALE in SEOUL MD Shooting Sketch 📸`,
@@ -6899,6 +6963,36 @@ const groupvData = [
     img: "https://img.youtube.com/vi/gTPOZFgabiE/0.jpg",
     title: `DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ FINALE in SEOUL Behind`,
     tags: ["Behind"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=3J1diKFzBGM",
+    img: "https://img.youtube.com/vi/3J1diKFzBGM/0.jpg",
+    title: `Young K Solo Tour ＜YOUNGEST＞ Concert Behind #2`,
+    tags: ["Behind"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=etcA8OjEV6s",
+    img: "https://img.youtube.com/vi/etcA8OjEV6s/0.jpg",
+    title: `11th Anniversary Live🥳 〈Welcome to the Party〉`,
+    tags: ["Live"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/ASSRx03COS0",
+    img: "https://img.youtube.com/vi/ASSRx03COS0/0.jpg",
+    title: `My Day Pick❗️나는 MJ 말고 𝓜(𝔂)𝓓(𝓪𝔂) 🕷️🕸️`,
+    tags: ["Shorts", "Challenge"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/Hee4wgZ7a3M",
+    img: "https://img.youtube.com/vi/Hee4wgZ7a3M/0.jpg",
+    title: `My Day Pick❗️하지하지마를 하지하지마 🙅`,
+    tags: ["Shorts", "Challenge"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/W2ktAJbaYnA",
+    img: "https://img.youtube.com/vi/W2ktAJbaYnA/0.jpg",
+    title: `My Day Pick❗️어디서나 당당하게 걷기💗`,
+    tags: ["Shorts", "Challenge"]
   },
   
 ]
