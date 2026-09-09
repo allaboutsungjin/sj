@@ -78,6 +78,7 @@ const events = {
         `DAY6 is 10 EP.1`,
         `DAY6.zip : The Home of Our Decade`
     ],
+    '2026-09-11': `노브레인, 성진, 도운 (DAY6) - 넌 내게 반했어`,
     '2026-10-04': `XNTERSTELLAR MUSIC FESTIVAL 2026`,
     '2026-10-23': `DAY6 5TH FANMEETING <EVERY DAY6, EVERY My Day>`,
     '2026-10-24': `DAY6 5TH FANMEETING <EVERY DAY6, EVERY My Day>`,
