@@ -18373,6 +18373,12 @@ const othersData = [
     title: `#SSJ_BIRTHDAY_2026 I with DAY6`,
     tags: ["X"]
   },
+  {
+    url: "https://www.youtube.com/shorts/2M5kWQ_73h8",
+    img: "https://img.youtube.com/vi/2M5kWQ_73h8/0.jpg",
+    title: `노브레인, 성진, 도운 (DAY6) - '넌 내게 반했어' Teaser`,
+    tags: ["Shorts"]
+  },
 
 
 ]
