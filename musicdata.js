@@ -526,6 +526,18 @@ const musicOthers = [
             { url: "https://www.melon.com/song/detail.htm?songId=30105588", icon: "Melon.png", alt: "Melon" }
         ],
 	tags: ["Korean"]
+    },
+	{
+        img: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/52/5d/c1525d03-e066-3c9b-9087-484816525a90/888272188165_Cover.jpg/632x632bb.webp",
+        title: "NO BRAIN 30th Anniversary Pt.5",
+        date: "September 11, 2026",
+        links: [
+            { url: "https://open.spotify.com/album/1ZKQBmUl1dgR8qnZL9aINc?si=G4XDNMlySJyAGTi7kF9khg", icon: "Spotify.png", alt: "Spotify" },
+            { url: "https://music.apple.com/us/album/no-brain-30th-pt-5-you-have-a-crush-on-me/6810186805?i=6810186811", icon: "AM.svg", alt: "Apple Music" },
+            { url: "https://music.youtube.com/playlist?list=OLAK5uy_kCTIeMKZSUn2HfAS8_97D98yJLJICIWms", icon: "YM.svg", alt: "YouTube Music" },
+            { url: "https://www.melon.com/album/detail.htm?albumId=14538924", icon: "Melon.png", alt: "Melon" }
+        ],
+	tags: ["Korean"]
     }
 ];
 
