@@ -18379,6 +18379,24 @@ const othersData = [
     title: `노브레인, 성진, 도운 (DAY6) - '넌 내게 반했어' Teaser`,
     tags: ["Shorts"]
   },
+  {
+    url: "https://www.youtube.com/shorts/HDJl-rAp6T4",
+    img: "https://img.youtube.com/vi/HDJl-rAp6T4/0.jpg",
+    title: `누구한테 반했어? #임영웅 #이승윤 #러블리즈 #크라잉넛 #YB #잔나비 #데이식스`,
+    tags: ["Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=dS_8RpLEehM",
+    img: "https://img.youtube.com/vi/dS_8RpLEehM/0.jpg",
+    title: `노브레인, 성진, 도운 (DAY6) - '넌 내게 반했어' Official Lyric Video`,
+    tags: ["Music"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=zoRCCBu1CTM",
+    img: "https://img.youtube.com/vi/zoRCCBu1CTM/0.jpg",
+    title: `[노브레인 30주년 Part.5] 발매 인사 | 성진, 도운 (DAY6) 편`,
+    tags: ["Interview"]
+  },
 
 
 ]
