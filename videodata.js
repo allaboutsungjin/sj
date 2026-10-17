@@ -955,11 +955,35 @@ const psj2yaData = [
   { 
     url: "https://www.youtube.com/watch?v=pV7ULyIlrnQ",
     img: "https://img.youtube.com/vi/pV7ULyIlrnQ/0.jpg",
-    title: "Park SungJJIN S2 EP.78",
+    title: "Park SungJJIN S2 EP.79",
     desc: `In Search of a Neat Wardrobe 👕👖`,
     guest: "Guest: -",
     tags: ["Season 2"]
-    },  
+    },
+  { 
+    url: "https://www.youtube.com/watch?v=Ok-aWVq-Zpw",
+    img: "https://img.youtube.com/vi/Ok-aWVq-Zpw/0.jpg",
+    title: "Park SungJJIN S2 EP.80",
+    desc: `I'm Detective Seongjin! 🕵️‍♂️`,
+    guest: "Guest: -",
+    tags: ["Season 2"]
+    },
+  { 
+    url: "https://www.youtube.com/watch?v=NuRfh4gOzVs",
+    img: "https://img.youtube.com/vi/NuRfh4gOzVs/0.jpg",
+    title: "Park SungJJIN S2 EP.81",
+    desc: `🦀: Hello? I’m in Season`,
+    guest: "Guest: -",
+    tags: ["Season 2", "Food"]
+    },
+  { 
+    url: "https://www.youtube.com/watch?v=km2CrcFq-qk",
+    img: "https://img.youtube.com/vi/km2CrcFq-qk/0.jpg",
+    title: "Park SungJJIN S2 EP.82",
+    desc: `Let's Try the Gen Z Look! ✨`,
+    guest: "Guest: -",
+    tags: ["Season 2", "Food"]
+    },
   { 
     url: "https://www.youtube.com/shorts/IXJkAo6urfo",
     img: "https://img.youtube.com/vi/IXJkAo6urfo/0.jpg",
@@ -1981,6 +2005,30 @@ const psj2yaData = [
     img: "https://img.youtube.com/vi/vQ--AVJjk4k/0.jpg",
     title: `멤버의 옷장을 보았다👀`,
     tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/HGQcp1zbVeI",
+    img: "https://img.youtube.com/vi/HGQcp1zbVeI/0.jpg",
+    title: `성진은 ㄴㅁㅁㅅㅇ😱`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/ILOognkbJt0",
+    img: "https://img.youtube.com/vi/ILOognkbJt0/0.jpg",
+    title: `이 공간에는 귀신이 있어👻`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/XQXPoZ52OxM",
+    img: "https://img.youtube.com/vi/XQXPoZ52OxM/0.jpg",
+    title: `👨 🍳이 친구들 사이가 왜이렇게 좋지?`,
+    tags: ["Season 2", "Food", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/PBZ8GgjhN6w",
+    img: "https://img.youtube.com/vi/PBZ8GgjhN6w/0.jpg",
+    title: `달걀프라이 먹을 게 🍳( 맛있는 거 ❌)`,
+    tags: ["Season 2", "Food", "Shorts"]
     },
   
 ];
@@ -6999,6 +7047,90 @@ const groupvData = [
     img: "https://img.youtube.com/vi/UiRzMcwwsfs/0.jpg",
     title: `[데식이들] 2026 가족사진 비하인드`,
     tags: ["Behind", "DAY6s"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=PRGmm4kvlZw",
+    img: "https://img.youtube.com/vi/PRGmm4kvlZw/0.jpg",
+    title: `[DAY6 무리회] Teaser. DAY6가 왜이리 무리회 🤡`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=qJUfN7l9oOg",
+    img: "https://img.youtube.com/vi/qJUfN7l9oOg/0.jpg",
+    title: `[LIVE] 꿈의 버스｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ FINALE in SEOUL`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=3UPp5y3XGNI",
+    img: "https://img.youtube.com/vi/3UPp5y3XGNI/0.jpg",
+    title: `[LIVE] INSIDE OUT｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ FINALE in SEOUL`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=HjI3Vj4BjK4",
+    img: "https://img.youtube.com/vi/HjI3Vj4BjK4/0.jpg",
+    title: `[LIVE] 해야 뜨지 말아 줘 + 행복했던 날들이었다｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ FINALE in SEOUL`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=jzZLckHqBLw",
+    img: "https://img.youtube.com/vi/jzZLckHqBLw/0.jpg",
+    title: `[LIVE] Take All My Heart｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ FINALE in SEOUL`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=sCr6tph1Xjo",
+    img: "https://img.youtube.com/vi/sCr6tph1Xjo/0.jpg",
+    title: `[LIVE] Love me or Leave me + Sweet Chaos + Shoot Me | DAY6(데이식스) ＜The DECADE＞ FINALE in SEOUL`,
+    tags: ["Live Clip"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=j6nPs2n4KWg",
+    img: "https://img.youtube.com/vi/j6nPs2n4KWg/0.jpg",
+    title: `[DAY6 무리회] EP1. 이 구역 춤 짱`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=aRzAH24Dky8",
+    img: "https://img.youtube.com/vi/aRzAH24Dky8/0.jpg",
+    title: `[DAY6 무리회] EP2. 난 이미 이걸 좋아해`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=0nug-6yKCR8",
+    img: "https://img.youtube.com/vi/0nug-6yKCR8/0.jpg",
+    title: `[DAY6 무리회] EP3. 노래는 이렇게 하는 거야`,
+    tags: ["Variety"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/AJHS9WbC9HE",
+    img: "https://img.youtube.com/vi/AJHS9WbC9HE/0.jpg",
+    title: `DAY6 5TH FANMEETING 〈EVERY DAY6, EVERY My Day〉 🌌 Sketch Film 📸`,
+    tags: ["Shorts", "Behind"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/nU_Ld_7wE14",
+    img: "https://img.youtube.com/vi/nU_Ld_7wE14/0.jpg",
+    title: `𝕏𝕄𝔽 𝟚𝟘𝟚𝟞, 𝕨𝕚𝕥𝕙 𝔻𝔸𝕐𝟞 🎸`,
+    tags: ["Shorts", "Behind"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/BkPpRMInypM",
+    img: "https://img.youtube.com/vi/BkPpRMInypM/0.jpg",
+    title: `[DAY6 무리회] DAY6 댄스라인 근황🕺`,
+    tags: ["Shorts", "Variety"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/WmmNsDYaeZE",
+    img: "https://img.youtube.com/vi/WmmNsDYaeZE/0.jpg",
+    title: `[DAY6 무리회] 지독한 도운 사랑단 영케이🫰`,
+    tags: ["Shorts", "Variety"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/4d5fhILeRMQ",
+    img: "https://img.youtube.com/vi/4d5fhILeRMQ/0.jpg",
+    title: `[DAY6 무리회] 보법이 남다른 데식 애교 😘`,
+    tags: ["Shorts", "Variety"]
   },
   
 ]
