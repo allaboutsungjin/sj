@@ -982,6 +982,14 @@ const psj2yaData = [
     title: "Park SungJJIN S2 EP.82",
     desc: `Let's Try the Gen Z Look! ✨`,
     guest: "Guest: -",
+    tags: ["Season 2"]
+    },
+  { 
+    url: "https://www.youtube.com/watch?v=jLIP1Q9KZgM",
+    img: "https://img.youtube.com/vi/jLIP1Q9KZgM/0.jpg",
+    title: "Park SungJJIN S2 EP.83",
+    desc: `Pizza Seolgi? No clue... Who's Han Jeong-seon? 🤷‍♂`,
+    guest: "Guest: -",
     tags: ["Season 2", "Food"]
     },
   { 
@@ -2028,6 +2036,30 @@ const psj2yaData = [
     url: "https://www.youtube.com/shorts/PBZ8GgjhN6w",
     img: "https://img.youtube.com/vi/PBZ8GgjhN6w/0.jpg",
     title: `달걀프라이 먹을 게 🍳( 맛있는 거 ❌)`,
+    tags: ["Season 2", "Food", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/SibG44XuXfg",
+    img: "https://img.youtube.com/vi/SibG44XuXfg/0.jpg",
+    title: `당황이라는 게 숨긴다고 숨겨지는 것도 아니고...💦`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/q4_S_Fzsr10",
+    img: "https://img.youtube.com/vi/q4_S_Fzsr10/0.jpg",
+    title: `과거 옷장이 궁금하다👀`,
+    tags: ["Season 2", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/2FNXp2_NOjs",
+    img: "https://img.youtube.com/vi/2FNXp2_NOjs/0.jpg",
+    title: `새로운 설기 창조👨 🍳`,
+    tags: ["Season 2", "Food", "Shorts"]
+    },
+  { 
+    url: "https://www.youtube.com/shorts/C6gTsDZTUBM",
+    img: "https://img.youtube.com/vi/C6gTsDZTUBM/0.jpg",
+    title: `카메라를 넣고 돌렸어야만...📸`,
     tags: ["Season 2", "Food", "Shorts"]
     },
   
