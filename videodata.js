@@ -7164,6 +7164,73 @@ const groupvData = [
     title: `[DAY6 무리회] 보법이 남다른 데식 애교 😘`,
     tags: ["Shorts", "Variety"]
   },
+  {
+    url: "https://www.youtube.com/watch?v=aDt7Dpbwwqk",
+    img: "https://img.youtube.com/vi/aDt7Dpbwwqk/0.jpg",
+    title: `[데식이들] XMF 2026 비하인드`,
+    tags: ["DAY6s"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=aDt7Dpbwwqk",
+    img: "https://img.youtube.com/vi/aDt7Dpbwwqk/0.jpg",
+    title: `[데식이들] XMF 2026 비하인드`,
+    tags: ["DAY6s", "Behind"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=rFSw1sengjs",
+    img: "https://img.youtube.com/vi/rFSw1sengjs/0.jpg",
+    title: `DAY6(데이식스) 5TH FANMEETING ＜EVERY DAY6, EVERY My Day＞ MD Shooting Sketch 📸`,
+    tags: ["Behind"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=VP2NdNKLtus",
+    img: "https://img.youtube.com/vi/VP2NdNKLtus/0.jpg",
+    title: `DAY6(데이식스) 5TH FANMEETING 〈EVERY DAY6, EVERY My Day〉 Opening VCR`,
+    tags: ["VCR"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=sT4-RgWeMgo",
+    img: "https://img.youtube.com/vi/sT4-RgWeMgo/0.jpg",
+    title: `DAY6(데이식스) 5TH FANMEETING 〈EVERY DAY6, EVERY My Day〉 Bridge VCR`,
+    tags: ["VCR"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=w_RCuuWcB0M",
+    img: "https://img.youtube.com/vi/w_RCuuWcB0M/0.jpg",
+    title: `DAY6(데이식스) 5TH FANMEETING ＜EVERY DAY6, EVERY My Day＞ VCR Making Film`,
+    tags: ["Making"]
+  },
+  {
+    url: "https://www.youtube.com/watch?v=gW0lpmd5N-c",
+    img: "https://img.youtube.com/vi/gW0lpmd5N-c/0.jpg",
+    title: `DAY6(데이식스) 5TH FANMEETING 〈EVERY DAY6, EVERY My Day〉 Ending VCR`,
+    tags: ["VCR"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/0nvRMDJ2wfo",
+    img: "https://img.youtube.com/vi/0nvRMDJ2wfo/0.jpg",
+    title: `My Day의 마음을 훔치러 온 데식파티즈 (｡•̀ᴗ-)✧`,
+    tags: ["Shorts"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/OVNbSp1XSUQ",
+    img: "https://img.youtube.com/vi/OVNbSp1XSUQ/0.jpg",
+    title: `조선시대 왈검투덕소 세계관🌌`,
+    tags: ["Shorts", "VCR"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/V9RG0rKIPgA",
+    img: "https://img.youtube.com/vi/V9RG0rKIPgA/0.jpg",
+    title: `강 사원의 워크숍 회심작, 로데오 머신 🐎`,
+    tags: ["Shorts", "VCR"]
+  },
+  {
+    url: "https://www.youtube.com/shorts/bPus2GI7Nhg",
+    img: "https://img.youtube.com/vi/bPus2GI7Nhg/0.jpg",
+    title: `재밌는 얘기해 주면 무슨 공 던질지 알려주~지`,
+    tags: ["Shorts", "VCR"]
+  },
+  
   
 ]
 
